@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T15:53:30.148548+00:00",
+  "updated": "2026-10-01T15:54:52.766142+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 26,
+  "count": 27,
   "comps": [
     {
       "model": "U25B",
@@ -299,7 +299,7 @@
       "price": 35.0,
       "date": "2026-10-01",
       "ebayId": "820187106430",
-      "note": "1986-era Kato-made, made in Japan, tested runs both directions, lights work, replacement box. Vintage pre-DCC era, no decoder stated. Sold page shows $35.00 final (Best Offer was enabled on the listing).",
+      "note": "1986-era Kato-made, made in Japan, tested runs both directions, lights work, replacement box. DC confirmed by item specifics (Control System: Analog, Power Type: DC). Sold page shows $35.00 final (Best Offer was enabled on the listing; no best-offer-accepted flag). Shipping $9.95 separately.",
       "url": "https://www.ebay.com/itm/820187106430"
     },
     {
@@ -312,7 +312,7 @@
       "price": 20.75,
       "date": "2026-10-01",
       "ebayId": "298717342120",
-      "note": "Used, runs; gray/red/white scheme. Vintage analog-era Athearn, no decoder stated. Shipping was $12.90 separately.",
+      "note": "Used, decent runner; gray/red/white Burlington #244 scheme. DC confirmed by item specifics (Control: Analog, Power Type: DC). Shipping $12.90 separately.",
       "url": "https://www.ebay.com/itm/298717342120"
     },
     {
@@ -325,7 +325,7 @@
       "price": 79.99,
       "date": "2026-10-01",
       "ebayId": "298710259692",
-      "note": "Kato 176-6308, CSX #734, lightly weathered. Title states DC; description says tested in DC and runs. Free shipping.",
+      "note": "Kato 176-6308, CSX #734, lightly weathered, C-7 Excellent. DC stated in title and confirmed by item specifics (Power Type DC, Control System Analog); tested in DC and runs. Free shipping. Clean Buy It Now, no Best Offer.",
       "url": "https://www.ebay.com/itm/298710259692"
     },
     {
@@ -338,8 +338,21 @@
       "price": 51.0,
       "date": "2026-10-01",
       "ebayId": "198618398025",
-      "note": "Atlas stock 4473, Seaboard System #1613. 2-bid auction. Kato-made era, no decoder stated. Seller condition line says PLEASE READ DESCRIPTION.",
+      "note": "Atlas stock 4473, Seaboard System #1613, Kato-made (1989, Japan). 2-bid auction, final price unambiguous. DC confirmed by item specifics (Power Type DC, Control System Analog); bench tested on DC. Seller condition line says PLEASE READ DESCRIPTION. Shipping $13.69 separately.",
       "url": "https://www.ebay.com/itm/198618398025"
+    },
+    {
+      "model": "SD40-2",
+      "brand": "Athearn (blue box)",
+      "scale": "HO",
+      "road": "Montana Rail Link",
+      "control": "DC",
+      "condition": "Used",
+      "price": 57.0,
+      "date": "2026-10-01",
+      "ebayId": "128002650298",
+      "note": "EMD replica, Montana Rail Link #250, excellent cosmetic condition. 1-bid auction, final price unambiguous. Sold Aug 6, 2026. DC stated in title and item specifics (Power Type DC, Control System Analog). Shipping $20.00 separately.",
+      "url": "https://www.ebay.com/itm/128002650298"
     }
   ]
 }
