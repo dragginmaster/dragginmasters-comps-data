@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T15:54:52.766142+00:00",
+  "updated": "2026-10-01T21:59:10Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 27,
+  "count": 28,
   "comps": [
     {
       "model": "U25B",
@@ -353,6 +353,19 @@
       "ebayId": "128002650298",
       "note": "EMD replica, Montana Rail Link #250, excellent cosmetic condition. 1-bid auction, final price unambiguous. Sold Aug 6, 2026. DC stated in title and item specifics (Power Type DC, Control System Analog). Shipping $20.00 separately.",
       "url": "https://www.ebay.com/itm/128002650298"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF (#9839, Swoosh)",
+      "control": "DC",
+      "condition": "Used (C-8 Like New)",
+      "price": 94.95,
+      "date": "2026-10-01",
+      "ebayId": "227531451823",
+      "note": "Kato 176-6309 SD70MAC BNSF Swoosh #9839, DC tested, item specifics Control System: Analog; BIN sold Sep 21, 2026",
+      "url": "https://www.ebay.com/itm/227531451823"
     }
   ]
 }
