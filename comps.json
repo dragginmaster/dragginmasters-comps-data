@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-01T22:08:28Z",
+  "updated": "2026-10-01T22:34:38Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 29,
+  "count": 30,
   "comps": [
     {
       "model": "U25B",
@@ -379,6 +379,19 @@
       "ebayId": "336771654608",
       "note": "Blue box SD40-2 MP #3256, item specifics Control System: Analog / 12V DC; auction 1 bid ended Sep 13, 2026",
       "url": "https://www.ebay.com/itm/336771654608"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF #9779",
+      "control": "DCC",
+      "condition": "New",
+      "price": 127.5,
+      "date": "2026-10-01",
+      "ebayId": "147526902315",
+      "note": "Kato 176-6312-DCC SD70MAC BNSF #9779, factory DCC (Digitrax DN163K1C decoder per case label); auction 28 bids ended Sep 1, 2026",
+      "url": "https://www.ebay.com/itm/147526902315"
     }
   ]
 }
