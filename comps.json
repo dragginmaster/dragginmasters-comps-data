@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T01:10:26Z",
+ "updated": "2026-10-03T01:24:34Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 38,
+ "count": 39,
  "comps": [
   {
    "model": "U25B",
@@ -496,6 +496,19 @@
    "ebayId": "137630236458",
    "note": "Atlas-Kato Japan mfg#4633; 1-bid auction, ended Sep 6 2026; seller GLYNDON TRAIN SHOP",
    "url": "https://www.ebay.com/itm/137630236458"
+  },
+  {
+   "model": "F7A",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Cotton Belt (SSW) #947",
+   "control": "DCC+Sound",
+   "condition": "Used - fully operational, functions as intended",
+   "price": 103.51,
+   "date": "2026-10-02",
+   "ebayId": "178487587577",
+   "note": "Athearn Genesis ATHG12338; 10-bid auction, ended Sep 18 2026",
+   "url": "https://www.ebay.com/itm/178487587577"
   }
  ]
 }
