@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T02:04:37Z",
+ "updated": "2026-10-03T02:18:07Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 41,
+ "count": 42,
  "comps": [
   {
    "model": "U25B",
@@ -535,6 +535,19 @@
    "ebayId": "147559913432",
    "note": "Athearn Genesis ATHG66091 Tsunami 2; Buy It Now (no Best Offer flag), sold Sep 14 2026",
    "url": "https://www.ebay.com/itm/147559913432"
+  },
+  {
+   "model": "U25B",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "New Haven #2509",
+   "control": "DC",
+   "condition": "Used",
+   "price": 45.0,
+   "date": "2026-10-02",
+   "ebayId": "398411173456",
+   "note": "Analog DC per title/description; item specifics Scale field said 1:87 (seller typo, unit is N); 1-bid auction, ended Sep 26 2026",
+   "url": "https://www.ebay.com/itm/398411173456"
   }
  ]
 }
