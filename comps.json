@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T03:44:14Z",
+  "updated": "2026-10-03T04:02:34Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 46,
+  "count": 47,
   "comps": [
     {
       "model": "U25B",
@@ -600,6 +600,19 @@
       "ebayId": "127758060138",
       "note": "KATO 176-CHICAGO N F40PH Chicago Metra #104 'City of Chicago', new, DCC-ready, multi-qty BIN (3 avail, 2 sold Sep 29)",
       "url": "https://www.ebay.com/itm/127758060138"
+    },
+    {
+      "model": "RS-11",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Lehigh Valley",
+      "control": "DCC-ready",
+      "condition": "new",
+      "price": 114.75,
+      "date": "2026-10-02",
+      "ebayId": "198613598891",
+      "note": "Atlas N 40005876 Alco RS-11 Lehigh Valley #7640, new, DCC-ready, multi-qty BIN (2 sold Oct 1)",
+      "url": "https://www.ebay.com/itm/198613598891"
     }
   ]
 }
