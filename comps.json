@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T18:17:14Z",
+ "updated": "2026-10-03T18:29:01Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 53,
+ "count": 54,
  "comps": [
   {
    "model": "U25B",
@@ -691,6 +691,19 @@
    "ebayId": "117427162955",
    "note": "Kato N 176-6301 SD70MAC BNSF #9776, new (C-10 mint), DC, sold Oct 3 (1 bid)",
    "url": "https://www.ebay.com/itm/117427162955"
+  },
+  {
+   "model": "SD70MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "BN",
+   "control": "DC",
+   "condition": "new",
+   "price": 88.0,
+   "date": "2026-10-03",
+   "ebayId": "117392585966",
+   "note": "Kato N 176-6502 SD70MAC BN #9615, new (C-9), DC, sold Sep 12 (4 bids)",
+   "url": "https://www.ebay.com/itm/117392585966"
   }
  ]
 }
