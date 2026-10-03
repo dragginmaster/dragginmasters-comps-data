@@ -743,6 +743,71 @@
    "ebayId": "128018330923",
    "note": "Kato N 176-6041 P42 Amtrak Phase VII #174 Genesis, new, DCC-ready, 1 sold (BIN $112.45)",
    "url": "https://www.ebay.com/itm/128018330923"
+  },
+  {
+   "model": "F40PH",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Amtrak (Phase III, #405)",
+   "control": "DCC-ready",
+   "condition": "new",
+   "price": 96.99,
+   "date": "2026-09-10",
+   "ebayId": "198524346605",
+   "note": "Kato N 176-6109 F40PH Amtrak Phase III #405, new, DCC-ready (no decoder mention), 2 sold (BIN $96.99)",
+   "url": "https://www.ebay.com/itm/198524346605"
+  },
+  {
+   "model": "F40PH",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Chicago Metra (#157 'City of Palatine')",
+   "control": "DCC-ready",
+   "condition": "new",
+   "price": 114.95,
+   "date": "2026-08-30",
+   "ebayId": "128016151884",
+   "note": "Kato N 176-9107 F40PH Chicago Metra City of Palatine #157, new, DCC-ready ('DCC READY FOR YOUR DECODER'), 3 sold (BIN $114.95)",
+   "url": "https://www.ebay.com/itm/128016151884"
+  },
+  {
+   "model": "F40PH",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Amtrak (Phase III, #405)",
+   "control": "DCC-ready",
+   "condition": "new",
+   "price": 99.95,
+   "date": "2026-08-08",
+   "ebayId": "336616638082",
+   "note": "Kato N 176-6109 F40PH Amtrak Phase III #405, new, DCC-ready (title says 'DCC Ready'), 10 sold (BIN $99.95)",
+   "url": "https://www.ebay.com/itm/336616638082"
+  },
+  {
+   "model": "GP35",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Conrail #3625",
+   "control": "DC",
+   "condition": "used",
+   "price": 43.56,
+   "date": "2026-09-22",
+   "ebayId": "198643934761",
+   "note": "Atlas/Kato-made N GP35 Conrail #3625, DC, used, auction sold $43.56 Sep 22",
+   "url": "https://www.ebay.com/itm/198643934761"
+  },
+  {
+   "model": "GP35",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Penn Central #2372",
+   "control": "DC",
+   "condition": "used",
+   "price": 89.0,
+   "date": "2026-09-06",
+   "ebayId": "366617052570",
+   "note": "Atlas Classic N 46568 GP35 Penn Central #2372, 'Runs DC', used w/ box, sold $89.00 Sep 6",
+   "url": "https://www.ebay.com/itm/366617052570"
   }
  ]
 }
