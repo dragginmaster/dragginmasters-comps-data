@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T01:24:34Z",
+ "updated": "2026-10-03T01:37:37Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 39,
+ "count": 40,
  "comps": [
   {
    "model": "U25B",
@@ -509,6 +509,19 @@
    "ebayId": "178487587577",
    "note": "Athearn Genesis ATHG12338; 10-bid auction, ended Sep 18 2026",
    "url": "https://www.ebay.com/itm/178487587577"
+  },
+  {
+   "model": "P42",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "VIA Rail #917",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 63.0,
+   "date": "2026-10-02",
+   "ebayId": "147582745360",
+   "note": "Kato 176-6043 GE P42 Genesis; title says 'Analog DC', item specifics Features: 'DCC Ready'; 11-bid auction, ended Sep 25 2026",
+   "url": "https://www.ebay.com/itm/147582745360"
   }
  ]
 }
