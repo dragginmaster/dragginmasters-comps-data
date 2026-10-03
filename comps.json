@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T04:20:50Z",
+  "updated": "2026-10-03T04:40:41Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 48,
+  "count": 49,
   "comps": [
     {
       "model": "U25B",
@@ -626,6 +626,19 @@
       "ebayId": "158258763709",
       "note": "Athearn HO SW1500 CSX, used-very good, weathered, LED lights, DC, auction 6 bids sold Sep 14",
       "url": "https://www.ebay.com/itm/158258763709"
+    },
+    {
+      "model": "Dash 8-40B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Conrail",
+      "control": "DC",
+      "condition": "new",
+      "price": 85.0,
+      "date": "2026-10-02",
+      "ebayId": "287600558977",
+      "note": "Atlas N Dash 8-40B Conrail (MPN 40005850), new in box, DC, 27-bid auction sold Oct 1",
+      "url": "https://www.ebay.com/itm/287600558977"
     }
   ]
 }
