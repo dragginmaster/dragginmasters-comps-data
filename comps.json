@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T04:40:41Z",
+  "updated": "2026-10-03T04:54:48Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 49,
+  "count": 50,
   "comps": [
     {
       "model": "U25B",
@@ -639,6 +639,19 @@
       "ebayId": "287600558977",
       "note": "Atlas N Dash 8-40B Conrail (MPN 40005850), new in box, DC, 27-bid auction sold Oct 1",
       "url": "https://www.ebay.com/itm/287600558977"
+    },
+    {
+      "model": "AC4400CW",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Canadian Pacific",
+      "control": "DCC+Sound",
+      "condition": "used",
+      "price": 95.0,
+      "date": "2026-10-02",
+      "ebayId": "158196024988",
+      "note": "Kato N 176-7211 AC4400CW CP #9510 w/ ESU LokSound, used, auction 1 bid sold Aug 23",
+      "url": "https://www.ebay.com/itm/158196024988"
     }
   ]
 }
