@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T19:04:43Z",
+ "updated": "2026-10-03T19:10:02Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 55,
+ "count": 56,
  "comps": [
   {
    "model": "U25B",
@@ -717,6 +717,19 @@
    "ebayId": "800366018023",
    "note": "Kato N 176-6039 P42 Amtrak 'Operation Lifesaver' #203, new, DCC-ready, sold Aug 19",
    "url": "https://www.ebay.com/itm/800366018023"
+  },
+  {
+   "model": "P42",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "VIA Rail",
+   "control": "DCC-ready",
+   "condition": "new",
+   "price": 110.95,
+   "date": "2026-10-03",
+   "ebayId": "198554791625",
+   "note": "Kato N 176-6042 P42 VIA Rail #901 Genesis, new, DCC-ready, 1 sold (BIN $110.95)",
+   "url": "https://www.ebay.com/itm/198554791625"
   }
  ]
 }
