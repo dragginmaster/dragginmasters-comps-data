@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T05:15:20Z",
+  "updated": "2026-10-03T05:28:31Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 51,
+  "count": 52,
   "comps": [
     {
       "model": "U25B",
@@ -665,6 +665,19 @@
       "ebayId": "257138561213",
       "note": "Atlas HO Trainman GP38-2 Farmrail #2302 (10004559), new, standard DC, multi-qty BIN (3 sold Sep 23)",
       "url": "https://www.ebay.com/itm/257138561213"
+    },
+    {
+      "model": "C420",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Delaware & Hudson",
+      "control": "DCC+Sound",
+      "condition": "new",
+      "price": 211.98,
+      "date": "2026-10-02",
+      "ebayId": "366688096779",
+      "note": "Atlas N 40006082 Alco C420 D&H Bicentennial #976, new, DCC & Sound, sold Oct 2",
+      "url": "https://www.ebay.com/itm/366688096779"
     }
   ]
 }
