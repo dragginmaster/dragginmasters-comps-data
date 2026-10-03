@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-03T04:54:48Z",
+  "updated": "2026-10-03T05:15:20Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 50,
+  "count": 51,
   "comps": [
     {
       "model": "U25B",
@@ -652,6 +652,19 @@
       "ebayId": "158196024988",
       "note": "Kato N 176-7211 AC4400CW CP #9510 w/ ESU LokSound, used, auction 1 bid sold Aug 23",
       "url": "https://www.ebay.com/itm/158196024988"
+    },
+    {
+      "model": "GP38-2",
+      "brand": "Atlas",
+      "scale": "HO",
+      "road": "Farmrail",
+      "control": "DC",
+      "condition": "new",
+      "price": 130.47,
+      "date": "2026-10-02",
+      "ebayId": "257138561213",
+      "note": "Atlas HO Trainman GP38-2 Farmrail #2302 (10004559), new, standard DC, multi-qty BIN (3 sold Sep 23)",
+      "url": "https://www.ebay.com/itm/257138561213"
     }
   ]
 }
