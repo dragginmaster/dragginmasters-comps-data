@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T02:53:58Z",
+ "updated": "2026-10-03T03:00:32Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 44,
+ "count": 45,
  "comps": [
   {
    "model": "U25B",
@@ -574,6 +574,19 @@
    "ebayId": "327101223464",
    "note": "Kato 1766313, title says 'Standard DC'; fixed-price sale, sold Sep 3 2026 (date per sold-search; page shows out of stock); seller Black Forest Hobby",
    "url": "https://www.ebay.com/itm/327101223464"
+  },
+  {
+   "model": "GP9",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "New York Central #5942",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 199.95,
+   "date": "2026-10-02",
+   "ebayId": "335784202955",
+   "note": "Athearn Genesis G62430, 'DCC Ready'/'DCC plug ready' (item specifics Control System: Analog); fixed-price sale, sold Sep 30 2026; seller Sunrise Trail Hobbies",
+   "url": "https://www.ebay.com/itm/335784202955"
   }
  ]
 }
