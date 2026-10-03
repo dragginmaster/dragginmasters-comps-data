@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-03T18:29:01Z",
+ "updated": "2026-10-03T19:04:43Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 54,
+ "count": 55,
  "comps": [
   {
    "model": "U25B",
@@ -704,6 +704,19 @@
    "ebayId": "117392585966",
    "note": "Kato N 176-6502 SD70MAC BN #9615, new (C-9), DC, sold Sep 12 (4 bids)",
    "url": "https://www.ebay.com/itm/117392585966"
+  },
+  {
+   "model": "P42",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Amtrak",
+   "control": "DCC-ready",
+   "condition": "new",
+   "price": 105.8,
+   "date": "2026-10-03",
+   "ebayId": "800366018023",
+   "note": "Kato N 176-6039 P42 Amtrak 'Operation Lifesaver' #203, new, DCC-ready, sold Aug 19",
+   "url": "https://www.ebay.com/itm/800366018023"
   }
  ]
 }
