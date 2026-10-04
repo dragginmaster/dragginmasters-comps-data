@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T18:12:24Z",
+  "updated": "2026-10-04T18:13:26Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 71,
+  "count": 72,
   "comps": [
     {
       "model": "U25B",
@@ -925,6 +925,19 @@
       "ebayId": "187243871117",
       "note": "Walthers Proto GP9 Phase II standard DC, Walthers item 920-49702",
       "url": "https://www.ebay.com/itm/187243871117"
+    },
+    {
+      "brand": "Proto 2000",
+      "model": "SD60",
+      "scale": "HO",
+      "road": "Kansas City Southern #58706",
+      "control": "DC",
+      "condition": "New",
+      "price": 55.0,
+      "date": "2026-09-30",
+      "ebayId": "800739792606",
+      "note": "Proto 2000 limited edition SD60, single-bid auction",
+      "url": "https://www.ebay.com/itm/800739792606"
     }
   ]
 }
