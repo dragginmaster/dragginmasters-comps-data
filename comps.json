@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T18:11:28Z",
+  "updated": "2026-10-04T18:12:24Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 70,
+  "count": 71,
   "comps": [
     {
       "model": "U25B",
@@ -912,6 +912,19 @@
       "ebayId": "147432805452",
       "note": "Stewart 8101 F3B booster unit, analog DC",
       "url": "https://www.ebay.com/itm/147432805452"
+    },
+    {
+      "brand": "WalthersProto",
+      "model": "GP9",
+      "scale": "HO",
+      "road": "Canadian Pacific #8617",
+      "control": "DC",
+      "condition": "New",
+      "price": 187.99,
+      "date": "2026-09-21",
+      "ebayId": "187243871117",
+      "note": "Walthers Proto GP9 Phase II standard DC, Walthers item 920-49702",
+      "url": "https://www.ebay.com/itm/187243871117"
     }
   ]
 }
