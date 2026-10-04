@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T18:06:29Z",
+  "updated": "2026-10-04T18:08:16Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 67,
+  "count": 68,
   "comps": [
     {
       "model": "U25B",
@@ -873,6 +873,19 @@
       "ebayId": "407165286003",
       "note": "KATO GS-4 Daylight steam w/ tender, runs smooth, original box",
       "url": "https://www.ebay.com/itm/407165286003"
+    },
+    {
+      "brand": "Micro-Trains",
+      "model": "F7",
+      "scale": "N",
+      "road": "Civil War Heritage #1861",
+      "control": "DC",
+      "condition": "Used",
+      "price": 120.0,
+      "date": "2026-09-01",
+      "ebayId": "168648585326",
+      "note": "Micro-Trains 98721671 Civil War Series F7 heritage locomotive, runs well",
+      "url": "https://www.ebay.com/itm/168648585326"
     }
   ]
 }
