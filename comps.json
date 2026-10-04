@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T18:10:00Z",
+  "updated": "2026-10-04T18:11:28Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 69,
+  "count": 70,
   "comps": [
     {
       "model": "U25B",
@@ -899,6 +899,19 @@
       "ebayId": "287520571041",
       "note": "Spectrum 2-8-0 Consolidation steam, like new, test run once, original box",
       "url": "https://www.ebay.com/itm/287520571041"
+    },
+    {
+      "brand": "Stewart Hobbies",
+      "model": "F3B Phase II",
+      "scale": "HO",
+      "road": "Undecorated (gray)",
+      "control": "DC",
+      "condition": "Used",
+      "price": 40.0,
+      "date": "2026-07-20",
+      "ebayId": "147432805452",
+      "note": "Stewart 8101 F3B booster unit, analog DC",
+      "url": "https://www.ebay.com/itm/147432805452"
     }
   ]
 }
