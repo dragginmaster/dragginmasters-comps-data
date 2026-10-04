@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-04T18:04:50Z",
+  "updated": "2026-10-04T18:06:29Z",
   "source": "eBay sold listings, harvested by hand",
-  "count": 66,
+  "count": 67,
   "comps": [
     {
       "model": "U25B",
@@ -860,6 +860,19 @@
       "ebayId": "127674259964",
       "note": "KATO 176-4379 EMD NW2 Switcher, fixed-price multi-quantity listing, 2 sold at listed price",
       "url": "https://www.ebay.com/itm/127674259964"
+    },
+    {
+      "brand": "Kato",
+      "model": "GS-4 4-8-4",
+      "scale": "N",
+      "road": "Southern Pacific #4454",
+      "control": "DC",
+      "condition": "Used",
+      "price": 200.0,
+      "date": "2026-08-27",
+      "ebayId": "407165286003",
+      "note": "KATO GS-4 Daylight steam w/ tender, runs smooth, original box",
+      "url": "https://www.ebay.com/itm/407165286003"
     }
   ]
 }
