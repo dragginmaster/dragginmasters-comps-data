@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T10:04:02.380218+00:00",
+  "updated": "2026-10-06T10:20:59.304992+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 91,
+  "count": 97,
   "comps": [
     {
       "model": "U25B",
@@ -1185,6 +1185,84 @@
       "ebayId": "800724969182",
       "note": "DC Analog item #21699, new-other",
       "url": "https://www.ebay.com/itm/800724969182"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF #9799 Executive",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 269.0,
+      "date": "2026-10-06",
+      "ebayId": "236841028403",
+      "note": "176-6313-S DCC/Sound new",
+      "url": "https://www.ebay.com/itm/236841028403"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF #9779 Executive",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 269.0,
+      "date": "2026-10-06",
+      "ebayId": "366437892241",
+      "note": "176-6312-S DCC/Sound new C-10",
+      "url": "https://www.ebay.com/itm/366437892241"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Burlington Northern #9662",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 130.0,
+      "date": "2026-10-06",
+      "ebayId": "398162650215",
+      "note": "176-6506 DCC Sound used",
+      "url": "https://www.ebay.com/itm/398162650215"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF #9779",
+      "control": "DCC",
+      "condition": "New",
+      "price": 102.5,
+      "date": "2026-10-06",
+      "ebayId": "137596474392",
+      "note": "176-6312-DCC auction 15 bids, Digitrax DN163K1C",
+      "url": "https://www.ebay.com/itm/137596474392"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Alaska Railroad #4328 100th Anniversary",
+      "control": "DCC",
+      "condition": "New",
+      "price": 209.99,
+      "date": "2026-10-06",
+      "ebayId": "257468358225",
+      "note": "176-6412DCC multi-qty BIN, 1 sold at list price",
+      "url": "https://www.ebay.com/itm/257468358225"
+    },
+    {
+      "model": "SD70MAC",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Burlington Northern Executive #9580",
+      "control": "DCC",
+      "condition": "New",
+      "price": 139.44,
+      "date": "2026-10-06",
+      "ebayId": "227444553234",
+      "note": "DCC Silent, sold AU $200.00 auction 1 bid (~US $139.44)",
+      "url": "https://www.ebay.com/itm/227444553234"
     }
   ]
 }
