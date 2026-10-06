@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-06T10:20:59.304992+00:00",
+  "updated": "2026-10-06T17:24:26.062680+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 97,
+  "count": 101,
   "comps": [
     {
       "model": "U25B",
@@ -1263,6 +1263,58 @@
       "ebayId": "227444553234",
       "note": "DCC Silent, sold AU $200.00 auction 1 bid (~US $139.44)",
       "url": "https://www.ebay.com/itm/227444553234"
+    },
+    {
+      "model": "GS-4 4-8-4",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Southern Pacific Lines #4449",
+      "control": "DC",
+      "condition": "New",
+      "price": 199.99,
+      "date": "2026-10-06",
+      "ebayId": "189042727224",
+      "note": "DC Analog, MINT LN new-other",
+      "url": "https://www.ebay.com/itm/189042727224"
+    },
+    {
+      "model": "NW2",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "ATSF Santa Fe #2414",
+      "control": "DC",
+      "condition": "New",
+      "price": 75.87,
+      "date": "2026-10-06",
+      "ebayId": "198664960189",
+      "note": "DC, brand new, 18-bid auction",
+      "url": "https://www.ebay.com/itm/198664960189"
+    },
+    {
+      "model": "F7A",
+      "brand": "Broadway Limited",
+      "scale": "HO",
+      "road": "Rock Island #115",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 254.98,
+      "date": "2026-10-06",
+      "ebayId": "136291314271",
+      "note": "8202 Sound and DCC, C-10 new",
+      "url": "https://www.ebay.com/itm/136291314271"
+    },
+    {
+      "model": "GP9",
+      "brand": "WalthersProto",
+      "scale": "HO",
+      "road": "Chicago & North Western #4557",
+      "control": "DC",
+      "condition": "New",
+      "price": 212.48,
+      "date": "2026-10-06",
+      "ebayId": "257535610881",
+      "note": "DC new, dealer multi-qty, 2 sold at list price",
+      "url": "https://www.ebay.com/itm/257535610881"
     }
   ]
 }
