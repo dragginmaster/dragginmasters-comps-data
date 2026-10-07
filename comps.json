@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T14:00:58Z",
+ "updated": "2026-10-07T23:30:42Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 121,
+ "count": 128,
  "comps": [
   {
    "model": "U25B",
@@ -1575,6 +1575,97 @@
    "ebayId": "205139500976",
    "note": "NIB, DC Analog",
    "url": "https://www.ebay.com/itm/205139500976"
+  },
+  {
+   "model": "NW2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Burlington Northern #534",
+   "control": "DC",
+   "condition": "New",
+   "price": 97.95,
+   "date": "2026-09-19",
+   "ebayId": "358134917184",
+   "note": "Standard DC",
+   "url": "https://www.ebay.com/itm/358134917184"
+  },
+  {
+   "model": "GS-4 4-8-4",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific #4433",
+   "control": "DC",
+   "condition": "New",
+   "price": 189.99,
+   "date": "2026-07-27",
+   "ebayId": "405646806808",
+   "note": "DC Analog; 2-qty fixed-price listing, both sold",
+   "url": "https://www.ebay.com/itm/405646806808"
+  },
+  {
+   "model": "GS-4 4-8-4",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific #4445",
+   "control": "DC",
+   "condition": "New",
+   "price": 207.95,
+   "date": "2026-08-05",
+   "ebayId": "127967840591",
+   "note": "DC; item specifics: STANDARD DC",
+   "url": "https://www.ebay.com/itm/127967840591"
+  },
+  {
+   "model": "F7A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Santa Fe (ATSF) Warbonnet #300",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 227.5,
+   "date": "2026-09-23",
+   "ebayId": "377507220178",
+   "note": "3-bid auction; ESU LokSound label in listing photo; 176-2121 factory sound SKU",
+   "url": "https://www.ebay.com/itm/377507220178"
+  },
+  {
+   "model": "SD70MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "BNSF #9647",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 81.0,
+   "date": "2026-07-24",
+   "ebayId": "137522908505",
+   "note": "23-bid auction; DC/DCC READY",
+   "url": "https://www.ebay.com/itm/137522908505"
+  },
+  {
+   "ebayId": "267742391868",
+   "model": "SD70MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "CSX YN2 #727",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 84.99,
+   "date": "2026-08-22",
+   "note": "Weathered",
+   "url": "https://www.ebay.com/itm/267742391868"
+  },
+  {
+   "ebayId": "327348036819",
+   "model": "GP38-2",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "GATX Leasing GMTX #2344",
+   "control": "DC",
+   "condition": "Used",
+   "price": 80.0,
+   "date": "2026-09-13",
+   "note": "Trainman, Standard DC; 1-bid auction",
+   "url": "https://www.ebay.com/itm/327348036819"
   }
  ]
 }
