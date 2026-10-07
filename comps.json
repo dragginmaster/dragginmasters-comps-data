@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-07T00:11:59Z",
+ "updated": "2026-10-07T14:00:58Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 111,
+ "count": 121,
  "comps": [
   {
    "model": "U25B",
@@ -1445,6 +1445,136 @@
    "ebayId": "168741004346",
    "note": "Blue Box, tested",
    "url": "https://www.ebay.com/itm/168741004346"
+  },
+  {
+   "model": "NW2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific #1032",
+   "control": "DC",
+   "condition": "New",
+   "price": 104.49,
+   "date": "2026-10-06",
+   "ebayId": "146321584198",
+   "note": "DC only; multi-quantity dealer, 9 sold",
+   "url": "https://www.ebay.com/itm/146321584198"
+  },
+  {
+   "model": "F7A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Santa Fe #300 (Warbonnet)",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 160.0,
+   "date": "2026-07-18",
+   "ebayId": "147445822019",
+   "note": "DCC ESU LokSound, sound confirmed in description",
+   "url": "https://www.ebay.com/itm/147445822019"
+  },
+  {
+   "model": "SD40-2",
+   "brand": "InterMountain",
+   "scale": "N",
+   "road": "Santa Fe #5075",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 169.99,
+   "date": "2026-08-06",
+   "ebayId": "298556403306",
+   "note": "factory DCC & sound; was $279.95",
+   "url": "https://www.ebay.com/itm/298556403306"
+  },
+  {
+   "model": "GP38",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Santa Fe #3520",
+   "control": "DCC",
+   "condition": "New (Other)",
+   "price": 129.99,
+   "date": "2026-09-19",
+   "ebayId": "377331990544",
+   "note": "factory DCC equipped, non-sound",
+   "url": "https://www.ebay.com/itm/377331990544"
+  },
+  {
+   "model": "GS-4 4-8-4",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "BNSF #4449",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 599.95,
+   "date": "2026-07-22",
+   "ebayId": "205871473783",
+   "note": "DCC LokSound, C-8 Like New",
+   "url": "https://www.ebay.com/itm/205871473783"
+  },
+  {
+   "model": "F7A",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Denver & Rio Grande Western #5604",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 225.0,
+   "date": "2026-07-15",
+   "ebayId": "206391169005",
+   "note": "Paragon3",
+   "url": "https://www.ebay.com/itm/206391169005"
+  },
+  {
+   "model": "GP20",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Toledo, Peoria & Western #2003",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 212.95,
+   "date": "2026-09-22",
+   "ebayId": "127992537717",
+   "note": "Paragon4",
+   "url": "https://www.ebay.com/itm/127992537717"
+  },
+  {
+   "model": "GP9",
+   "brand": "WalthersProto",
+   "scale": "HO",
+   "road": "Chicago & North Western #4554",
+   "control": "DC",
+   "condition": "New",
+   "price": 212.48,
+   "date": "2026-09-21",
+   "ebayId": "257535610158",
+   "note": "Standard DC; 2 sold",
+   "url": "https://www.ebay.com/itm/257535610158"
+  },
+  {
+   "model": "GP9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Central Vermont (no number)",
+   "control": "DC",
+   "condition": "New (Other)",
+   "price": 59.0,
+   "date": "2026-10-03",
+   "ebayId": "800733386532",
+   "note": "GP9II, DC Analog",
+   "url": "https://www.ebay.com/itm/800733386532"
+  },
+  {
+   "model": "SD60",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "CSX #8700",
+   "control": "DC",
+   "condition": "New",
+   "price": 90.0,
+   "date": "2026-10-04",
+   "ebayId": "205139500976",
+   "note": "NIB, DC Analog",
+   "url": "https://www.ebay.com/itm/205139500976"
   }
  ]
 }
