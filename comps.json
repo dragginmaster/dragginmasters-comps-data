@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T17:56:55Z",
+ "updated": "2026-10-08T21:20:10Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 131,
+ "count": 136,
  "comps": [
   {
    "model": "U25B",
@@ -1705,6 +1705,71 @@
    "date": "2026-07-17",
    "note": "DC Powered stated in title",
    "url": "https://www.ebay.com/itm/168307115687"
+  },
+  {
+   "ebayId": "800262499436",
+   "model": "GS-4 4-8-4",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific #4445 Black Postwar",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 325.0,
+   "date": "2026-07-23",
+   "note": "126-0309; title states DCC Sound",
+   "url": "https://www.ebay.com/itm/800262499436"
+  },
+  {
+   "ebayId": "318914466540",
+   "model": "GP9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Union Pacific #284",
+   "control": "DC",
+   "condition": "Used",
+   "price": 42.05,
+   "date": "2026-10-01",
+   "note": "9-bid auction; box art reads GP9 II, seller titled GP-9; DC Powered",
+   "url": "https://www.ebay.com/itm/318914466540"
+  },
+  {
+   "ebayId": "278350650150",
+   "model": "SD40-2",
+   "brand": "InterMountain",
+   "scale": "N",
+   "road": "Union Pacific #3367",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 122.5,
+   "date": "2026-09-15",
+   "note": "Title states DCC Sound ESU LokPilot; item-specifics dropdowns mismatched (DC/Analog)",
+   "url": "https://www.ebay.com/itm/278350650150"
+  },
+  {
+   "ebayId": "377331956209",
+   "model": "GP38",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Santa Fe #3501",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 99.99,
+   "date": "2026-07-30",
+   "note": "Factory DCC Equipped; weathered by previous owner; dropdowns mismatched",
+   "url": "https://www.ebay.com/itm/377331956209"
+  },
+  {
+   "ebayId": "198660191193",
+   "model": "SD60",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "EMD #8302",
+   "control": "DC",
+   "condition": "Used",
+   "price": 60.0,
+   "date": "2026-09-23",
+   "note": "Power Type DC",
+   "url": "https://www.ebay.com/itm/198660191193"
   }
  ]
 }
