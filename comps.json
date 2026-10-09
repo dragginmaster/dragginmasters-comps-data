@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-08T21:20:10Z",
+ "updated": "2026-10-09T12:01:08Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 136,
+ "count": 139,
  "comps": [
   {
    "model": "U25B",
@@ -1770,6 +1770,45 @@
    "date": "2026-09-23",
    "note": "Power Type DC",
    "url": "https://www.ebay.com/itm/198660191193"
+  },
+  {
+   "ebayId": "136458193105",
+   "model": "U28B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Norfolk Western",
+   "control": "DC",
+   "condition": "Used",
+   "price": 35.95,
+   "date": "2026-08-25",
+   "note": "Seller notes: DC powered, runs; brass flywheels/motor",
+   "url": "https://www.ebay.com/itm/136458193105"
+  },
+  {
+   "ebayId": "800288133918",
+   "model": "U28B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Western Pacific #3403",
+   "control": "DC",
+   "condition": "New",
+   "price": 45.0,
+   "date": "2026-08-31",
+   "note": "Title states DC Analog; buyer feedback: runs perfectly",
+   "url": "https://www.ebay.com/itm/800288133918"
+  },
+  {
+   "ebayId": "298534175840",
+   "model": "U28B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Western Pacific #754",
+   "control": "DC",
+   "condition": "New: Other",
+   "price": 96.0,
+   "date": "2026-08-04",
+   "note": "Brand new old stock, box wear; Control: Analog",
+   "url": "https://www.ebay.com/itm/298534175840"
   }
  ]
 }
