@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-09T12:01:08Z",
+ "updated": "2026-10-09T15:40:33Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 139,
+ "count": 142,
  "comps": [
   {
    "model": "U25B",
@@ -1809,6 +1809,45 @@
    "date": "2026-08-04",
    "note": "Brand new old stock, box wear; Control: Analog",
    "url": "https://www.ebay.com/itm/298534175840"
+  },
+  {
+   "ebayId": "267765448260",
+   "model": "GP38-2",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Norfolk Southern #5354",
+   "control": "DC",
+   "condition": "New",
+   "price": 100.0,
+   "date": "2026-08-27",
+   "note": "Title: Silver GP38-2 PH II, DC; MPN 40004824",
+   "url": "https://www.ebay.com/itm/267765448260"
+  },
+  {
+   "ebayId": "198504789559",
+   "model": "SD40-2",
+   "brand": "InterMountain",
+   "scale": "N",
+   "road": "Burlington Northern #6332",
+   "control": "DC",
+   "condition": "New",
+   "price": 160.69,
+   "date": "2026-07-31",
+   "note": "MPN 69321-05; item specifics Control: DC (photo shows #6325, filed per title)",
+   "url": "https://www.ebay.com/itm/198504789559"
+  },
+  {
+   "ebayId": "800288173791",
+   "model": "U28B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Norfolk and Western #1903",
+   "control": "DC",
+   "condition": "New",
+   "price": 45.0,
+   "date": "2026-10-03",
+   "note": "Title states DC Analog; BIN sold at listed price",
+   "url": "https://www.ebay.com/itm/800288173791"
   }
  ]
 }
