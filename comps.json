@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T23:11:27Z",
+ "updated": "2026-10-10T23:57:08Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 167,
+ "count": 168,
  "comps": [
   {
    "model": "U25B",
@@ -2173,6 +2173,19 @@
    "ebayId": "336676790413",
    "note": "18-bid auction, MPN 140-4617",
    "url": "https://www.ebay.com/itm/336676790413"
+  },
+  {
+   "model": "GP9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad (PRR)",
+   "control": "DC",
+   "condition": "Used (TESTED, running video)",
+   "price": 49.99,
+   "date": "2026-10-10",
+   "ebayId": "377255927746",
+   "note": "Fixed-price sale, GP9 Phase III",
+   "url": "https://www.ebay.com/itm/377255927746"
   }
  ]
 }
