@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-09T15:40:33Z",
+ "updated": "2026-10-10T00:26:54Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 142,
+ "count": 143,
  "comps": [
   {
    "model": "U25B",
@@ -1848,6 +1848,19 @@
    "date": "2026-10-03",
    "note": "Title states DC Analog; BIN sold at listed price",
    "url": "https://www.ebay.com/itm/800288173791"
+  },
+  {
+   "ebayId": "398301852093",
+   "model": "U28B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Georgia Central #1004",
+   "control": "DC",
+   "condition": "Used",
+   "price": 40.0,
+   "date": "2026-08-23",
+   "note": "Custom painted; title states DC, item specifics Control System: Analog; seller: runs, could use motor oiled",
+   "url": "https://www.ebay.com/itm/398301852093"
   }
  ]
 }
