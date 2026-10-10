@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T14:15:40Z",
+ "updated": "2026-10-10T15:52:12Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 153,
+ "count": 163,
  "comps": [
   {
    "model": "U25B",
@@ -1991,6 +1991,136 @@
    "date": "2026-08-29",
    "note": "Blue box; title DC, specifics Control System Analog; 'Tested NO box'",
    "url": "https://www.ebay.com/itm/178397041196"
+  },
+  {
+   "ebayId": "189020855993",
+   "model": "USRA Heavy Mikado 2-8-2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific #376",
+   "control": "DC",
+   "condition": "Used",
+   "price": 139.99,
+   "date": "2026-10-07",
+   "note": "Kato 126-0100; specifics Power Type DC, Control System Analog; title 'Tested'",
+   "url": "https://www.ebay.com/itm/189020855993"
+  },
+  {
+   "ebayId": "800597569872",
+   "model": "USRA Light Mikado 2-8-2",
+   "brand": "Broadway Limited",
+   "scale": "N",
+   "road": "Union Pacific #2490",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 135.0,
+   "date": "2026-09-01",
+   "note": "BLI 5730; title DCC Sound, specifics Control System Digital, Sound Function, DCC fitted; 'Runs & sounds good!'",
+   "url": "https://www.ebay.com/itm/800597569872"
+  },
+  {
+   "ebayId": "128015564061",
+   "model": "2-8-0 Consolidation",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Western Maryland #763",
+   "control": "DC",
+   "condition": "Used",
+   "price": 129.95,
+   "date": "2026-09-06",
+   "note": "Baldwin 2-8-0; title DC, specifics Power Type DC, Control System Analog; 'Excellent Condition - Runs Great'",
+   "url": "https://www.ebay.com/itm/128015564061"
+  },
+  {
+   "ebayId": "257391347612",
+   "model": "2-8-0 Consolidation",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Maine Central #516",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 449.99,
+   "date": "2026-08-25",
+   "note": "Title 'DCC w/Sound'; 'Tested and working order'",
+   "url": "https://www.ebay.com/itm/257391347612"
+  },
+  {
+   "ebayId": "147350537231",
+   "model": "2-10-0 Decapod",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "Susquehanna #2443",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 225.0,
+   "date": "2026-10-01",
+   "note": "Spectrum MPN 84306; title SOUND&DCC, Features DCC fitted, Sound Function; test run only",
+   "url": "https://www.ebay.com/itm/147350537231"
+  },
+  {
+   "ebayId": "198601722233",
+   "model": "4-6-2 Pacific",
+   "brand": "IHC",
+   "scale": "HO",
+   "road": "Lehigh Valley #2022",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 180.0,
+   "date": "2026-09-08",
+   "note": "IHC (Mehano) Asa Packer; title DCC Sound, specifics DCC Sound Decoder; 'DCC tested runs and lights great'",
+   "url": "https://www.ebay.com/itm/198601722233"
+  },
+  {
+   "ebayId": "298727579353",
+   "model": "0-8-0",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Chesapeake & Ohio #361",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 205.99,
+   "date": "2026-10-09",
+   "note": "Title DCC Sound, specifics Control System Digital; tested on DCC layout, TCS Keep-Alive; 1-bid auction",
+   "url": "https://www.ebay.com/itm/298727579353"
+  },
+  {
+   "ebayId": "147565150784",
+   "model": "2-8-2 Mikado",
+   "brand": "Mantua",
+   "scale": "HO",
+   "road": "B&O #4618",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 75.0,
+   "date": "2026-09-17",
+   "note": "Title DCC Sound, 'Tested Works'; 22-bid auction",
+   "url": "https://www.ebay.com/itm/147565150784"
+  },
+  {
+   "ebayId": "389965167503",
+   "model": "4-6-2 Heavy Pacific",
+   "brand": "Rivarossi",
+   "scale": "HO",
+   "road": "Santa Fe #3423",
+   "control": "DC",
+   "condition": "Used",
+   "price": 145.0,
+   "date": "2026-09-10",
+   "note": "Rivarossi 5407; title DC, specifics Power Type DC, Control System Analog; 'Test Ran only'",
+   "url": "https://www.ebay.com/itm/389965167503"
+  },
+  {
+   "ebayId": "800710429551",
+   "model": "4-6-0 Ten-Wheeler",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "Southern #1004",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 250.0,
+   "date": "2026-10-01",
+   "note": "Title 'Dcc sound', specifics Control System DCC SOUND; 'Excellent condition, only ran a few times'",
+   "url": "https://www.ebay.com/itm/800710429551"
   }
  ]
 }
