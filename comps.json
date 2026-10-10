@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T13:29:23Z",
+ "updated": "2026-10-10T14:15:40Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 147,
+ "count": 153,
  "comps": [
   {
    "model": "U25B",
@@ -1913,6 +1913,84 @@
    "date": "2026-10-03",
    "note": "Title: DC Powered, Tested; specifics Control System Analog",
    "url": "https://www.ebay.com/itm/168636406672"
+  },
+  {
+   "ebayId": "800507535706",
+   "model": "E8A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Chicago & Northwestern #5021B",
+   "control": "DC",
+   "condition": "Used",
+   "price": 95.0,
+   "date": "2026-09-16",
+   "note": "Kato 176-5361; title DC, specifics Control System Analog; lightly used",
+   "url": "https://www.ebay.com/itm/800507535706"
+  },
+  {
+   "ebayId": "327302625280",
+   "model": "E7A",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Chicago Northwestern #5009A",
+   "control": "DC",
+   "condition": "Used",
+   "price": 45.49,
+   "date": "2026-08-21",
+   "note": "Proto 2000 item 21060; title DC; 'Runs Good Lights Work'",
+   "url": "https://www.ebay.com/itm/327302625280"
+  },
+  {
+   "ebayId": "198639045553",
+   "model": "SD40T-2",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Southern Pacific #8322",
+   "control": "DC",
+   "condition": "Used",
+   "price": 34.99,
+   "date": "2026-10-08",
+   "note": "Tunnel motor; specifics Power Type DC, Control System Analog; 'Lighted Tested Works'",
+   "url": "https://www.ebay.com/itm/198639045553"
+  },
+  {
+   "ebayId": "377500701854",
+   "model": "RS-3",
+   "brand": "Atlas (Classic)",
+   "scale": "HO",
+   "road": "Erie #918",
+   "control": "DC",
+   "condition": "New: Other",
+   "price": 115.0,
+   "date": "2026-09-18",
+   "note": "Atlas Classics; specifics Power Type DC, Control System Analog; 'runs well', box included",
+   "url": "https://www.ebay.com/itm/377500701854"
+  },
+  {
+   "ebayId": "168575705482",
+   "model": "GP30",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad #2234",
+   "control": "DC",
+   "condition": "Used",
+   "price": 61.96,
+   "date": "2026-10-08",
+   "note": "Title 'DC Powered'; 'Tested'",
+   "url": "https://www.ebay.com/itm/168575705482"
+  },
+  {
+   "ebayId": "178397041196",
+   "model": "PA-1",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "New York Central",
+   "control": "DC",
+   "condition": "Used",
+   "price": 21.99,
+   "date": "2026-08-29",
+   "note": "Blue box; title DC, specifics Control System Analog; 'Tested NO box'",
+   "url": "https://www.ebay.com/itm/178397041196"
   }
  ]
 }
