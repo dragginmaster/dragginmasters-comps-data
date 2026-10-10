@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T00:26:54Z",
+ "updated": "2026-10-10T13:29:23Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 143,
+ "count": 147,
  "comps": [
   {
    "model": "U25B",
@@ -1861,6 +1861,58 @@
    "date": "2026-08-23",
    "note": "Custom painted; title states DC, item specifics Control System: Analog; seller: runs, could use motor oiled",
    "url": "https://www.ebay.com/itm/398301852093"
+  },
+  {
+   "ebayId": "287483754948",
+   "model": "GP38",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "HLCX (Helm Financial) #3626",
+   "control": "DCC",
+   "condition": "New",
+   "price": 110.5,
+   "date": "2026-08-01",
+   "note": "Low nose; title DCC, specifics Control System Digital, DCC fitted; 7-bid auction",
+   "url": "https://www.ebay.com/itm/287483754948"
+  },
+  {
+   "ebayId": "205856089179",
+   "model": "SD40-2",
+   "brand": "InterMountain",
+   "scale": "N",
+   "road": "GATX Leasing #7367",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 249.95,
+   "date": "2026-10-09",
+   "note": "ESU DCC LokSound equipped; specifics Control System Digital, Sound Function",
+   "url": "https://www.ebay.com/itm/205856089179"
+  },
+  {
+   "ebayId": "318451284590",
+   "model": "GP38-2",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Conrail #8276",
+   "control": "DC",
+   "condition": "New",
+   "price": 60.0,
+   "date": "2026-10-05",
+   "note": "Specifics Power Type DC, Control System Analog",
+   "url": "https://www.ebay.com/itm/318451284590"
+  },
+  {
+   "ebayId": "168636406672",
+   "model": "F7A",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Northern Pacific #6011A",
+   "control": "DC",
+   "condition": "Used",
+   "price": 44.99,
+   "date": "2026-10-03",
+   "note": "Title: DC Powered, Tested; specifics Control System Analog",
+   "url": "https://www.ebay.com/itm/168636406672"
   }
  ]
 }
