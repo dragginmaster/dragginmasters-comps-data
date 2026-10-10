@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-10T22:22:47Z",
+ "updated": "2026-10-10T23:09:22Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 165,
+ "count": 166,
  "comps": [
   {
    "model": "U25B",
@@ -2147,6 +2147,19 @@
    "ebayId": "287550608363",
    "note": "ESU Loksound DCC, MPN 69346S-04, fixed-price sale",
    "url": "https://www.ebay.com/itm/287550608363"
+  },
+  {
+   "model": "F7A",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Penn Central #1602",
+   "control": "DC",
+   "condition": "Used (fully operational, powered unit)",
+   "price": 22.5,
+   "date": "2026-10-10",
+   "ebayId": "336805110577",
+   "note": "10-bid auction",
+   "url": "https://www.ebay.com/itm/336805110577"
   }
  ]
 }
