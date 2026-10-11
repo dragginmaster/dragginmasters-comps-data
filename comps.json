@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:44:19Z",
+ "updated": "2026-10-11T12:46:13Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 192,
+ "count": 193,
  "comps": [
   {
    "model": "U25B",
@@ -2498,6 +2498,19 @@
    "ebayId": "267744388963",
    "note": "fixed-price at list, Digitrax silent decoder",
    "url": "https://www.ebay.com/itm/267744388963"
+  },
+  {
+   "model": "NW2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific #1008",
+   "control": "DCC",
+   "condition": "Used (tested, see video for working)",
+   "price": 129.99,
+   "date": "2026-10-11",
+   "ebayId": "128015584939",
+   "note": "Buy It Now at list, Digitrax decoder",
+   "url": "https://www.ebay.com/itm/128015584939"
   }
  ]
 }
