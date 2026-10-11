@@ -2992,6 +2992,84 @@
    "ebayId": "227539871020",
    "note": "Bachmann 66453.",
    "url": "https://www.ebay.com/itm/227539871020"
+  },
+  {
+   "model": "ALCO RS3",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Pennsylvania #5604",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 79.0,
+   "date": "2026-08-31",
+   "ebayId": "127972201077",
+   "note": "Bachmann 64255. No box.",
+   "url": "https://www.ebay.com/itm/127972201077"
+  },
+  {
+   "model": "S4",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DCC",
+   "condition": "New",
+   "price": 105.0,
+   "date": "2026-08-15",
+   "ebayId": "800507984187",
+   "note": "Road number not stated.",
+   "url": "https://www.ebay.com/itm/800507984187"
+  },
+  {
+   "model": "S4",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Western Maryland #145",
+   "control": "DCC",
+   "condition": "New",
+   "price": 85.0,
+   "date": "2026-08-08",
+   "ebayId": "298551068381",
+   "note": "Bachmann 63151. NIB.",
+   "url": "https://www.ebay.com/itm/298551068381"
+  },
+  {
+   "model": "SD45",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Santa Fe #5320",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 125.0,
+   "date": "2026-08-26",
+   "ebayId": "820035984924",
+   "note": "Bachmann 66454. New (other), open box.",
+   "url": "https://www.ebay.com/itm/820035984924"
+  },
+  {
+   "model": "SD45",
+   "brand": "Bachmann Spectrum",
+   "scale": "N",
+   "road": "Undecorated",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 69.95,
+   "date": "2026-09-19",
+   "ebayId": "336434470346",
+   "note": "Bachmann Spectrum 82751. Tested. Seller relisted; page shows 1 sold at $69.95.",
+   "url": "https://www.ebay.com/itm/336434470346"
+  },
+  {
+   "model": "SD45",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DCC",
+   "condition": "New",
+   "price": 49.95,
+   "date": "2026-08-08",
+   "ebayId": "327294027089",
+   "note": "2-bid auction. Road number not stated. New (other).",
+   "url": "https://www.ebay.com/itm/327294027089"
   }
  ]
 }
