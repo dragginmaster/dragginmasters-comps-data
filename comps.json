@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T01:04:09Z",
+ "updated": "2026-10-11T01:05:25Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 185,
+ "count": 186,
  "comps": [
   {
    "model": "U25B",
@@ -2407,6 +2407,19 @@
    "ebayId": "206564608325",
    "note": "fixed-price at list, DC analog",
    "url": "https://www.ebay.com/itm/206564608325"
+  },
+  {
+   "model": "GP30",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad #2234",
+   "control": "DC",
+   "condition": "Used (tested)",
+   "price": 43.73,
+   "date": "2026-10-10",
+   "ebayId": "168588680840",
+   "note": "fixed-price at list, DC analog",
+   "url": "https://www.ebay.com/itm/168588680840"
   }
  ]
 }
