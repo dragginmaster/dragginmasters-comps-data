@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:06:48Z",
+ "updated": "2026-10-11T00:08:22Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 171,
+ "count": 172,
  "comps": [
   {
    "model": "U25B",
@@ -2225,6 +2225,19 @@
    "ebayId": "158243366172",
    "note": "Listed C$200.00 (approx US$140.28); aftermarket DCC/Sound decoder; 1-bid auction",
    "url": "https://www.ebay.com/itm/158243366172"
+  },
+  {
+   "model": "PA-1",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Baltimore and Ohio (B&O)",
+   "control": "DC",
+   "condition": "Used (tested, w/ box)",
+   "price": 29.0,
+   "date": "2026-10-10",
+   "ebayId": "267760967400",
+   "note": "Fixed-price sale, MPN 3302",
+   "url": "https://www.ebay.com/itm/267760967400"
   }
  ]
 }
