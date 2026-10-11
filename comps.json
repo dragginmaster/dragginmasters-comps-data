@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:54:25Z",
+ "updated": "2026-10-11T12:58:49Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 194,
+ "count": 195,
  "comps": [
   {
    "model": "U25B",
@@ -2524,6 +2524,19 @@
    "ebayId": "198583160267",
    "note": "9-bid auction, factory ESU sound & DCC",
    "url": "https://www.ebay.com/itm/198583160267"
+  },
+  {
+   "model": "E8A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Amtrak #4316",
+   "control": "DCC",
+   "condition": "New: Other (decoder-tested after install)",
+   "price": 75.0,
+   "date": "2026-10-11",
+   "ebayId": "257706378919",
+   "note": "1-bid auction, DCC equipped, Day One livery",
+   "url": "https://www.ebay.com/itm/257706378919"
   }
  ]
 }
