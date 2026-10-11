@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T13:48:18Z",
+ "updated": "2026-10-11T13:50:44Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 198,
+ "count": 199,
  "comps": [
   {
    "model": "U25B",
@@ -2576,6 +2576,19 @@
    "ebayId": "158243366174",
    "note": "2-bid auction, aftermarket DCC/Sound",
    "url": "https://www.ebay.com/itm/158243366174"
+  },
+  {
+   "model": "SD90/43MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific (custom paint)",
+   "control": "DCC",
+   "condition": "Used (runs)",
+   "price": 82.0,
+   "date": "2026-10-11",
+   "ebayId": "206462991399",
+   "note": "11-bid auction, plain DCC no sound",
+   "url": "https://www.ebay.com/itm/206462991399"
   }
  ]
 }
