@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T14:02:05Z",
+ "updated": "2026-10-11T14:16:29Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 200,
+ "count": 201,
  "comps": [
   {
    "model": "U25B",
@@ -2602,6 +2602,19 @@
    "ebayId": "287539245989",
    "note": "fixed-price at list, ESU LokSound",
    "url": "https://www.ebay.com/itm/287539245989"
+  },
+  {
+   "model": "E8A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Santa Fe (ATSF) #82",
+   "control": "DC",
+   "condition": "Used (good runner, quiet, dual headlights)",
+   "price": 78.0,
+   "date": "2026-10-11",
+   "ebayId": "257743101865",
+   "note": "Buy It Now at list",
+   "url": "https://www.ebay.com/itm/257743101865"
   }
  ]
 }
