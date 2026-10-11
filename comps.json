@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:50:19Z",
+ "updated": "2026-10-11T00:52:33Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 180,
+ "count": 181,
  "comps": [
   {
    "model": "U25B",
@@ -2342,6 +2342,19 @@
    "ebayId": "336713236913",
    "note": "10-bid auction, DCC fitted, no box",
    "url": "https://www.ebay.com/itm/336713236913"
+  },
+  {
+   "model": "RS-11",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "New Haven #1411",
+   "control": "DCC-ready",
+   "condition": "Used (tested and runs)",
+   "price": 85.0,
+   "date": "2026-10-10",
+   "ebayId": "206520079795",
+   "note": "fixed-price, DCC ready",
+   "url": "https://www.ebay.com/itm/206520079795"
   }
  ]
 }
