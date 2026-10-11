@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:15:13Z",
+ "updated": "2026-10-11T00:17:22Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 174,
+ "count": 175,
  "comps": [
   {
    "model": "U25B",
@@ -2264,6 +2264,19 @@
    "ebayId": "117438361034",
    "note": "11-bid auction, tested well on short track",
    "url": "https://www.ebay.com/itm/117438361034"
+  },
+  {
+   "model": "U25B",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Chesapeake & Ohio #2500",
+   "control": "DC",
+   "condition": "Used (bench tested, runs fwd & back)",
+   "price": 49.95,
+   "date": "2026-10-10",
+   "ebayId": "198618460884",
+   "note": "1-bid auction, MPN 4455 Phase IIa, Kato-made",
+   "url": "https://www.ebay.com/itm/198618460884"
   }
  ]
 }
