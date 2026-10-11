@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:05:00Z",
+ "updated": "2026-10-11T00:06:48Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 170,
+ "count": 171,
  "comps": [
   {
    "model": "U25B",
@@ -2212,6 +2212,19 @@
    "ebayId": "800557372535",
    "note": "Fixed-price sale, Kato-made for Atlas",
    "url": "https://www.ebay.com/itm/800557372535"
+  },
+  {
+   "model": "AC4400CW",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "BNSF #5615",
+   "control": "DCC+Sound",
+   "condition": "Used (like-new, tested)",
+   "price": 140.28,
+   "date": "2026-10-10",
+   "ebayId": "158243366172",
+   "note": "Listed C$200.00 (approx US$140.28); aftermarket DCC/Sound decoder; 1-bid auction",
+   "url": "https://www.ebay.com/itm/158243366172"
   }
  ]
 }
