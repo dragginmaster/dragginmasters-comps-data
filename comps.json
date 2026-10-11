@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:00:50Z",
+ "updated": "2026-10-11T00:05:00Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 169,
+ "count": 170,
  "comps": [
   {
    "model": "U25B",
@@ -2199,6 +2199,19 @@
    "ebayId": "227499670235",
    "note": "13-bid auction",
    "url": "https://www.ebay.com/itm/227499670235"
+  },
+  {
+   "model": "GP38-2",
+   "brand": "Atlas (Kato-made)",
+   "scale": "N",
+   "road": "Penn Central #2524",
+   "control": "DC",
+   "condition": "Used (boxed & tested)",
+   "price": 78.5,
+   "date": "2026-10-10",
+   "ebayId": "800557372535",
+   "note": "Fixed-price sale, Kato-made for Atlas",
+   "url": "https://www.ebay.com/itm/800557372535"
   }
  ]
 }
