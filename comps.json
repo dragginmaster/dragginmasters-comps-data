@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:24:00Z",
+ "updated": "2026-10-11T12:26:07Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 188,
+ "count": 189,
  "comps": [
   {
    "model": "U25B",
@@ -2446,6 +2446,19 @@
    "ebayId": "377456565382",
    "note": "3-bid auction, DC analog",
    "url": "https://www.ebay.com/itm/377456565382"
+  },
+  {
+   "model": "GP38-2",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Missouri Pacific #3512",
+   "control": "DC",
+   "condition": "New: Other (tested, runs)",
+   "price": 42.13,
+   "date": "2026-10-11",
+   "ebayId": "327031821711",
+   "note": "fixed-price at list, tested runs w/ box",
+   "url": "https://www.ebay.com/itm/327031821711"
   }
  ]
 }
