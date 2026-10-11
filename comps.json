@@ -2732,6 +2732,71 @@
    "ebayId": "336450238240",
    "note": "Kato 176-5613, DCC fitted (no sound), specifics Control System Digital. Desc: 'Test Run only', works in DCC mode. UK seller GOSTUDE ANTIQUE TOY SHOP (54,263 fb, 99.7%). Sold GBP 129.50; eBay page conversion ~US $171.38 (banked at USD).",
    "url": "https://www.ebay.com/itm/336450238240"
+  },
+  {
+   "model": "GE 44 Ton Switcher",
+   "brand": "Bachmann Spectrum",
+   "scale": "N",
+   "road": "Baltimore & Ohio",
+   "control": "DCC",
+   "condition": "New",
+   "price": 132.5,
+   "date": "2026-10-04",
+   "ebayId": "377527055043",
+   "note": "Auction, 19 bids. Brand new in box.",
+   "url": "https://www.ebay.com/itm/377527055043"
+  },
+  {
+   "model": "EMD F7",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Southern Pacific #15007",
+   "control": "DC",
+   "condition": "Used",
+   "price": 28.0,
+   "date": "2026-10-04",
+   "ebayId": "920003055295",
+   "note": "Pre-owned.",
+   "url": "https://www.ebay.com/itm/920003055295"
+  },
+  {
+   "model": "EMD F7",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Chessie System #7017",
+   "control": "DC",
+   "condition": "Used",
+   "price": 30.4,
+   "date": "2026-10-07",
+   "ebayId": "407197811805",
+   "note": "Model inferred from listing photos (cab unit); not stated in title.",
+   "url": "https://www.ebay.com/itm/407197811805"
+  },
+  {
+   "model": "EMD GP40",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Union Pacific #678",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 129.0,
+   "date": "2026-09-27",
+   "ebayId": "168705853015",
+   "note": "Bachmann 66357. Pre-owned.",
+   "url": "https://www.ebay.com/itm/168705853015"
+  },
+  {
+   "model": "S4",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Santa Fe #1528",
+   "control": "DCC",
+   "condition": "New",
+   "price": 80.0,
+   "date": "2026-10-02",
+   "ebayId": "227350798722",
+   "note": "Bachmann 63154, factory DCC, ATSF zebra. New (other).",
+   "url": "https://www.ebay.com/itm/227350798722"
   }
  ]
 }
