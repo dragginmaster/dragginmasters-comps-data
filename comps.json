@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:32:09Z",
+ "updated": "2026-10-11T00:33:50Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 176,
+ "count": 177,
  "comps": [
   {
    "model": "U25B",
@@ -2290,6 +2290,19 @@
    "ebayId": "287484135316",
    "note": "Buy It Now, 176-9005, DC only",
    "url": "https://www.ebay.com/itm/287484135316"
+  },
+  {
+   "model": "2-8-0 Consolidation",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "ATSF #676",
+   "control": "DC",
+   "condition": "Used (runs good dc)",
+   "price": 60.0,
+   "date": "2026-10-10",
+   "ebayId": "267802823242",
+   "note": "1-bid auction, no box",
+   "url": "https://www.ebay.com/itm/267802823242"
   }
  ]
 }
