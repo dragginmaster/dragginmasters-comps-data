@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T15:51:20Z",
+ "updated": "2026-10-11T15:53:24Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 205,
+ "count": 206,
  "comps": [
   {
    "model": "U25B",
@@ -2667,6 +2667,19 @@
    "ebayId": "117438003850",
    "note": "fixed price at list",
    "url": "https://www.ebay.com/itm/117438003850"
+  },
+  {
+   "model": "4-6-2",
+   "brand": "Rivarossi",
+   "scale": "HO",
+   "road": "Baltimore & Ohio President Washington",
+   "control": "DC",
+   "condition": "Used (tested, evaluation ticket)",
+   "price": 169.99,
+   "date": "2026-10-11",
+   "ebayId": "168638646665",
+   "note": "Buy It Now at list",
+   "url": "https://www.ebay.com/itm/168638646665"
   }
  ]
 }
