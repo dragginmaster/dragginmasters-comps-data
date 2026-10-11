@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T01:05:25Z",
+ "updated": "2026-10-11T01:06:28Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 186,
+ "count": 187,
  "comps": [
   {
    "model": "U25B",
@@ -2420,6 +2420,19 @@
    "ebayId": "168588680840",
    "note": "fixed-price at list, DC analog",
    "url": "https://www.ebay.com/itm/168588680840"
+  },
+  {
+   "model": "GP35",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Soo Line #729",
+   "control": "DC",
+   "condition": "Used (tested)",
+   "price": 36.44,
+   "date": "2026-10-10",
+   "ebayId": "168588680851",
+   "note": "fixed-price at list, DC powered",
+   "url": "https://www.ebay.com/itm/168588680851"
   }
  ]
 }
