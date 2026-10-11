@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:08:22Z",
+ "updated": "2026-10-11T00:12:34Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 172,
+ "count": 173,
  "comps": [
   {
    "model": "U25B",
@@ -2238,6 +2238,19 @@
    "ebayId": "267760967400",
    "note": "Fixed-price sale, MPN 3302",
    "url": "https://www.ebay.com/itm/267760967400"
+  },
+  {
+   "model": "2-8-0 Consolidation",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "Unlettered",
+   "control": "DC",
+   "condition": "Used (TESTED, running video)",
+   "price": 149.99,
+   "date": "2026-10-10",
+   "ebayId": "377312545855",
+   "note": "Fixed-price sale, MPN 11419 undecorated; specifics list Nickel Plate Road but model is unlettered (seller data error)",
+   "url": "https://www.ebay.com/itm/377312545855"
   }
  ]
 }
