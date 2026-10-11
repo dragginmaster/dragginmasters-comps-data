@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:41:54Z",
+ "updated": "2026-10-11T12:44:19Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 191,
+ "count": 192,
  "comps": [
   {
    "model": "U25B",
@@ -2485,6 +2485,19 @@
    "ebayId": "307200771495",
    "note": "9-bid auction, DC explicit, tested runs",
    "url": "https://www.ebay.com/itm/307200771495"
+  },
+  {
+   "model": "P42",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Amtrak #134",
+   "control": "DCC",
+   "condition": "Used (tested, runs well)",
+   "price": 100.0,
+   "date": "2026-10-11",
+   "ebayId": "267744388963",
+   "note": "fixed-price at list, Digitrax silent decoder",
+   "url": "https://www.ebay.com/itm/267744388963"
   }
  ]
 }
