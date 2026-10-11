@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:12:34Z",
+ "updated": "2026-10-11T00:15:13Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 173,
+ "count": 174,
  "comps": [
   {
    "model": "U25B",
@@ -2251,6 +2251,19 @@
    "ebayId": "377312545855",
    "note": "Fixed-price sale, MPN 11419 undecorated; specifics list Nickel Plate Road but model is unlettered (seller data error)",
    "url": "https://www.ebay.com/itm/377312545855"
+  },
+  {
+   "model": "SW1500",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Santa Fe #2418A",
+   "control": "DC",
+   "condition": "New: Other (tested, running video)",
+   "price": 34.0,
+   "date": "2026-10-10",
+   "ebayId": "117438361034",
+   "note": "11-bid auction, tested well on short track",
+   "url": "https://www.ebay.com/itm/117438361034"
   }
  ]
 }
