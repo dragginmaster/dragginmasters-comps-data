@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:26:07Z",
+ "updated": "2026-10-11T12:33:38Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 189,
+ "count": 190,
  "comps": [
   {
    "model": "U25B",
@@ -2459,6 +2459,19 @@
    "ebayId": "327031821711",
    "note": "fixed-price at list, tested runs w/ box",
    "url": "https://www.ebay.com/itm/327031821711"
+  },
+  {
+   "model": "GP9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Nickel Plate Road #514",
+   "control": "DC",
+   "condition": "Used (track tested, new gears)",
+   "price": 43.0,
+   "date": "2026-10-11",
+   "ebayId": "336791681713",
+   "note": "2-bid auction, runs good, light works",
+   "url": "https://www.ebay.com/itm/336791681713"
   }
  ]
 }
