@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T16:28:17.899710Z",
+ "updated": "2026-10-11T16:34:59.480660Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 208,
+ "count": 209,
  "comps": [
   {
    "model": "U25B",
@@ -2706,6 +2706,19 @@
    "ebayId": "117448247721",
    "note": "Tested on DC track in fwd/rev, runs smoothly. Sold at list ($39.99 or Best Offer, no 'Best offer accepted'). Seller TK Outlet Source (tkwholesaleoutlet), 35,365 feedback, 99.9%.",
    "url": "https://www.ebay.com/itm/117448247721"
+  },
+  {
+   "model": "SD40T-2",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Southern Pacific #8630",
+   "control": "DC",
+   "condition": "Used, LNIB (C-8 Like New)",
+   "price": 125.5,
+   "date": "2026-10-11",
+   "ebayId": "287430180282",
+   "note": "Athearn Ready-To-Roll ATH98309. Specifics: Control System Analog, Replica of SD40T-2. Desc: 'Runs great'. Sold at list $125.50 (no 'Best offer accepted'). Seller usscle_73, 100%, 29 feedback.",
+   "url": "https://www.ebay.com/itm/287430180282"
   }
  ]
 }
