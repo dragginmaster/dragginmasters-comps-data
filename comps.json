@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T14:16:29Z",
+ "updated": "2026-10-11T15:40:01Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 201,
+ "count": 202,
  "comps": [
   {
    "model": "U25B",
@@ -2615,6 +2615,19 @@
    "ebayId": "257743101865",
    "note": "Buy It Now at list",
    "url": "https://www.ebay.com/itm/257743101865"
+  },
+  {
+   "model": "SD90/43MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific #8242",
+   "control": "DCC",
+   "condition": "Pre-Owned (tested in DC and DCC)",
+   "price": 86.0,
+   "date": "2026-10-11",
+   "ebayId": "236953553325",
+   "note": "7-bid auction, DCC fitted",
+   "url": "https://www.ebay.com/itm/236953553325"
   }
  ]
 }
