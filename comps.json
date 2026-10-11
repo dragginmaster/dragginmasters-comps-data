@@ -2914,6 +2914,84 @@
    "ebayId": "227542258841",
    "note": "Bachmann 64254. Auction, 12 bids. Photo shows loco in wrong jewel case (labeled 64257 B&M #1505).",
    "url": "https://www.ebay.com/itm/227542258841"
+  },
+  {
+   "model": "ALCO RS3",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Pennsylvania #5604",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 75.0,
+   "date": "2026-10-04",
+   "ebayId": "398438599941",
+   "note": "Bachmann 64255. Auction, 9 bids.",
+   "url": "https://www.ebay.com/itm/398438599941"
+  },
+  {
+   "model": "ALCO RS3",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Southern #2137",
+   "control": "DCC",
+   "condition": "New",
+   "price": 115.68,
+   "date": "2026-09-19",
+   "ebayId": "397968542444",
+   "note": "Bachmann 64254. Brand new, unused.",
+   "url": "https://www.ebay.com/itm/397968542444"
+  },
+  {
+   "model": "EMD F7",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Santa Fe #8613",
+   "control": "DC",
+   "condition": "Used",
+   "price": 25.0,
+   "date": "2026-10-01",
+   "ebayId": "318895609168",
+   "note": "Analog.",
+   "url": "https://www.ebay.com/itm/318895609168"
+  },
+  {
+   "model": "EMD F7",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Great Northern",
+   "control": "DC",
+   "condition": "Used",
+   "price": 21.5,
+   "date": "2026-09-19",
+   "ebayId": "336791143340",
+   "note": "Bachmann 67101. Auction, 6 bids. Road number not stated.",
+   "url": "https://www.ebay.com/itm/336791143340"
+  },
+  {
+   "model": "GP38-2",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Union Pacific #2144",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 129.0,
+   "date": "2026-10-07",
+   "ebayId": "168705837388",
+   "note": "Bachmann 66854. Very little run time.",
+   "url": "https://www.ebay.com/itm/168705837388"
+  },
+  {
+   "model": "SD45",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Rio Grande #5336",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 135.0,
+   "date": "2026-09-27",
+   "ebayId": "227539871020",
+   "note": "Bachmann 66453.",
+   "url": "https://www.ebay.com/itm/227539871020"
   }
  ]
 }
