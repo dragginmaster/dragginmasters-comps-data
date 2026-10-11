@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T01:02:46Z",
+ "updated": "2026-10-11T01:04:09Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 184,
+ "count": 185,
  "comps": [
   {
    "model": "U25B",
@@ -2394,6 +2394,19 @@
    "ebayId": "800514150985",
    "note": "fixed-price at list, MPN 3974",
    "url": "https://www.ebay.com/itm/800514150985"
+  },
+  {
+   "model": "SD40T-2",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Southern Pacific #8326",
+   "control": "DC",
+   "condition": "New (NOS, tested & working)",
+   "price": 99.0,
+   "date": "2026-10-10",
+   "ebayId": "206564608325",
+   "note": "fixed-price at list, DC analog",
+   "url": "https://www.ebay.com/itm/206564608325"
   }
  ]
 }
