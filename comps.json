@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T16:34:59.480660Z",
+ "updated": "2026-10-11T17:13:29.899723Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 209,
+ "count": 210,
  "comps": [
   {
    "model": "U25B",
@@ -2719,6 +2719,19 @@
    "ebayId": "287430180282",
    "note": "Athearn Ready-To-Roll ATH98309. Specifics: Control System Analog, Replica of SD40T-2. Desc: 'Runs great'. Sold at list $125.50 (no 'Best offer accepted'). Seller usscle_73, 100%, 29 feedback.",
    "url": "https://www.ebay.com/itm/287430180282"
+  },
+  {
+   "model": "SD90/43MAC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific #8242",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 171.38,
+   "date": "2026-10-11",
+   "ebayId": "336450238240",
+   "note": "Kato 176-5613, DCC fitted (no sound), specifics Control System Digital. Desc: 'Test Run only', works in DCC mode. UK seller GOSTUDE ANTIQUE TOY SHOP (54,263 fb, 99.7%). Sold GBP 129.50; eBay page conversion ~US $171.38 (banked at USD).",
+   "url": "https://www.ebay.com/itm/336450238240"
   }
  ]
 }
