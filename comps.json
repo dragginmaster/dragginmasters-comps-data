@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:52:33Z",
+ "updated": "2026-10-11T00:54:52Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 181,
+ "count": 182,
  "comps": [
   {
    "model": "U25B",
@@ -2355,6 +2355,19 @@
    "ebayId": "206520079795",
    "note": "fixed-price, DCC ready",
    "url": "https://www.ebay.com/itm/206520079795"
+  },
+  {
+   "model": "USRA Heavy Mikado 2-8-2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Erie #3204",
+   "control": "DC",
+   "condition": "Used (tested good, MIB)",
+   "price": 109.0,
+   "date": "2026-10-10",
+   "ebayId": "366481194060",
+   "note": "Buy It Now, 126-0202",
+   "url": "https://www.ebay.com/itm/366481194060"
   }
  ]
 }
