@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-11T22:08:13.677727+00:00",
+  "updated": "2026-10-11T22:17:50.189580+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 239,
+  "count": 240,
   "comps": [
     {
       "model": "U25B",
@@ -3109,6 +3109,19 @@
       "ebayId": "147470174352",
       "note": "Aftermarket DCC/Sound decoder per seller description. C-8 Like New, consignment. Sold at C$200.00 (eBay showed approx US $140.28). 1-bid auction.",
       "url": "https://www.ebay.com/itm/147470174352"
+    },
+    {
+      "model": "U25B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Conrail #2629",
+      "control": "DC",
+      "condition": "Used",
+      "price": 61.0,
+      "date": "2026-08-14",
+      "ebayId": "336732079875",
+      "note": "Title states DC Analog (2-rail). 11-bid auction. Regular seller (jlaubenthal).",
+      "url": "https://www.ebay.com/itm/336732079875"
     }
   ]
 }
