@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T00:38:39Z",
+ "updated": "2026-10-11T00:43:35Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 178,
+ "count": 179,
  "comps": [
   {
    "model": "U25B",
@@ -2316,6 +2316,19 @@
    "ebayId": "307176003081",
    "note": "9-bid auction, 176-253",
    "url": "https://www.ebay.com/itm/307176003081"
+  },
+  {
+   "model": "SD45",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Santa Fe #5348",
+   "control": "DCC",
+   "condition": "Used (tested, DCC no sound, C-7)",
+   "price": 79.88,
+   "date": "2026-10-10",
+   "ebayId": "158128709861",
+   "note": "24-bid auction, charity listing (as-is = no returns policy, item explicitly tested)",
+   "url": "https://www.ebay.com/itm/158128709861"
   }
  ]
 }
