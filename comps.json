@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T12:33:38Z",
+ "updated": "2026-10-11T12:41:54Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 190,
+ "count": 191,
  "comps": [
   {
    "model": "U25B",
@@ -2472,6 +2472,19 @@
    "ebayId": "336791681713",
    "note": "2-bid auction, runs good, light works",
    "url": "https://www.ebay.com/itm/336791681713"
+  },
+  {
+   "model": "E8A",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "New York Central #4054",
+   "control": "DC",
+   "condition": "Used (tested, runs, a little noisy)",
+   "price": 66.0,
+   "date": "2026-10-11",
+   "ebayId": "307200771495",
+   "note": "9-bid auction, DC explicit, tested runs",
+   "url": "https://www.ebay.com/itm/307200771495"
   }
  ]
 }
