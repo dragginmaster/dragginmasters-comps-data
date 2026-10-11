@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T01:08:56Z",
+ "updated": "2026-10-11T12:24:00Z",
  "source": "eBay sold listings, harvested by hand",
  "count": 188,
  "comps": [
@@ -1435,7 +1435,7 @@
   },
   {
    "model": "F7A",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Wabash #1102",
    "control": "DC",
