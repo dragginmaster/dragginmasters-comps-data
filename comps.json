@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T15:46:13Z",
+ "updated": "2026-10-11T15:51:20Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 204,
+ "count": 205,
  "comps": [
   {
    "model": "U25B",
@@ -2654,6 +2654,19 @@
    "ebayId": "168596081912",
    "note": "Buy It Now at list",
    "url": "https://www.ebay.com/itm/168596081912"
+  },
+  {
+   "model": "U25B",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Santa Fe #1608",
+   "control": "DC",
+   "condition": "New: Other (lightly run, runs w/ noise per test checklist)",
+   "price": 60.0,
+   "date": "2026-10-11",
+   "ebayId": "117438003850",
+   "note": "fixed price at list",
+   "url": "https://www.ebay.com/itm/117438003850"
   }
  ]
 }
