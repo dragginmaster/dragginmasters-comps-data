@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11T16:03:32Z",
+ "updated": "2026-10-11T16:28:17.899710Z",
  "source": "eBay sold listings, harvested by hand",
- "count": 207,
+ "count": 208,
  "comps": [
   {
    "model": "U25B",
@@ -2693,6 +2693,19 @@
    "ebayId": "298601447962",
    "note": "fixed price at list",
    "url": "https://www.ebay.com/itm/298601447962"
+  },
+  {
+   "model": "GP35",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Santa Fe #2605",
+   "control": "DC",
+   "condition": "Used, no box (Grade C-5 Good; custom hand-painted touch-ups, applied wire grab irons)",
+   "price": 39.99,
+   "date": "2026-10-11",
+   "ebayId": "117448247721",
+   "note": "Tested on DC track in fwd/rev, runs smoothly. Sold at list ($39.99 or Best Offer, no 'Best offer accepted'). Seller TK Outlet Source (tkwholesaleoutlet), 35,365 feedback, 99.9%.",
+   "url": "https://www.ebay.com/itm/117448247721"
   }
  ]
 }
