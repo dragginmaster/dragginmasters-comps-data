@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-11T22:17:50.189580+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 240,
+  "count": 236,
   "comps": [
     {
       "model": "U25B",
@@ -1096,19 +1096,6 @@
       "url": "https://www.ebay.com/itm/336805106434"
     },
     {
-      "model": "GP38-2",
-      "brand": "Atlas",
-      "scale": "HO",
-      "road": "SOO LINE #733",
-      "control": "DC",
-      "condition": "Used",
-      "price": 69.99,
-      "date": "2026-10-05",
-      "ebayId": "366686360500",
-      "note": "BIN; custom painted",
-      "url": "https://www.ebay.com/itm/366686360500"
-    },
-    {
       "model": "F7A",
       "brand": "Kato",
       "scale": "N",
@@ -1367,19 +1354,6 @@
       "ebayId": "800563621458",
       "note": "Paragon 4 Sound/DC/DCC",
       "url": "https://www.ebay.com/itm/800563621458"
-    },
-    {
-      "model": "GP9",
-      "brand": "WalthersProto",
-      "scale": "HO",
-      "road": "Union Pacific #292",
-      "control": "DC",
-      "condition": "New",
-      "price": 187.99,
-      "date": "2026-08-04",
-      "ebayId": "388303415592",
-      "note": "Phase II, Standard DC; 3 sold, list $199.98 (6% off)",
-      "url": "https://www.ebay.com/itm/388303415592"
     },
     {
       "model": "GP38",
@@ -2292,19 +2266,6 @@
       "url": "https://www.ebay.com/itm/287484135316"
     },
     {
-      "model": "2-8-0 Consolidation",
-      "brand": "Bachmann",
-      "scale": "N",
-      "road": "ATSF #676",
-      "control": "DC",
-      "condition": "Used (runs good dc)",
-      "price": 60.0,
-      "date": "2026-10-07",
-      "ebayId": "267802823242",
-      "note": "1-bid auction, no box",
-      "url": "https://www.ebay.com/itm/267802823242"
-    },
-    {
       "model": "E8A",
       "brand": "Kato",
       "scale": "N",
@@ -2576,19 +2537,6 @@
       "ebayId": "158243366174",
       "note": "2-bid auction, aftermarket DCC/Sound",
       "url": "https://www.ebay.com/itm/158243366174"
-    },
-    {
-      "model": "SD90/43MAC",
-      "brand": "Kato",
-      "scale": "N",
-      "road": "Southern Pacific (custom paint)",
-      "control": "DCC",
-      "condition": "Used (runs)",
-      "price": 82.0,
-      "date": "2026-10-11",
-      "ebayId": "206462991399",
-      "note": "11-bid auction, plain DCC no sound",
-      "url": "https://www.ebay.com/itm/206462991399"
     },
     {
       "model": "GS-4 4-8-4",
