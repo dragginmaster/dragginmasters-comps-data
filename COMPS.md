@@ -84,16 +84,18 @@ before your first hunt.
 
 1. **Discovery**: API or manual search for sold listings on thin tiers
    (a "trend run" = hunt exactly the comps needed to push a tier to 5/5).
-2. **Triage**: build the HTML review page — `python3 build-triage-page.py
-   candidates.json triage-review.html` (see the script's docstring for the
-   JSON format; every candidate MUST carry its ebayId) — and attach the page
-   for Don. He marks Keep/Drop on each card and pastes his decisions back.
-   Pre-flag anomalies on the cards for him; flags are for his eyes —
-   **never auto-pull** a comp.
-3. **Browser verification gate (mandatory)**: nothing banks without the sold
-   price proven on the live listing page. Read every proof screenshot
-   personally before banking.
-4. **Sanity check** before filing, then append to comps.json + save shots.
+2. **Browser verification gate (mandatory)**: check every candidate on its
+   live listing page against the hard rules above. Read every proof
+   screenshot personally before banking.
+3. **Bank the keepers directly** — comps.json + `shots/<ebayId>.jpg`. This is
+   how hunts run: find the comps, verify them, put them in the guide.
+4. **Don only gets the genuine judgment calls** — anomalies, taxonomy edge
+   cases (rare variants, factory sets, conflicting listing details). Ask in
+   chat for a few; if there are many, build the HTML review page
+   (`python3 build-triage-page.py candidates.json triage-review.html` — see
+   the script's docstring; every candidate MUST carry its ebayId) and attach
+   it so he can mark Keep/Drop per card.
+5. **Sanity check** before filing, then push.
 
 ## Workflow per task
 
