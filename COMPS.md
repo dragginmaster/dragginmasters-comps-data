@@ -84,8 +84,12 @@ before your first hunt.
 
 1. **Discovery**: API or manual search for sold listings on thin tiers
    (a "trend run" = hunt exactly the comps needed to push a tier to 5/5).
-2. **Triage**: Don marks keepers (pre-flag anomalies for him; flags are for
-   his eyes — **never auto-pull** a comp).
+2. **Triage**: build the HTML review page — `python3 build-triage-page.py
+   candidates.json triage-review.html` (see the script's docstring for the
+   JSON format; every candidate MUST carry its ebayId) — and attach the page
+   for Don. He marks Keep/Drop on each card and pastes his decisions back.
+   Pre-flag anomalies on the cards for him; flags are for his eyes —
+   **never auto-pull** a comp.
 3. **Browser verification gate (mandatory)**: nothing banks without the sold
    price proven on the live listing page. Read every proof screenshot
    personally before banking.
