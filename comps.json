@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-13T18:08:39.871454+00:00",
+  "updated": "2026-10-13T20:06:52.928131+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 256,
+  "count": 266,
   "comps": [
     {
       "model": "U25B",
@@ -3330,6 +3330,136 @@
       "ebayId": "358882760289",
       "note": "Buy It Now; Best Offer was enabled, sold price $170.00 shown on sold page; item specifics Control System says Analog (seller mis-selection — title/features/notes confirm ESU DCC+sound); ships in wrong box",
       "url": "https://www.ebay.com/itm/358882760289"
+    },
+    {
+      "model": "GG1",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "PRR #4913",
+      "control": "DC",
+      "condition": "Used",
+      "price": 85.0,
+      "date": "2026-10-12",
+      "ebayId": "920033629089",
+      "note": "Buy It Now",
+      "url": "https://www.ebay.com/itm/920033629089"
+    },
+    {
+      "model": "AC4400CW",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "BNSF #5624",
+      "control": "DC",
+      "condition": "Used",
+      "price": 99.99,
+      "date": "2026-10-03",
+      "ebayId": "127866624088",
+      "note": "Buy It Now",
+      "url": "https://www.ebay.com/itm/127866624088"
+    },
+    {
+      "model": "RS-3",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Norfolk and Western #307",
+      "control": "DC",
+      "condition": "New",
+      "price": 39.99,
+      "date": "2026-10-10",
+      "ebayId": "117429710264",
+      "note": "Buy It Now; control not stated on page — stock Atlas 4202 analog DC",
+      "url": "https://www.ebay.com/itm/117429710264"
+    },
+    {
+      "model": "SD70ACu",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "CP #6644",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 279.0,
+      "date": "2026-09-15",
+      "ebayId": "236964435390",
+      "note": "Buy It Now",
+      "url": "https://www.ebay.com/itm/236964435390"
+    },
+    {
+      "model": "F40PH",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Amtrak #405",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 101.95,
+      "date": "2026-08-09",
+      "ebayId": "127903503138",
+      "note": "Buy It Now, multi-quantity (5 sold); title says DC, item specifics DCC-ready — banked as DCC-ready; stock photo shows #374, title #405",
+      "url": "https://www.ebay.com/itm/127903503138"
+    },
+    {
+      "model": "Dash 8-40B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "LMX #8565",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 89.99,
+      "date": "2026-08-09",
+      "ebayId": "287499397854",
+      "note": "Title says 'DC Analog Decoder Ready'; item specifics Control System=Analog, Features=Decoder Ready. Banked as DCC-ready per decoder-ready conflict rule.",
+      "url": "https://www.ebay.com/itm/287499397854"
+    },
+    {
+      "model": "EMD F7",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Norfolk Southern #4270",
+      "control": "DCC",
+      "condition": "Used",
+      "price": 49.99,
+      "date": "2026-07-21",
+      "ebayId": "127974531820",
+      "note": "Title and seller description say DCC; item specifics list Control System=Analog but Features='DCC fitted'. Banked as DCC per decoder-fitted rule.",
+      "url": "https://www.ebay.com/itm/127974531820"
+    },
+    {
+      "model": "P42 Genesis",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Amtrak #203",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 330.65,
+      "date": "2026-08-05",
+      "ebayId": "177764581918",
+      "note": "Multi-quantity listing, '2 sold'; Lifesaver 50th Anniversary scheme, factory-installed DCC with sound.",
+      "url": "https://www.ebay.com/itm/177764581918"
+    },
+    {
+      "model": "SD40-2",
+      "brand": "InterMountain",
+      "scale": "N",
+      "road": "CSX #8833",
+      "control": "DC",
+      "condition": "Used",
+      "price": 129.95,
+      "date": "2026-10-05",
+      "ebayId": "820206533549",
+      "note": "Best offer accepted; DC Analog with LED/operating ditch lights.",
+      "url": "https://www.ebay.com/itm/820206533549"
+    },
+    {
+      "model": "Mikado 2-8-2",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Southern Pacific #3303",
+      "control": "DC",
+      "condition": "New",
+      "price": 140.0,
+      "date": "2026-10-09",
+      "ebayId": "267807926054",
+      "note": "USRA Heavy Mikado 126-0113; seller states DC 0-12V, not DCC-equipped.",
+      "url": "https://www.ebay.com/itm/267807926054"
     }
   ]
 }
