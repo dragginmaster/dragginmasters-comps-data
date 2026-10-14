@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-13T20:06:52.928131+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 266,
+  "count": 276,
   "comps": [
     {
       "model": "U25B",
@@ -3460,6 +3460,136 @@
       "ebayId": "267807926054",
       "note": "USRA Heavy Mikado 126-0113; seller states DC 0-12V, not DCC-equipped.",
       "url": "https://www.ebay.com/itm/267807926054"
+    },
+    {
+      "model": "Dash 8-40B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "CSX #5933",
+      "control": "DC",
+      "condition": "New",
+      "price": 75.0,
+      "date": "2026-09-02",
+      "ebayId": "128051438913",
+      "note": "Auction, 1 bid.",
+      "url": "https://www.ebay.com/itm/128051438913"
+    },
+    {
+      "model": "GP38-2",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "GMTX #2346",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 133.0,
+      "date": "2026-09-06",
+      "ebayId": "287567784870",
+      "note": "Title says 'DC / (DCC-Sound Ready)'; banked as DCC-ready per decoder-ready conflict rule.",
+      "url": "https://www.ebay.com/itm/287567784870"
+    },
+    {
+      "model": "2-8-0 Consolidation",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Santa Fe #4821",
+      "control": "DC",
+      "condition": "Used",
+      "price": 33.5,
+      "date": "2026-10-13",
+      "ebayId": "920002708787",
+      "note": "",
+      "url": "https://www.ebay.com/itm/920002708787"
+    },
+    {
+      "model": "GE 44 Ton Switcher",
+      "brand": "Bachmann Spectrum",
+      "scale": "N",
+      "road": "PRR (Pennsylvania)",
+      "control": "DCC",
+      "condition": "New",
+      "price": 109.0,
+      "date": "2026-10-12",
+      "ebayId": "147620113321",
+      "note": "Condition listed as New (Other).",
+      "url": "https://www.ebay.com/itm/147620113321"
+    },
+    {
+      "model": "S-2",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "ATSF #2357",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 139.99,
+      "date": "2026-08-02",
+      "ebayId": "318643709298",
+      "note": "Factory DCC and Sound; LNIB.",
+      "url": "https://www.ebay.com/itm/318643709298"
+    },
+    {
+      "model": "F3",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Burlington Northern #710",
+      "control": "DC",
+      "condition": "Used",
+      "price": 81.0,
+      "date": "2026-10-13",
+      "ebayId": "800781055422",
+      "note": "F3A 176-1201; standard Kato analog, no DCC in listing.",
+      "url": "https://www.ebay.com/itm/800781055422"
+    },
+    {
+      "model": "E8",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Southern Railway #2925",
+      "control": "DC",
+      "condition": "Used",
+      "price": 60.0,
+      "date": "2026-10-13",
+      "ebayId": "920033682742",
+      "note": "E8/9A 176-5301.",
+      "url": "https://www.ebay.com/itm/920033682742"
+    },
+    {
+      "model": "GS-4",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Southern Pacific 4449 Daylight",
+      "control": "DC",
+      "condition": "New",
+      "price": 290.0,
+      "date": "2026-10-13",
+      "ebayId": "327391529045",
+      "note": "126-301; auction, 4 bids.",
+      "url": "https://www.ebay.com/itm/327391529045"
+    },
+    {
+      "model": "VO-1000",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Santa Fe",
+      "control": "DC",
+      "condition": "New",
+      "price": 71.0,
+      "date": "2026-09-05",
+      "ebayId": "257710675037",
+      "note": "Test run only; auction, 11 bids.",
+      "url": "https://www.ebay.com/itm/257710675037"
+    },
+    {
+      "model": "F7",
+      "brand": "InterMountain",
+      "scale": "N",
+      "road": "Great Northern #307B",
+      "control": "DC",
+      "condition": "Used",
+      "price": 71.0,
+      "date": "2026-10-05",
+      "ebayId": "267798470776",
+      "note": "F7B unit 69709-07; control not specified in listing, standard analog; auction, 14 bids.",
+      "url": "https://www.ebay.com/itm/267798470776"
     }
   ]
 }
