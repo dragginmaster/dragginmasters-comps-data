@@ -42,6 +42,12 @@ before your first hunt.
 4. **Charity-auction listings are NEVER comps** — bids can run on donor
    generosity, not market value.
 5. **Best-offer-accepted hides the final price** — unverifiable = never a comp.
+   How to spot it: on the sold listing page the banner reads
+   "Best offer accepted" instead of "Sold for $X". The price eBay shows on
+   those listings is the original *list* price, NOT what the buyer actually
+   paid — the accepted offer amount is hidden. A visible price is not a
+   proven price. When in doubt, skip the listing; never bank it hoping the
+   note will explain it later.
 6. **Typo-title hits are excluded** — mislisted sales are pricing anomalies,
    deal-report fodder only, never comps.
 7. "As-is" / no-returns language on an **explicitly tested unit from a regular
