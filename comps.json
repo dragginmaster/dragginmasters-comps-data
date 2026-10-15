@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-13T20:06:52.928131+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 391,
+  "count": 389,
   "comps": [
     {
       "model": "U25B",
@@ -4632,19 +4632,6 @@
       "url": "https://www.ebay.com/itm/117413421683"
     },
     {
-      "model": "SD40-2",
-      "brand": "Bachmann",
-      "scale": "N",
-      "road": "UP",
-      "control": "DC",
-      "condition": "Used",
-      "price": 48.0,
-      "date": "2026-10-15",
-      "ebayId": "800100721182",
-      "note": "Best offer accepted at $48 (listed $80); runs well.",
-      "url": "https://www.ebay.com/itm/800100721182"
-    },
-    {
       "model": "4-8-4 Northern",
       "brand": "Bachmann",
       "scale": "N",
@@ -4864,19 +4851,6 @@
       "ebayId": "168148164517",
       "note": "GP-9TT torpedo tube; New: Other.",
       "url": "https://www.ebay.com/itm/168148164517"
-    },
-    {
-      "model": "GP40",
-      "brand": "Bachmann",
-      "scale": "N",
-      "road": "Santa Fe",
-      "control": "DC",
-      "condition": "Used",
-      "price": 24.0,
-      "date": "2026-08-30",
-      "ebayId": "188858532564",
-      "note": "MPN 63552; best offer accepted at $24.",
-      "url": "https://www.ebay.com/itm/188858532564"
     },
     {
       "model": "GP20",
