@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T18:26:59.617028+00:00",
+  "updated": "2026-10-16T19:30:28.585522+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 410,
+  "count": 420,
   "comps": [
     {
       "model": "U25B",
@@ -5332,6 +5332,136 @@
       "ebayId": "128074664941",
       "note": "w/ 52' tender.",
       "url": "https://www.ebay.com/itm/128074664941"
+    },
+    {
+      "model": "S2",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "GN #7",
+      "control": "DC",
+      "condition": "New",
+      "price": 124.99,
+      "date": "2026-08-26",
+      "ebayId": "116728320858",
+      "note": "Item 40005700.",
+      "url": "https://www.ebay.com/itm/116728320858"
+    },
+    {
+      "model": "SW9",
+      "brand": "Life-Like",
+      "scale": "N",
+      "road": "GN #15",
+      "control": "DC",
+      "condition": "New",
+      "price": 69.0,
+      "date": "2026-09-14",
+      "ebayId": "128071326899",
+      "note": "#7510; 1 bid.",
+      "url": "https://www.ebay.com/itm/128071326899"
+    },
+    {
+      "model": "U50",
+      "brand": "Con-Cor",
+      "scale": "N",
+      "road": "UP #32",
+      "control": "DC",
+      "condition": "Used",
+      "price": 40.0,
+      "date": "2026-09-22",
+      "ebayId": "178520303767",
+      "note": "DC Analog; no box.",
+      "url": "https://www.ebay.com/itm/178520303767"
+    },
+    {
+      "model": "FA2",
+      "brand": "Life-Like",
+      "scale": "N",
+      "road": "LV #586",
+      "control": "DC",
+      "condition": "Used",
+      "price": 39.95,
+      "date": "2026-07-29",
+      "ebayId": "227445959276",
+      "note": "L67.",
+      "url": "https://www.ebay.com/itm/227445959276"
+    },
+    {
+      "model": "GS-4",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "SP #4449",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 210.0,
+      "date": "2026-07-27",
+      "ebayId": "137550791136",
+      "note": "126-0301.",
+      "url": "https://www.ebay.com/itm/137550791136"
+    },
+    {
+      "model": "0-6-0 Switcher",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "PRR #524",
+      "control": "DC",
+      "condition": "New",
+      "price": 10.0,
+      "date": "2026-10-14",
+      "ebayId": "880017150365",
+      "note": "w/ tender; 1 bid.",
+      "url": "https://www.ebay.com/itm/880017150365"
+    },
+    {
+      "model": "SD7",
+      "brand": "Life-Like",
+      "scale": "N",
+      "road": "EMD",
+      "control": "DC",
+      "condition": "Used",
+      "price": 34.0,
+      "date": "2026-07-18",
+      "ebayId": "198492541500",
+      "note": "#7733; 1 bid.",
+      "url": "https://www.ebay.com/itm/198492541500"
+    },
+    {
+      "model": "U25B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "CBQ #103",
+      "control": "DC",
+      "condition": "Used",
+      "price": 57.0,
+      "date": "2026-09-09",
+      "ebayId": "307169439281",
+      "note": "Classic.",
+      "url": "https://www.ebay.com/itm/307169439281"
+    },
+    {
+      "model": "P42",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Amtrak #145",
+      "control": "DC",
+      "condition": "Used",
+      "price": 65.1,
+      "date": "2026-10-15",
+      "ebayId": "800517979842",
+      "note": "176-6021; 40th Anniv.",
+      "url": "https://www.ebay.com/itm/800517979842"
+    },
+    {
+      "model": "U23B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Monon #608",
+      "control": "DCC-ready",
+      "condition": "Used",
+      "price": 110.5,
+      "date": "2026-09-30",
+      "ebayId": "227536427274",
+      "note": "ATL 45945.",
+      "url": "https://www.ebay.com/itm/227536427274"
     }
   ]
 }
