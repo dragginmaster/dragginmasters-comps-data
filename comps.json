@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-16T21:19:57.382881+00:00",
+  "updated": "2026-10-17T01:37:34.444458+00:00",
   "source": "eBay sold listings, harvested by hand",
-  "count": 422,
+  "count": 432,
   "comps": [
     {
       "model": "U25B",
@@ -5488,6 +5488,136 @@
       "ebayId": "206449215618",
       "note": "MPN 81156.",
       "url": "https://www.ebay.com/itm/206449215618"
+    },
+    {
+      "model": "PA-1",
+      "brand": "Con-Cor",
+      "scale": "N",
+      "road": "Santa Fe #51",
+      "control": "DC",
+      "condition": "Used",
+      "price": 45.0,
+      "date": "2026-10-16",
+      "ebayId": "920033685343",
+      "note": "A unit; 001-002002.",
+      "url": "https://www.ebay.com/itm/920033685343"
+    },
+    {
+      "model": "U25B",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Frisco #812",
+      "control": "DC",
+      "condition": "Used",
+      "price": 95.0,
+      "date": "2026-10-16",
+      "ebayId": "800791499597",
+      "note": "Phase 2A.",
+      "url": "https://www.ebay.com/itm/800791499597"
+    },
+    {
+      "model": "Big Boy 4-8-8-4",
+      "brand": "Athearn",
+      "scale": "N",
+      "road": "Union Pacific #4020",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 300.0,
+      "date": "2026-10-16",
+      "ebayId": "128125000105",
+      "note": "DC/DCC dual-mode with sound; 2-bid auction.",
+      "url": "https://www.ebay.com/itm/128125000105"
+    },
+    {
+      "model": "SD60M",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Burlington Northern #9276",
+      "control": "DCC-ready",
+      "condition": "Used",
+      "price": 85.5,
+      "date": "2026-10-16",
+      "ebayId": "800780835945",
+      "note": "LNIB.",
+      "url": "https://www.ebay.com/itm/800780835945"
+    },
+    {
+      "model": "SD40-3",
+      "brand": "ScaleTrains",
+      "scale": "N",
+      "road": "CSX Transportation #4035",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 327.98,
+      "date": "2026-10-16",
+      "ebayId": "186499678372",
+      "note": "SXT38629.",
+      "url": "https://www.ebay.com/itm/186499678372"
+    },
+    {
+      "model": "C44-9W",
+      "brand": "ScaleTrains",
+      "scale": "N",
+      "road": "Canadian National #2639",
+      "control": "DC",
+      "condition": "New",
+      "price": 194.98,
+      "date": "2026-10-16",
+      "ebayId": "186499678049",
+      "note": "SXT38694.",
+      "url": "https://www.ebay.com/itm/186499678049"
+    },
+    {
+      "model": "GP40",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "New York Susquehanna & Western #3040",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 255.98,
+      "date": "2026-10-16",
+      "ebayId": "186499678272",
+      "note": "40005297.",
+      "url": "https://www.ebay.com/itm/186499678272"
+    },
+    {
+      "model": "SD40",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Undecorated",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 130.0,
+      "date": "2026-10-16",
+      "ebayId": "940014664106",
+      "note": "Title states DCC Ready; item specifics field reads Analog.",
+      "url": "https://www.ebay.com/itm/940014664106"
+    },
+    {
+      "model": "SD60M",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Undecorated",
+      "control": "DCC-ready",
+      "condition": "New",
+      "price": 70.0,
+      "date": "2026-10-16",
+      "ebayId": "307224504540",
+      "note": "Title states DC/DCC Ready; NOS.",
+      "url": "https://www.ebay.com/itm/307224504540"
+    },
+    {
+      "model": "RS-2",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Great Northern #213",
+      "control": "DCC",
+      "condition": "Used",
+      "price": 160.0,
+      "date": "2026-10-16",
+      "ebayId": "117451504307",
+      "note": "Title states DC & DCC (dual-mode).",
+      "url": "https://www.ebay.com/itm/117451504307"
     }
   ]
 }
