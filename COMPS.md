@@ -63,11 +63,17 @@ before your first hunt.
 - **Product lines** (Atlas Trainman, Atlas Master): record in the brand string
   **only when the listing itself states it**. Never infer — Atlas locos predate
   the lines, so unstated = plain "Atlas".
+- **Road name** = the railroad name ONLY, no numbers or extras ("Burlington
+  Northern", never "BN #5960" or "Burlington Northern Executive #9580").
+  Normalize abbreviations (BN/UP/SP/ATSF/PRR/B&O/N&W/NKP/NYC/NS/CP/CB&Q/C&NW/
+  D&H/MILW/M&StL/KCS/GN/LV/WP/NH/SBD/MKT/DT&I/ACL) to full names.
 - **Road number** = the #-prefixed unit number painted on the model, tied to
   the railroad (BNSF #9779). **NEVER** a maker catalog number (Kato 176-XXXX,
-  Atlas 4000XXXX) that sellers stuff into titles. Road number goes in `road`
-  after the road name (format: "BNSF #9779"); road name alone when no number
-  is shown.
+  Atlas 4000XXXX) that sellers stuff into titles. Road number goes in `note`
+  (format: "Road #9779"), along with paint-scheme details ("Warbonnet",
+  "100th Anniversary", "Executive") stripped from the road string.
+  If no road name can be determined, leave for the road-name review page —
+  never guess.
 - Trend tiers group by **brand+model+scale+control** (road name excluded from
   the key, shown per sale).
 
