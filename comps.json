@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-18",
   "source": "eBay sold listings, harvested by hand",
-  "count": 438,
+  "count": 441,
   "comps": [
     {
       "model": "U25B",
@@ -5696,6 +5696,45 @@
       "ebayId": "287644354020",
       "note": "Road #8507; BIN sale",
       "url": "https://www.ebay.com/itm/287644354020"
+    },
+    {
+      "model": "GP40",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Burlington Northern",
+      "control": "DC",
+      "condition": "Used",
+      "price": 49.99,
+      "date": "2026-10-12",
+      "ebayId": "267763204735",
+      "note": "Road #2009; BIN sale; Tested/Running; Good to very good condition",
+      "url": "https://www.ebay.com/itm/267763204735"
+    },
+    {
+      "model": "Big Boy 4-8-8-4",
+      "brand": "Broadway Limited",
+      "scale": "N",
+      "road": "Union Pacific",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 428,
+      "date": "2026-10-12",
+      "ebayId": "307216155233",
+      "note": "Road #4012; 17-bid auction; Paragon4 Sound/Smoke; In great condition",
+      "url": "https://www.ebay.com/itm/307216155233"
+    },
+    {
+      "model": "Amtrak Switcher",
+      "brand": "Minitrix",
+      "scale": "N",
+      "road": "Amtrak",
+      "control": "DC",
+      "condition": "New",
+      "price": 49.99,
+      "date": "2026-10-12",
+      "ebayId": "267804937140",
+      "note": "Road #702 (title's #2010 is Minitrix catalog number); 1-bid auction",
+      "url": "https://www.ebay.com/itm/267804937140"
     }
   ]
 }
