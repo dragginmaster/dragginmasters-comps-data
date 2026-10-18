@@ -39,6 +39,11 @@ before your first hunt.
    `shots/<ebayId>.jpg`. No link + no screenshot = never a comp.
 3. **Lots never become comps** — a lot's single price can't establish any
    individual item's standalone value.
+   **Exception (Don's directive 2026-10-18): F-unit A/B pairs are common
+   market items and ARE banked as comps.** File under model `"F7A + F7B"`
+   (its own tier — never mixed into single-unit F7A or F7B tiers, so pair
+   pricing can't pollute single-unit averages). Note both road numbers,
+   which unit is powered, and that the price is the pair price.
 4. **Charity-auction listings are NEVER comps** — bids can run on donor
    generosity, not market value.
 5. **Best-offer-accepted hides the final price** — unverifiable = never a comp.

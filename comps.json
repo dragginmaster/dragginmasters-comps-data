@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-17T01:59:22.291137+00:00",
+  "updated": "2026-10-18",
   "source": "eBay sold listings, harvested by hand",
-  "count": 432,
+  "count": 433,
   "comps": [
     {
       "model": "U25B",
@@ -5618,6 +5618,19 @@
       "ebayId": "117451504307",
       "note": "Road #213; Title states DC & DCC (dual-mode).",
       "url": "https://www.ebay.com/itm/117451504307"
+    },
+    {
+      "model": "F7A + F7B",
+      "brand": "Athearn (blue box)",
+      "scale": "HO",
+      "road": "Southern Pacific",
+      "control": "DC",
+      "condition": "Used",
+      "price": 61,
+      "date": "2026-10-18",
+      "ebayId": "820228515268",
+      "note": "A-B pair: powered F7A Road #6054 + dummy F7B Road #5926; Daylight; 11-bid auction",
+      "url": "https://www.ebay.com/itm/820228515268"
     }
   ]
 }
