@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-18",
   "source": "eBay sold listings, harvested by hand",
-  "count": 435,
+  "count": 438,
   "comps": [
     {
       "model": "U25B",
@@ -5657,6 +5657,45 @@
       "ebayId": "127985613756",
       "note": "Road #301-D; BIN sale; Paragon4 Sound/DC/DCC",
       "url": "https://www.ebay.com/itm/127985613756"
+    },
+    {
+      "model": "F7A + F7B",
+      "brand": "Bachmann Plus",
+      "scale": "N",
+      "road": "Santa Fe",
+      "control": "DC",
+      "condition": "New",
+      "price": 108.5,
+      "date": "2026-10-12",
+      "ebayId": "287618536841",
+      "note": "A-B pair, BOTH powered; Road #306 (F7A) + #314 (F7B); Warbonnet; New Old Stock; BIN sale (API showed $94.75, page proves $108.50)",
+      "url": "https://www.ebay.com/itm/287618536841"
+    },
+    {
+      "model": "ES44AC",
+      "brand": "Broadway Limited",
+      "scale": "N",
+      "road": "Southern Pacific",
+      "control": "DCC+Sound",
+      "condition": "New: Other",
+      "price": 170,
+      "date": "2026-10-12",
+      "ebayId": "407285476667",
+      "note": "Road #537; BIN sale; 15% off $200 list; Paragon4 Sound/DC/DCC; open box",
+      "url": "https://www.ebay.com/itm/407285476667"
+    },
+    {
+      "model": "Dash 8-40C",
+      "brand": "Bachmann Spectrum",
+      "scale": "N",
+      "road": "Chicago & North Western",
+      "control": "DC",
+      "condition": "Used",
+      "price": 19,
+      "date": "2026-10-12",
+      "ebayId": "287644354020",
+      "note": "Road #8507; BIN sale",
+      "url": "https://www.ebay.com/itm/287644354020"
     }
   ]
 }
