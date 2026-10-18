@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-18",
   "source": "eBay sold listings, harvested by hand",
-  "count": 441,
+  "count": 442,
   "comps": [
     {
       "model": "U25B",
@@ -5735,6 +5735,19 @@
       "ebayId": "267804937140",
       "note": "Road #702 (title's #2010 is Minitrix catalog number); 1-bid auction",
       "url": "https://www.ebay.com/itm/267804937140"
+    },
+    {
+      "model": "GG1",
+      "brand": "Arnold",
+      "scale": "N",
+      "road": "Penn Central",
+      "control": "DC",
+      "condition": "Used",
+      "price": 75,
+      "date": "2026-10-12",
+      "ebayId": "298677419558",
+      "note": "Road #4903; BIN sale; Arnold Rapido (jewel case); cat# 0275",
+      "url": "https://www.ebay.com/itm/298677419558"
     }
   ]
 }
