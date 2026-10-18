@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-18",
   "source": "eBay sold listings, harvested by hand",
-  "count": 433,
+  "count": 435,
   "comps": [
     {
       "model": "U25B",
@@ -5631,6 +5631,32 @@
       "ebayId": "820228515268",
       "note": "A-B pair: powered F7A Road #6054 + dummy F7B Road #5926; Daylight; 11-bid auction",
       "url": "https://www.ebay.com/itm/820228515268"
+    },
+    {
+      "model": "SD9",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Conrail",
+      "control": "DC",
+      "condition": "Used",
+      "price": 36,
+      "date": "2026-10-12",
+      "ebayId": "198690590225",
+      "note": "Road #6921; 12-bid auction; box labeled EMD SD 9 4530 (may not match unit); buyer feedback: listed untested, runs",
+      "url": "https://www.ebay.com/itm/198690590225"
+    },
+    {
+      "model": "F3A",
+      "brand": "Broadway Limited",
+      "scale": "N",
+      "road": "Sacramento Northern",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 205.75,
+      "date": "2026-10-12",
+      "ebayId": "127985613756",
+      "note": "Road #301-D; BIN sale; Paragon4 Sound/DC/DCC",
+      "url": "https://www.ebay.com/itm/127985613756"
     }
   ]
 }
