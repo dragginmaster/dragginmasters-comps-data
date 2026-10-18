@@ -1,0 +1,45 @@
+# Advisory audit on every comps.json PR. Fails loudly but never blocks —
+# Don makes the final call (audit flags are for his eyes).
+name: comp audit
+on:
+  pull_request:
+    paths: [comps.json]
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - name: Audit added comps
+        run: |
+          python3 <<'PYEOF'
+          import json, subprocess, sys, re
+          def show(ref):
+              out = subprocess.check_output(
+                  ["git", "show", f"{ref}:comps.json"], text=True)
+              return json.loads(out)
+          base = show("${{ github.event.pull_request.base.sha }}")
+          head = show("${{ github.event.pull_request.head.sha }}")
+          base_ids = {c["ebayId"] for c in base["comps"]}
+          errors = []
+          # 1. top-level count must match the array
+          if head.get("count") != len(head["comps"]):
+              errors.append(
+                  f"count field is {head.get('count')} but comps array "
+                  f"has {len(head['comps'])} entries")
+          # 2. no best-offer-accepted listings among newly added comps
+          for c in head["comps"]:
+              if c["ebayId"] not in base_ids:
+                  if re.search(r"best.?offer", json.dumps(c).lower()):
+                      errors.append(
+                          f"best-offer-accepted comp added: {c['brand']} "
+                          f"{c['model']} ({c['scale']} {c['control']}) "
+                          f"ebay {c['ebayId']} — sold price unprovable, "
+                          f"never a comp (hard rule 5)")
+          if errors:
+              print("COMP AUDIT FAILED:")
+              for e in errors:
+                  print(" -", e)
+              sys.exit(1)
+          print(f"comp audit passed ({len(head['comps'])} comps)")
+          PYEOF
