@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 508,
+ "count": 507,
  "comps": [
   {
    "model": "U25B",
@@ -3304,19 +3304,6 @@
    "ebayId": "137776367045",
    "note": "Road #2074; Buy It Now",
    "url": "https://www.ebay.com/itm/137776367045"
-  },
-  {
-   "model": "GP35",
-   "brand": "Atlas",
-   "scale": "N",
-   "road": "Western Pacific",
-   "control": "DCC+Sound",
-   "condition": "Used",
-   "price": 170.0,
-   "date": "2026-08-05",
-   "ebayId": "358882760289",
-   "note": "Road #3010; Buy It Now; Best Offer was enabled, sold price $170.00 shown on sold page; item specifics Control System says Analog (seller mis-selection \u2014 title/features/notes confirm ESU DCC+sound); ships in wrong box",
-   "url": "https://www.ebay.com/itm/358882760289"
   },
   {
    "model": "GG1",
