@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 493,
+ "count": 496,
  "comps": [
   {
    "model": "U25B",
@@ -6411,6 +6411,45 @@
    "ebayId": "800775232859",
    "note": "A-B pair: Kato 106-0426, EMD F7A #1468 + F7B #1468B; NIB; straight BIN",
    "url": "https://www.ebay.com/itm/800775232859"
+  },
+  {
+   "model": "GP9",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 29.98,
+   "date": "2026-10-14",
+   "ebayId": "900003882154",
+   "note": "Road #457; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/900003882154"
+  },
+  {
+   "model": "Dash 9-44CW",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "CSX",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 68.9,
+   "date": "2026-10-13",
+   "ebayId": "206600726049",
+   "note": "Road #9001; auction, 30 bids; DCC Quick-Plug equipped; basic bench test on DC, DCC untested; sold as-is",
+   "url": "https://www.ebay.com/itm/206600726049"
+  },
+  {
+   "model": "FB1",
+   "brand": "Atlas Master Gold",
+   "scale": "N",
+   "road": "Missouri Pacific",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 163.87,
+   "date": "2026-10-14",
+   "ebayId": "257705022556",
+   "note": "Road #324B; ESU sound, NMRA DCC; multi-quantity listing (3 sold), each one single loco; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/257705022556"
   }
  ]
 }
