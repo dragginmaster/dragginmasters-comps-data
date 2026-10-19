@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 492,
+ "count": 493,
  "comps": [
   {
    "model": "U25B",
@@ -6398,6 +6398,19 @@
    "ebayId": "137829070181",
    "note": "Road #123; saddle tank steamer; untested (not stated as not-working); straight BIN at list price",
    "url": "https://www.ebay.com/itm/137829070181"
+  },
+  {
+   "model": "F7A + F7B",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "New",
+   "price": 199.99,
+   "date": "2026-10-14",
+   "ebayId": "800775232859",
+   "note": "A-B pair: Kato 106-0426, EMD F7A #1468 + F7B #1468B; NIB; straight BIN",
+   "url": "https://www.ebay.com/itm/800775232859"
   }
  ]
 }
