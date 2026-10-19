@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 475,
+ "count": 478,
  "comps": [
   {
    "model": "U25B",
@@ -6177,6 +6177,45 @@
    "ebayId": "287636201382",
    "note": "Road #1902; Clinchfield Heritage scheme; MPN SXT41623; factory DCC & LokSound; straight BIN at list price",
    "url": "https://www.ebay.com/itm/287636201382"
+  },
+  {
+   "model": "SD40-2",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Bolivar Buffalo & Laclede Railroad",
+   "control": "DC",
+   "condition": "Used",
+   "price": 20.0,
+   "date": "2026-10-13",
+   "ebayId": "127784098127",
+   "note": "Road #2002; custom paint job (fantasy road name as painted); control not stated, filed DC; seller states works good; straight BIN",
+   "url": "https://www.ebay.com/itm/127784098127"
+  },
+  {
+   "model": "Thomas the Tank Engine 0-6-0",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Thomas the Tank Engine",
+   "control": "DC",
+   "condition": "Used",
+   "price": 69.99,
+   "date": "2026-10-14",
+   "ebayId": "128124951845",
+   "note": "Road #1; MPN 58741; moving eyes; tested runs forward and backward; straight BIN",
+   "url": "https://www.ebay.com/itm/128124951845"
+  },
+  {
+   "model": "AC4400CW",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 59.0,
+   "date": "2026-10-14",
+   "ebayId": "168786010865",
+   "note": "Road #5727; Kato stock 176-7005; control not stated, filed DC; tested runs both directions, headlights work; heavily weathered (custom); front snowplow missing; no original packaging; straight BIN",
+   "url": "https://www.ebay.com/itm/168786010865"
   }
  ]
 }
