@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 487,
+ "count": 490,
  "comps": [
   {
    "model": "U25B",
@@ -6333,6 +6333,45 @@
    "ebayId": "336836622537",
    "note": "Road #215; test ran nice; no original box; straight BIN at list price",
    "url": "https://www.ebay.com/itm/336836622537"
+  },
+  {
+   "model": "U23B",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "New",
+   "price": 49.95,
+   "date": "2026-10-13",
+   "ebayId": "168777876115",
+   "note": "Road #6301; auction, 1 bid; new in original box",
+   "url": "https://www.ebay.com/itm/168777876115"
+  },
+  {
+   "model": "H-24-66",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Southern Pacific",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 85.0,
+   "date": "2026-10-13",
+   "ebayId": "800791618454",
+   "note": "Road #4805; Train Master; DCC decoder added; gently used; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/800791618454"
+  },
+  {
+   "model": "GP35",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "Southern Pacific",
+   "control": "DC",
+   "condition": "New",
+   "price": 76.41,
+   "date": "2026-10-12",
+   "ebayId": "800778722874",
+   "note": "Road #6640; Atlas Classic 46553; converted from AU$110.00; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/800778722874"
   }
  ]
 }
