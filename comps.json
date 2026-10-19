@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 484,
+ "count": 487,
  "comps": [
   {
    "model": "U25B",
@@ -6294,6 +6294,45 @@
    "ebayId": "406946802550",
    "note": "Road #305; control not stated, filed DC; new (other); Atlas-Kato; straight BIN at list price",
    "url": "https://www.ebay.com/itm/406946802550"
+  },
+  {
+   "model": "E8",
+   "brand": "Life-Like",
+   "scale": "N",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "Used",
+   "price": 49.99,
+   "date": "2026-10-13",
+   "ebayId": "377554031606",
+   "note": "Road #86; untested (not stated as not-working); auction, 1 bid; in original case",
+   "url": "https://www.ebay.com/itm/377554031606"
+  },
+  {
+   "model": "RS-2",
+   "brand": "Atlas Master",
+   "scale": "N",
+   "road": "Lehigh Valley",
+   "control": "DCC Ready",
+   "condition": "New",
+   "price": 104.99,
+   "date": "2026-10-13",
+   "ebayId": "116416894728",
+   "note": "Road #218; MPN 40005031; multi-quantity listing (4 sold), each one single loco; sold at $104.99 list (was $149.99), no best-offer",
+   "url": "https://www.ebay.com/itm/116416894728"
+  },
+  {
+   "model": "F7A",
+   "brand": "Bachmann",
+   "scale": "N",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "Used",
+   "price": 20.0,
+   "date": "2026-10-12",
+   "ebayId": "336836622537",
+   "note": "Road #215; test ran nice; no original box; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/336836622537"
   }
  ]
 }
