@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 499,
+ "count": 502,
  "comps": [
   {
    "model": "U25B",
@@ -6489,6 +6489,45 @@
    "ebayId": "155621282530",
    "note": "Road #1063; MPN G71632; DCC & Sound ready (not equipped); straight BIN at list price",
    "url": "https://www.ebay.com/itm/155621282530"
+  },
+  {
+   "model": "2-10-2",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "DM&IR",
+   "control": "DC",
+   "condition": "Used",
+   "price": 259.99,
+   "date": "2026-10-13",
+   "ebayId": "257795774469",
+   "note": "Road #508; USRA Light; DC/DCC (no sound); tested and working; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/257795774469"
+  },
+  {
+   "model": "C415",
+   "brand": "Overland Models",
+   "scale": "HO",
+   "road": "Columbia & Cowlitz",
+   "control": "DC",
+   "condition": "New",
+   "price": 955.0,
+   "date": "2026-10-13",
+   "ebayId": "960013591899",
+   "note": "Road #701; brass; LNIB; untested (not stated as not-working); straight BIN at list price",
+   "url": "https://www.ebay.com/itm/960013591899"
+  },
+  {
+   "model": "RSD-5",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "N de M",
+   "control": "DC",
+   "condition": "New",
+   "price": 125.0,
+   "date": "2026-10-13",
+   "ebayId": "198688321624",
+   "note": "Road #6900; NOS; tested, runs good, lights work; decoder ready; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/198688321624"
   }
  ]
 }
