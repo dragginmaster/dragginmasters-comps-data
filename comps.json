@@ -5891,6 +5891,45 @@
    "ebayId": "168788194189",
    "note": "Road #303; BIN; sold as-is (not for-parts; seller describes ready-to-go)",
    "url": "https://www.ebay.com/itm/168788194189"
+  },
+  {
+   "model": "U28C",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Penn Central",
+   "control": "DC",
+   "condition": "Used",
+   "price": 29.99,
+   "date": "2026-10-04",
+   "ebayId": "206586162721",
+   "note": "Road #6533; auction, 1 bid",
+   "url": "https://www.ebay.com/itm/206586162721"
+  },
+  {
+   "model": "U28C",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Seaboard Coast Line",
+   "control": "DC",
+   "condition": "Used",
+   "price": 55.0,
+   "date": "2026-07-24",
+   "ebayId": "205640370304",
+   "note": "Road #1528; BIN; runs, box has tape/writing",
+   "url": "https://www.ebay.com/itm/205640370304"
+  },
+  {
+   "model": "U28C",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Northern Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 50.0,
+   "date": "2026-08-13",
+   "ebayId": "147498384353",
+   "note": "Road #2808; BIN; runs great, cleaned/lubed",
+   "url": "https://www.ebay.com/itm/147498384353"
   }
  ]
 }
