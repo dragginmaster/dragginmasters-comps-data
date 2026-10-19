@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 506,
+ "count": 508,
  "comps": [
   {
    "model": "U25B",
@@ -6580,6 +6580,32 @@
    "ebayId": "297969426498",
    "note": "Road #301; Kato stock 3096-1; 1:150; converted from AU$123.42; multi-quantity (1 sold); straight BIN at list price",
    "url": "https://www.ebay.com/itm/297969426498"
+  },
+  {
+   "model": "4-6-0 Ten-Wheeler",
+   "brand": "Olympia Models",
+   "scale": "HO",
+   "road": "Maryland & Pennsylvania",
+   "control": "DC",
+   "condition": "Used",
+   "price": 399.99,
+   "date": "2026-10-13",
+   "ebayId": "117329438198",
+   "note": "Brass EH-108, unpainted; control unstated (filed DC); road per title/description backed by manufacturer documentation; item specifics said Pennsylvania Railroad in error; no road number (unpainted brass); Don banked on audit 2026-10-19",
+   "url": "https://www.ebay.com/itm/117329438198"
+  },
+  {
+   "model": "E8/9 A+B",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "New",
+   "price": 255.0,
+   "date": "2026-10-14",
+   "ebayId": "327393332870",
+   "note": "Factory A+B two-unit set (106-2401), A #82L / B #82A; control unstated (filed DC); auction 6 bids; Don banked on audit 2026-10-19, A+B set rule applies to any model with A+B pairings",
+   "url": "https://www.ebay.com/itm/327393332870"
   }
  ]
 }
