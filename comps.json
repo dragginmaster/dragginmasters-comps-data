@@ -9,7 +9,7 @@
    "scale": "N",
    "road": "Santa Fe",
    "control": "DC",
-   "condition": "Used \u2014 Good",
+   "condition": "Used — Good",
    "price": 43,
    "date": "2026-09-28",
    "ebayId": "407235668463",
@@ -22,7 +22,7 @@
    "scale": "N",
    "road": "Amtrak",
    "control": "DCC-ready",
-   "condition": "New \u2014 mint, never run",
+   "condition": "New — mint, never run",
    "price": 99.98,
    "date": "2026-09-29",
    "ebayId": "397855384495",
@@ -35,7 +35,7 @@
    "scale": "N",
    "road": "Santa Fe",
    "control": "DCC-ready",
-   "condition": "New \u2014 test run only",
+   "condition": "New — test run only",
    "price": 89,
    "date": "2026-09-29",
    "ebayId": "128079347050",
@@ -48,7 +48,7 @@
    "scale": "N",
    "road": "Erie Lackawanna",
    "control": "DC",
-   "condition": "New \u2014 never opened",
+   "condition": "New — never opened",
    "price": 104.99,
    "date": "2026-09-29",
    "ebayId": "116416919168",
@@ -61,7 +61,7 @@
    "scale": "N",
    "road": "Union Pacific",
    "control": "DCC",
-   "condition": "New \u2014 unopened, DCC",
+   "condition": "New — unopened, DCC",
    "price": 100,
    "date": "2026-09-29",
    "ebayId": "267795970279",
@@ -74,7 +74,7 @@
    "scale": "N",
    "road": "Lehigh Valley",
    "control": "DCC+Sound",
-   "condition": "New \u2014 Paragon4 sound, never opened",
+   "condition": "New — Paragon4 sound, never opened",
    "price": 201.95,
    "date": "2026-09-28",
    "ebayId": "127997443042",
@@ -87,7 +87,7 @@
    "scale": "HO",
    "road": "Southern Pacific",
    "control": "DCC+Sound",
-   "condition": "New \u2014 Paragon4 sound",
+   "condition": "New — Paragon4 sound",
    "price": 211.55,
    "date": "2026-09-29",
    "ebayId": "198525570176",
@@ -100,7 +100,7 @@
    "scale": "HO",
    "road": "CSX",
    "control": "DCC+Sound",
-   "condition": "New \u2014 DCC & sound",
+   "condition": "New — DCC & sound",
    "price": 255.99,
    "date": "2026-09-29",
    "ebayId": "168636518964",
@@ -113,7 +113,7 @@
    "scale": "HO",
    "road": "Southern Pacific",
    "control": "DC",
-   "condition": "New \u2014 factory packaging",
+   "condition": "New — factory packaging",
    "price": 54.99,
    "date": "2026-09-28",
    "ebayId": "267793911144",
@@ -126,7 +126,7 @@
    "scale": "HO",
    "road": "CSX",
    "control": "DCC+Sound",
-   "condition": "Used \u2014 good, DCC sound",
+   "condition": "Used — good, DCC sound",
    "price": 85,
    "date": "2026-09-28",
    "ebayId": "168736647539",
@@ -139,7 +139,7 @@
    "scale": "HO",
    "road": "Santa Fe",
    "control": "DC",
-   "condition": "Used \u2014 excellent, w/ box",
+   "condition": "Used — excellent, w/ box",
    "price": 69.69,
    "date": "2026-09-28",
    "ebayId": "298562106656",
@@ -152,7 +152,7 @@
    "scale": "N",
    "road": "BNSF",
    "control": "DCC+Sound",
-   "condition": "New \u2014 never opened",
+   "condition": "New — never opened",
    "price": 269,
    "date": "2026-09-30",
    "ebayId": "237008391135",
@@ -165,7 +165,7 @@
    "scale": "N",
    "road": "Amtrak",
    "control": "DCC-ready",
-   "condition": "New \u2014 never opened",
+   "condition": "New — never opened",
    "price": 105.45,
    "date": "2026-09-30",
    "ebayId": "198590880371",
@@ -178,7 +178,7 @@
    "scale": "N",
    "road": "Minneapolis & St. Louis",
    "control": "DCC-ready",
-   "condition": "New \u2014 brand new",
+   "condition": "New — brand new",
    "price": 86,
    "date": "2026-09-19",
    "ebayId": "237064734570",
@@ -191,7 +191,7 @@
    "scale": "HO",
    "road": "Kansas City Southern",
    "control": "DCC+Sound",
-   "condition": "New \u2014 brand new",
+   "condition": "New — brand new",
    "price": 249.99,
    "date": "2026-09-30",
    "ebayId": "168178591790",
@@ -204,7 +204,7 @@
    "scale": "HO",
    "road": "Rock Island",
    "control": "DCC+Sound",
-   "condition": "Used \u2014 like new",
+   "condition": "Used — like new",
    "price": 429.99,
    "date": "2026-09-30",
    "ebayId": "137109289198",
@@ -217,7 +217,7 @@
    "scale": "HO",
    "road": "Montana Rail Link",
    "control": "DC",
-   "condition": "Used \u2014 excellent",
+   "condition": "Used — excellent",
    "price": 35,
    "date": "2026-09-30",
    "ebayId": "117425827408",
@@ -230,7 +230,7 @@
    "scale": "HO",
    "road": "Wisconsin Central",
    "control": "DCC",
-   "condition": "Used \u2014 C-7 Excellent",
+   "condition": "Used — C-7 Excellent",
    "price": 58,
    "date": "2026-09-30",
    "ebayId": "298714698176",
@@ -831,7 +831,7 @@
    "ebayId": "189000291382",
    "url": "https://www.ebay.com/itm/189000291382",
    "road": "Southern Railway",
-   "condition": "New (Other) \u2014 mint, test run only",
+   "condition": "New (Other) — mint, test run only",
    "date": "2026-10-03",
    "note": "BIN; control stated 'DECODER READY' in title, 'DCC DECODER READY. NOT DCC' in description"
   },
@@ -2769,7 +2769,7 @@
    "price": 120.99,
    "date": "2026-09-19",
    "ebayId": "800665021624",
-   "note": "Listed as F7A (tiered with EMD F7); Bachmann 63754. Title/desc say DCC but item specifics Power Type field says DC \u2014 flagged.",
+   "note": "Listed as F7A (tiered with EMD F7); Bachmann 63754. Title/desc say DCC but item specifics Power Type field says DC — flagged.",
    "url": "https://www.ebay.com/itm/800665021624"
   },
   {
@@ -3016,7 +3016,7 @@
    "price": 374.95,
    "date": "2026-08-16",
    "ebayId": "800284596378",
-   "note": "Road #4433; Kato 126-0308 LS, LOKSOUND DCC. C-10 Mint-Brand New. Regular train store (Sunrise Trail Hobbies). Chart unlock \u2014 5th comp.",
+   "note": "Road #4433; Kato 126-0308 LS, LOKSOUND DCC. C-10 Mint-Brand New. Regular train store (Sunrise Trail Hobbies). Chart unlock — 5th comp.",
    "url": "https://www.ebay.com/itm/800284596378"
   },
   {
@@ -3029,7 +3029,7 @@
    "price": 65.0,
    "date": "2026-10-10",
    "ebayId": "860002682086",
-   "note": "Road #718; Title states Analog DC. Sold at list price via Buy It Now, no best-offer note. Chart unlock \u2014 5th comp.",
+   "note": "Road #718; Title states Analog DC. Sold at list price via Buy It Now, no best-offer note. Chart unlock — 5th comp.",
    "url": "https://www.ebay.com/itm/860002682086"
   },
   {
@@ -3224,7 +3224,7 @@
    "price": 42.38,
    "date": "2026-10-02",
    "ebayId": "366691818526",
-   "note": "Road #548; 1 bid, auction; control not stated on page \u2014 2000-era Life-Like analog DC model",
+   "note": "Road #548; 1 bid, auction; control not stated on page — 2000-era Life-Like analog DC model",
    "url": "https://www.ebay.com/itm/366691818526"
   },
   {
@@ -3341,7 +3341,7 @@
    "price": 39.99,
    "date": "2026-10-10",
    "ebayId": "117429710264",
-   "note": "Road #307; Buy It Now; control not stated on page \u2014 stock Atlas 4202 analog DC",
+   "note": "Road #307; Buy It Now; control not stated on page — stock Atlas 4202 analog DC",
    "url": "https://www.ebay.com/itm/117429710264"
   },
   {
@@ -3367,7 +3367,7 @@
    "price": 101.95,
    "date": "2026-08-09",
    "ebayId": "127903503138",
-   "note": "Road #405; Buy It Now, multi-quantity (5 sold); title says DC, item specifics DCC-ready \u2014 banked as DCC-ready; stock photo shows #374, title #405",
+   "note": "Road #405; Buy It Now, multi-quantity (5 sold); title says DC, item specifics DCC-ready — banked as DCC-ready; stock photo shows #374, title #405",
    "url": "https://www.ebay.com/itm/127903503138"
   },
   {
@@ -3978,7 +3978,7 @@
    "price": 220.0,
    "date": "2026-10-13",
    "ebayId": "117458817346",
-   "note": "Road #1517; CONFLICT FLAGGED: title says 'DCC sound' but item specifics misfiled as 'Analog'; banked as DCC+Sound per title.",
+   "note": "Road #1517; title states DCC sound, seller misfiled item specifics as Analog — Don verified via the case item number in listing photos: dual DC/DCC + sound.",
    "url": "https://www.ebay.com/itm/117458817346"
   },
   {
@@ -4342,7 +4342,7 @@
    "price": 26.0,
    "date": "2026-09-08",
    "ebayId": "398349368669",
-   "note": "Road #7301; CONFLICT FLAGGED: item specifics Scale misfiled as 1:87 (HO); title, gauge filter and photos are N scale \u2014 banked as N per title. MPN 7848; 2-bid auction.",
+   "note": "Road #7301; CONFLICT FLAGGED: item specifics Scale misfiled as 1:87 (HO); title, gauge filter and photos are N scale — banked as N per title. MPN 7848; 2-bid auction.",
    "url": "https://www.ebay.com/itm/398349368669"
   },
   {
@@ -4589,7 +4589,7 @@
    "price": 95.0,
    "date": "2026-10-07",
    "ebayId": "800769438778",
-   "note": "Road #6488; Sub-lettered Santa Fe; lightly used. Title/features say DCC Ready \u2014 corrected from DC.",
+   "note": "Road #6488; Sub-lettered Santa Fe; lightly used. Title/features say DCC Ready — corrected from DC.",
    "url": "https://www.ebay.com/itm/800769438778"
   },
   {
@@ -4862,7 +4862,7 @@
    "price": 49.99,
    "date": "2026-08-02",
    "ebayId": "366557157836",
-   "note": "Road #599; MPN 7881; seller mislabeled brand as Atlas / type as PRR in specifics \u2014 banked per title.",
+   "note": "Road #599; MPN 7881; seller mislabeled brand as Atlas / type as PRR in specifics — banked per title.",
    "url": "https://www.ebay.com/itm/366557157836"
   },
   {
@@ -4914,7 +4914,7 @@
    "price": 185.0,
    "date": "2026-08-31",
    "ebayId": "147511609661",
-   "note": "Paragon DC/DCC Sound; title says DC/DCC SOUND but specifics list Analog \u2014 banked per title as DCC+Sound.",
+   "note": "Paragon DC/DCC Sound; title says DC/DCC SOUND but specifics list Analog — banked per title as DCC+Sound.",
    "url": "https://www.ebay.com/itm/147511609661"
   },
   {
@@ -5226,7 +5226,7 @@
    "price": 180.0,
    "date": "2026-10-04",
    "ebayId": "158351942967",
-   "note": "Road #130; FVM 70509; title states DC Analog but item specifics Features list DCC Ready \u2014 banked per conflict rule.",
+   "note": "Road #130; FVM 70509; title states DC Analog but item specifics Features list DCC Ready — banked per conflict rule.",
    "url": "https://www.ebay.com/itm/158351942967"
   },
   {
@@ -5850,7 +5850,7 @@
    "price": 47.98,
    "date": "2026-10-14",
    "ebayId": "147630875654",
-   "note": "Road #5930 (from cab photos); UK seller, GBP 36.00 \u2248 US $47.98; BIN",
+   "note": "Road #5930 (from cab photos); UK seller, GBP 36.00 ≈ US $47.98; BIN",
    "url": "https://www.ebay.com/itm/147630875654"
   },
   {
