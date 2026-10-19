@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 466,
+ "count": 470,
  "comps": [
   {
    "model": "U25B",
@@ -6060,6 +6060,58 @@
    "ebayId": "168765089987",
    "note": "Road number not stated; not tested; straight BIN at list price",
    "url": "https://www.ebay.com/itm/168765089987"
+  },
+  {
+   "model": "Little Joe Electric",
+   "brand": "MTH",
+   "scale": "HO",
+   "road": "South Shore",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 799.99,
+   "date": "2026-10-13",
+   "ebayId": "257795774468",
+   "note": "Road #801; new (other), brand new per seller; straight fixed-price sale",
+   "url": "https://www.ebay.com/itm/257795774468"
+  },
+  {
+   "model": "B Class",
+   "brand": "Alco",
+   "scale": "HO",
+   "road": "Victorian Railways",
+   "control": "DC",
+   "condition": "Used",
+   "price": 603.97,
+   "date": "2026-10-14",
+   "ebayId": "327403927813",
+   "note": "Road number not stated; brass limited edition #107/150, Australian Locomotive Company; converted from AU$869.52; straight fixed-price sale",
+   "url": "https://www.ebay.com/itm/327403927813"
+  },
+  {
+   "model": "FP45",
+   "brand": "Athearn",
+   "scale": "N",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "New",
+   "price": 72.93,
+   "date": "2026-10-15",
+   "ebayId": "800784970316",
+   "note": "Road #93; MPN ATH22439; converted from AU$105; sold at full list price, no best-offer-accepted indicator",
+   "url": "https://www.ebay.com/itm/800784970316"
+  },
+  {
+   "model": "Class C62 4-6-4 Hudson",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Japanese National Railways",
+   "control": "DC",
+   "condition": "Used",
+   "price": 71.0,
+   "date": "2026-10-12",
+   "ebayId": "147620759052",
+   "note": "Road number not stated; control not stated, filed DC; Kato box visible in photos (title also names Tomix/MicroAce as keywords); auction, 2 bids",
+   "url": "https://www.ebay.com/itm/147620759052"
   }
  ]
 }
