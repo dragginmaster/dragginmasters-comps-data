@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 502,
+ "count": 506,
  "comps": [
   {
    "model": "U25B",
@@ -6528,6 +6528,58 @@
    "ebayId": "198688321624",
    "note": "Road #6900; NOS; tested, runs good, lights work; decoder ready; straight BIN at list price",
    "url": "https://www.ebay.com/itm/198688321624"
+  },
+  {
+   "model": "GP39-2",
+   "brand": "Atlas Master",
+   "scale": "N",
+   "road": "CSX",
+   "control": "DC",
+   "condition": "New",
+   "price": 103.66,
+   "date": "2026-10-14",
+   "ebayId": "257700890309",
+   "note": "Road #4300; Ph.1 Silver; MPN 40005899; multi-quantity listing (4 sold), each one single loco; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/257700890309"
+  },
+  {
+   "model": "BL2",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Rock Island",
+   "control": "DCC Ready",
+   "condition": "New",
+   "price": 80.0,
+   "date": "2026-10-13",
+   "ebayId": "318891138615",
+   "note": "Road #428; DCC plug; new gears installed by seller; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/318891138615"
+  },
+  {
+   "model": "Diesel Shunter",
+   "brand": "Lima",
+   "scale": "HO",
+   "road": "NSWGR",
+   "control": "DC",
+   "condition": "Used",
+   "price": 48.62,
+   "date": "2026-10-14",
+   "ebayId": "188755810977",
+   "note": "Road #8003; Lima item 199-26; tested, in good working order; converted from AU$69.99; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/188755810977"
+  },
+  {
+   "model": "EF510",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "JR Freight",
+   "control": "DC",
+   "condition": "New",
+   "price": 85.73,
+   "date": "2026-10-14",
+   "ebayId": "297969426498",
+   "note": "Road #301; Kato stock 3096-1; 1:150; converted from AU$123.42; multi-quantity (1 sold); straight BIN at list price",
+   "url": "https://www.ebay.com/itm/297969426498"
   }
  ]
 }
