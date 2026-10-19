@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 478,
+ "count": 480,
  "comps": [
   {
    "model": "U25B",
@@ -6216,6 +6216,32 @@
    "ebayId": "168786010865",
    "note": "Road #5727; Kato stock 176-7005; control not stated, filed DC; tested runs both directions, headlights work; heavily weathered (custom); front snowplow missing; no original packaging; straight BIN",
    "url": "https://www.ebay.com/itm/168786010865"
+  },
+  {
+   "model": "GP38-2",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "L&N",
+   "control": "DC",
+   "condition": "Used",
+   "price": 33.74,
+   "date": "2026-10-14",
+   "ebayId": "287404189184",
+   "note": "Road #4123; control not stated, filed DC; untested (not stated as not-working); sold at 25%-off sale price ($33.74, was $44.99), no best-offer",
+   "url": "https://www.ebay.com/itm/287404189184"
+  },
+  {
+   "model": "ES44AC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 84.99,
+   "date": "2026-10-12",
+   "ebayId": "206584362782",
+   "note": "Road #5447; Kato stock 176-8907; with PTC; sold at full list price, no best-offer-accepted indicator",
+   "url": "https://www.ebay.com/itm/206584362782"
   }
  ]
 }
