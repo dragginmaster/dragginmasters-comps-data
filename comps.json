@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 473,
+ "count": 475,
  "comps": [
   {
    "model": "U25B",
@@ -6151,6 +6151,32 @@
    "ebayId": "168715587674",
    "note": "Road #5650; control not stated, filed DC; MPN G67056; straight BIN at list price",
    "url": "https://www.ebay.com/itm/168715587674"
+  },
+  {
+   "model": "SD40-2",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Chicago & North Western",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 249.99,
+   "date": "2026-10-14",
+   "ebayId": "960044240826",
+   "note": "Road #6910; new C-10 mint; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/960044240826"
+  },
+  {
+   "model": "ES44AH",
+   "brand": "ScaleTrains",
+   "scale": "HO",
+   "road": "CSX Transportation",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 387.98,
+   "date": "2026-10-14",
+   "ebayId": "287636201382",
+   "note": "Road #1902; Clinchfield Heritage scheme; MPN SXT41623; factory DCC & LokSound; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/287636201382"
   }
  ]
 }
