@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-19",
  "source": "eBay sold listings, harvested by hand",
- "count": 496,
+ "count": 499,
  "comps": [
   {
    "model": "U25B",
@@ -6450,6 +6450,45 @@
    "ebayId": "257705022556",
    "note": "Road #324B; ESU sound, NMRA DCC; multi-quantity listing (3 sold), each one single loco; straight BIN at list price",
    "url": "https://www.ebay.com/itm/257705022556"
+  },
+  {
+   "model": "Paragon4",
+   "brand": "Broadway Limited",
+   "scale": "N",
+   "road": "Santa Fe",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 150.0,
+   "date": "2026-10-15",
+   "ebayId": "189019130371",
+   "note": "Road #7305; Paragon4 Rolling Thunder; dual-mode DC & DCC; sold at $150.00 list price, no best-offer-accepted banner",
+   "url": "https://www.ebay.com/itm/189019130371"
+  },
+  {
+   "model": "USRA Heavy Mikado 2-8-2",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "New",
+   "price": 160.0,
+   "date": "2026-10-12",
+   "ebayId": "267807914968",
+   "note": "Road #2716; Kato stock 126-0116; straight BIN at list price",
+   "url": "https://www.ebay.com/itm/267807914968"
+  },
+  {
+   "model": "GP18",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "Seaboard Coast Line",
+   "control": "DCC Ready",
+   "condition": "New",
+   "price": 181.99,
+   "date": "2026-10-14",
+   "ebayId": "155621282530",
+   "note": "Road #1063; MPN G71632; DCC & Sound ready (not equipped); straight BIN at list price",
+   "url": "https://www.ebay.com/itm/155621282530"
   }
  ]
 }
