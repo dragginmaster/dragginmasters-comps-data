@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 516,
+  "count": 518,
   "comps": [
     {
       "model": "U25B",
@@ -6710,6 +6710,32 @@
       "ebayId": "298735349360",
       "note": "Road #2305; Atlas 8581 (catalog); tested, runs good, all lights work; original box; control unstated (filed DC)",
       "url": "https://www.ebay.com/itm/298735349360"
+    },
+    {
+      "model": "GP-9",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "L&N",
+      "control": "DC",
+      "condition": "Used",
+      "price": 60.0,
+      "date": "2026-10-15",
+      "ebayId": "920033663882",
+      "note": "Road #507; Phase 2; Atlas 48317 (catalog); untested; control per specifics (Analog)",
+      "url": "https://www.ebay.com/itm/920033663882"
+    },
+    {
+      "model": "M-2c 4-8-0",
+      "brand": "Precision Scale",
+      "scale": "HO",
+      "road": "Norfolk & Western",
+      "control": "DC",
+      "condition": "Used",
+      "price": 1450.0,
+      "date": "2026-10-12",
+      "ebayId": "237108784170",
+      "note": "Road #1157; brass; factory painted; like new, only tested; test-run video in listing; control per specifics (DC/Analog)",
+      "url": "https://www.ebay.com/itm/237108784170"
     }
   ]
 }
