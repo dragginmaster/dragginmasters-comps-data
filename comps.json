@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 544,
+  "count": 546,
   "comps": [
     {
       "model": "U25B",
@@ -7074,6 +7074,32 @@
       "ebayId": "188937638265",
       "note": "Road #6047; Kato 37-2707 (catalog); graded C-7 Excellent",
       "url": "https://www.ebay.com/itm/188937638265"
+    },
+    {
+      "model": "GG1",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Pennsylvania Railroad",
+      "control": "DC",
+      "condition": "New",
+      "price": 93.05,
+      "date": "2026-10-14",
+      "ebayId": "327396952356",
+      "note": "Road #4935; new in box",
+      "url": "https://www.ebay.com/itm/327396952356"
+    },
+    {
+      "model": "U36B",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Norfolk & Western",
+      "control": "DC",
+      "condition": "Used",
+      "price": 30.0,
+      "date": "2026-10-13",
+      "ebayId": "267805837652",
+      "note": "Road #1776, Bicentennial scheme; Bachmann 4677 (catalog); runs ok, not run in 20 years, seller advises a light service; graded C-7 Excellent",
+      "url": "https://www.ebay.com/itm/267805837652"
     }
   ]
 }
