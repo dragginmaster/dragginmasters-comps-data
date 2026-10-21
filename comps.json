@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 518,
+  "count": 519,
   "comps": [
     {
       "model": "U25B",
@@ -6736,6 +6736,19 @@
       "ebayId": "237108784170",
       "note": "Road #1157; brass; factory painted; like new, only tested; test-run video in listing; control per specifics (DC/Analog)",
       "url": "https://www.ebay.com/itm/237108784170"
+    },
+    {
+      "model": "GG1",
+      "brand": "Arnold",
+      "scale": "N",
+      "road": "Amtrak",
+      "control": "DC",
+      "condition": "Used",
+      "price": 45.0,
+      "date": "2026-10-14",
+      "ebayId": "327397049525",
+      "note": "Road #902; Arnold Rapido 5113 (catalog); control per specifics (DC/Analog)",
+      "url": "https://www.ebay.com/itm/327397049525"
     }
   ]
 }
