@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 512,
+  "count": 513,
   "comps": [
     {
       "model": "U25B",
@@ -6658,6 +6658,19 @@
       "ebayId": "800308940996",
       "note": "Road #50 (painted on unit; #81102 in title is the catalog number); powered; control unstated (filed DC); Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/800308940996"
+    },
+    {
+      "model": "4-4-0 American",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Union Pacific",
+      "control": "DC",
+      "condition": "Used",
+      "price": 40.0,
+      "date": "2026-10-12",
+      "ebayId": "117462695818",
+      "note": "Road #119; Jupiter replica; 'Very Clean Runs Great'; control per specifics (Power Type DC, Control System Analog); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/117462695818"
     }
   ]
 }
