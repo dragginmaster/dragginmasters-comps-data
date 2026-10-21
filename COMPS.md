@@ -118,11 +118,101 @@ before your first hunt.
    how hunts run: find the comps, verify them, put them in the guide.
 4. **Don only gets the genuine judgment calls** — anomalies, taxonomy edge
    cases (rare variants, factory sets, conflicting listing details). Ask in
-   chat for a few; if there are many, build the HTML review page
-   (`python3 build-triage-page.py candidates.json triage-review.html` — see
-   the script's docstring; every candidate MUST carry its ebayId) and attach
-   it so he can mark Keep/Drop per card.
+   chat for a few; if there are many, build him an audit page (see
+   "Audit pages" below) and attach it so he can rule per card.
 5. **Sanity check** before filing, then push.
+
+## API data on GitHub — what it is and how to handle it
+
+CompsAPI search runs produce RAW JSON dumps (responses from the `/v1/sold`
+endpoint: ebayId, title, price + currency, sold/ended date, listing URL).
+Per Don's directive (2026-10-21), after every search run those dumps are
+pushed to THIS repo under **`api-dumps/YYYY-MM-DD/`**, unfiltered. This is
+where Cinder picks the data up — local-only dumps strand it.
+
+**Processing the dumps (Cinder's job):**
+1. **Dedupe** every result against `comps.json` by ebayId — already-banked
+   items are dead weight, drop them.
+2. **Parse titles** into candidate brand / model / scale / control fields.
+   Titles are all the API gives you — there are no structured control or
+   condition fields, and minus-words in queries are ignored by the API.
+3. **Pre-filter by title**: drop obvious non-comps — parts, decoders, track,
+   decals, shells, tools, and seller-bundle lots. Keep factory A+B pairings
+   and named factory sets flagged, not dropped (they're Don's judgment call).
+4. **Sort HO first** (scale-balance directive), then write the surviving
+   candidate pool back to the repo as a JSON list of ebayIds + parsed fields,
+   ready for browser verification.
+
+**Hard cautions about API data:**
+- API "sold" results include listings that merely **ENDED unsold** (proven
+  repeatedly, Oct 2026). An API hit is a lead, never evidence.
+- API prices can be the **list price on a best-offer-accepted sale** — the
+  hidden-price trap (hard rule 5) is invisible in API data.
+- **Nothing banks from API data alone.** Every candidate still passes the
+  browser verification gate on its live sold page + a saved screenshot
+  (hard rules 1–2). Verification is the bottleneck, not finding.
+- API data ages: eBay strips sold pages older than ~90 days down to
+  ENDED-only shells that can never verify. Process dumps promptly, newest
+  sold dates first.
+- **Never discard raw dumps.** Re-processing works from the dumps — it must
+  never cost new searches.
+
+## Audit pages — how they're made (the review page Don rules on)
+
+When a run accumulates genuine judgment calls, they go to Don on a single
+standalone HTML page. **Only genuine judgment calls belong on it** — settled-
+rule rejects never pad the page; Don's attention is the scarce resource.
+
+**Input:** an `audit_candidates.json` — one object per candidate:
+`ebayId`, `title`, `price` (USD), `date`, `brand`, `scale`, `road`,
+`shot` (path to the candidate's saved screenshot), and `question` — the
+exact question for Don, in plain words, stating the conflicting facts
+(e.g. "title says 8953, the number painted on the loco reads 8937 — which
+goes in the guide?"). Reference builder:
+`~/workspace/comps-audit/audit_2026-10-21-plus50/build_audit_form.py`
+(Dragginmaster's machine) — the pattern below is what matters.
+
+**Build recipe:**
+1. **Embed every screenshot in the page**: PIL → convert RGB → downscale to
+   max 880 px wide → JPEG quality 60 → base64 data URI. (71 cards ≈ 4 MB.)
+2. **One card per candidate**, numbered in pile order: card number + full
+   listing title; a meta line (price · sold date · brand · scale · road);
+   the screenshot; the question in a highlighted box; a link to
+   `https://www.ebay.com/itm/<ebayId>`; verdict radios **Bank it / Trash it /
+   Undecided** (Undecided preselected); and a free-text note box
+   ("your call in your words — optional").
+3. **Header** states the run's result (guide count before → after) and that
+   picks save as you go.
+4. **Persistence:** save verdicts + notes to `localStorage` on every change
+   under a per-run key (e.g. `plus50AuditV1`), restore on load, and show an
+   "X of N decided" counter. Don WILL close the page mid-review — losing his
+   progress is not acceptable.
+5. **"Copy my decisions" button** (fixed at the bottom): builds a plain-text
+   block — a header line, then one line per card:
+   `N. <ebayId> — BANK|TRASH|UNDECIDED — note: <note> — <title>` — copies it
+   to the clipboard AND displays it on the page (clipboard may be blocked;
+   the on-page text is the fallback). Don pastes the block back in chat.
+
+**Delivery:** attach the single .html file in chat. Do **NOT** deliver it
+via a file-storage link — on 2026-10-19 that route downloaded as
+octet-stream instead of rendering on Don's Android. Known quirk: the in-app
+attachment preview won't raise a keyboard for the note boxes on mobile, so
+Don may open it in Chrome, paste the decisions block, or just rule in chat
+card by card — all are equally valid input.
+
+**Don's ruling protocol (2026-10-21):**
+- "**Bank it**" with no note = he agrees with the recommendation/framing in
+  the card's question — bank it exactly that way.
+- A **note overrides** the framing.
+- "**Trash it**" = gone. Record his stated reason verbatim when he gives one.
+- He may **reverse** a ruling — apply the reversal, pull the comp back out
+  of the guide if it was already banked (Kato EF60 precedent, 2026-10-21).
+
+**After rulings land:** bank the BANKs (move each shot to
+`shots/<ebayId>.jpg`, append to comps.json with a note "Banked from the
+<run> audit pile on Don's ruling <date>"), record every decision in the
+run's `decisions.json`, regenerate `price-list.html` + bump `sw.js` CACHE in
+the site repo, push both repos.
 
 ## Workflow per task
 
