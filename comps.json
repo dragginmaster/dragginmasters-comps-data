@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 541,
+  "count": 544,
   "comps": [
     {
       "model": "U25B",
@@ -7035,6 +7035,45 @@
       "ebayId": "267810694141",
       "note": "Road #806; Bachmann 'Overland' 4-8-4 with tender; Best Offer offered but sold at full list (no accepted-offer banner); control not stated in listing (filed DC)",
       "url": "https://www.ebay.com/itm/267810694141"
+    },
+    {
+      "model": "SD70ACe",
+      "brand": "Broadway Limited",
+      "scale": "N",
+      "road": "Union Pacific",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 153.75,
+      "date": "2026-10-12",
+      "ebayId": "307216154594",
+      "note": "Road #8334 (also its DCC address); flag scheme; good condition",
+      "url": "https://www.ebay.com/itm/307216154594"
+    },
+    {
+      "model": "E6A",
+      "brand": "Life-Like",
+      "scale": "N",
+      "road": "Seaboard Air Line",
+      "control": "DC",
+      "condition": "Used",
+      "price": 110.0,
+      "date": "2026-10-13",
+      "ebayId": "267810066633",
+      "note": "Road #3015; Life-Like 7358 (catalog); graded C-5 Good, light wear; original plastic case; Best Offer offered but sold at full list (no accepted-offer banner); control not stated in listing (filed DC)",
+      "url": "https://www.ebay.com/itm/267810066633"
+    },
+    {
+      "model": "SD40-2",
+      "brand": "Kato",
+      "scale": "HO",
+      "road": "Electro-Motive Leasing",
+      "control": "DCC-ready",
+      "condition": "Used",
+      "price": 119.99,
+      "date": "2026-10-13",
+      "ebayId": "188937638265",
+      "note": "Road #6047; Kato 37-2707 (catalog); graded C-7 Excellent",
+      "url": "https://www.ebay.com/itm/188937638265"
     }
   ]
 }
