@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 515,
+  "count": 516,
   "comps": [
     {
       "model": "U25B",
@@ -6697,6 +6697,19 @@
       "ebayId": "178285533192",
       "note": "Road #1982; Missouri Pacific heritage scheme; Kato 176-8408; title states DC",
       "url": "https://www.ebay.com/itm/178285533192"
+    },
+    {
+      "model": "AEM-7",
+      "brand": "Atlas",
+      "scale": "HO",
+      "road": "SEPTA",
+      "control": "DC",
+      "condition": "Used",
+      "price": 200.0,
+      "date": "2026-10-14",
+      "ebayId": "298735349360",
+      "note": "Road #2305; Atlas 8581 (catalog); tested, runs good, all lights work; original box; control unstated (filed DC)",
+      "url": "https://www.ebay.com/itm/298735349360"
     }
   ]
 }
