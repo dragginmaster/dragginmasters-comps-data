@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 532,
+  "count": 534,
   "comps": [
     {
       "model": "U25B",
@@ -6918,6 +6918,32 @@
       "ebayId": "298689553374",
       "note": "Road #4454; Daylight paint; tested, runs good; original box; control not stated in listing (filed DC)",
       "url": "https://www.ebay.com/itm/298689553374"
+    },
+    {
+      "model": "E7A",
+      "brand": "Con-Cor",
+      "scale": "N",
+      "road": "New York Central",
+      "control": "DC",
+      "condition": "Used",
+      "price": 49.95,
+      "date": "2026-10-13",
+      "ebayId": "257681104302",
+      "note": "Road #4035; title writes the model E7-A (filed E7A per guide convention); bench tested, runs decent but loud with a slight grinding noise; headlight works; needs couplers",
+      "url": "https://www.ebay.com/itm/257681104302"
+    },
+    {
+      "model": "GP38-2",
+      "brand": "Athearn Genesis",
+      "scale": "HO",
+      "road": "Union Pacific",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 309.99,
+      "date": "2026-10-14",
+      "ebayId": "168368188845",
+      "note": "Road #2322; Athearn Genesis G1416 (catalog \u2014 title leads with #1416, the road number is 2322)",
+      "url": "https://www.ebay.com/itm/168368188845"
     }
   ]
 }
