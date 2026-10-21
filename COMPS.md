@@ -78,7 +78,9 @@ before your first hunt.
   (format: "Road #9779"), along with paint-scheme details ("Warbonnet",
   "100th Anniversary", "Executive") stripped from the road string.
   If no road name can be determined, leave for the road-name review page —
-  never guess.
+  never guess. **Exception (Don's rule, 2026-10-21): an unlettered/undecorated
+  unit files with road = "Undecorated" — that IS its road-column value, not a
+  review-page hold.**
 - Trend tiers group by **brand+model+scale+control** (road name excluded from
   the key, shown per sale).
 
