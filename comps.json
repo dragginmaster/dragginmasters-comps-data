@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 536,
+  "count": 538,
   "comps": [
     {
       "model": "U25B",
@@ -6970,6 +6970,32 @@
       "ebayId": "800784967279",
       "note": "Road #4837; Kato 176-8604 (catalog); sold AU $120.00 (page USD approx $84.04); Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/800784967279"
+    },
+    {
+      "model": "E 144",
+      "brand": "Roco",
+      "scale": "HO",
+      "road": "DB",
+      "control": "DC",
+      "condition": "Used",
+      "price": 73.59,
+      "date": "2026-10-14",
+      "ebayId": "366691420366",
+      "note": "Road #144 071-8; Roco 4131 (catalog); ocean blue & beige; tested, serviced, runs well; sold GBP 55.00 (page USD approx $73.59); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/366691420366"
+    },
+    {
+      "model": "GP-9",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Milwaukee Road",
+      "control": "DC",
+      "condition": "Used",
+      "price": 58.0,
+      "date": "2026-10-12",
+      "ebayId": "257784770956",
+      "note": "Road #203; Atlas 48411 (catalog); title calls it GP-9 TT; tested forward and reverse; writing on the bottom of the fuel tank",
+      "url": "https://www.ebay.com/itm/257784770956"
     }
   ]
 }
