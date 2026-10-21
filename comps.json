@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 525,
+  "count": 527,
   "comps": [
     {
       "model": "U25B",
@@ -6827,6 +6827,32 @@
       "ebayId": "168777485579",
       "note": "Road #1802; brass, factory painted; listed New but graded C-7 Excellent in specifics; bench tested OK both directions; original box; control per specifics (Analog)",
       "url": "https://www.ebay.com/itm/168777485579"
+    },
+    {
+      "model": "139",
+      "brand": "Roco",
+      "scale": "HO",
+      "road": "Lokomotion",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 200.69,
+      "date": "2026-10-14",
+      "ebayId": "237122234306",
+      "note": "Road #139 311-5; Roco 73585 (catalog); sold GBP 149.99 (page USD approx $200.69); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/237122234306"
+    },
+    {
+      "model": "Ae 6/6",
+      "brand": "Roco",
+      "scale": "HO",
+      "road": "SBB",
+      "control": "DC",
+      "condition": "New: Other",
+      "price": 187.32,
+      "date": "2026-10-14",
+      "ebayId": "236975217781",
+      "note": "Road #11454 'Yverdon'; Roco 43699 (catalog), 40th anniversary; cabinet display model, fully checked and working; DC with 8-pin chip facility (seller states DC, not DCC-ready); sold GBP 140.00 (page USD approx $187.32)",
+      "url": "https://www.ebay.com/itm/236975217781"
     }
   ]
 }
