@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 551,
+  "count": 553,
   "comps": [
     {
       "model": "U25B",
@@ -7165,6 +7165,32 @@
       "ebayId": "257794469957",
       "note": "Road #217, Phase III; excellent like new, original box, tested and working",
       "url": "https://www.ebay.com/itm/257794469957"
+    },
+    {
+      "model": "SW1500",
+      "brand": "Athearn",
+      "scale": "HO",
+      "road": "Union Pacific",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 275.99,
+      "date": "2026-10-14",
+      "ebayId": "157618027213",
+      "note": "Road #1014; Athearn 29766 (catalog)",
+      "url": "https://www.ebay.com/itm/157618027213"
+    },
+    {
+      "model": "GP38",
+      "brand": "Atlas",
+      "scale": "HO",
+      "road": "Illinois Central Gulf",
+      "control": "DC",
+      "condition": "Used",
+      "price": 35.0,
+      "date": "2026-10-14",
+      "ebayId": "840021646554",
+      "note": "Road #9538; Atlas part 7062 (catalog); tested, ran fine; Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/840021646554"
     }
   ]
 }
