@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 529,
+  "count": 531,
   "comps": [
     {
       "model": "U25B",
@@ -6879,6 +6879,32 @@
       "ebayId": "198702606589",
       "note": "Road #2922 (also its DCC address); original Paragon decoder removed; aftermarket Tsunami 21-pin decoder on a Decoder Buddy board; runs great on DCC per seller; listing does not call it DCC+Sound, filed DCC; no box",
       "url": "https://www.ebay.com/itm/198702606589"
+    },
+    {
+      "model": "E8",
+      "brand": "Life-Like",
+      "scale": "N",
+      "road": "Southern",
+      "control": "DC",
+      "condition": "New",
+      "price": 31.0,
+      "date": "2026-10-14",
+      "ebayId": "377553016012",
+      "note": "Road #2923; track tested, ran fine forward and reverse, light worked; control not stated in listing (filed DC)",
+      "url": "https://www.ebay.com/itm/377553016012"
+    },
+    {
+      "model": "C12",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "JNR",
+      "control": "DC",
+      "condition": "New",
+      "price": 114.12,
+      "date": "2026-10-12",
+      "ebayId": "137832010040",
+      "note": "Road #67 (plate reads C12 67); Kato 2022-1 (catalog); new in box",
+      "url": "https://www.ebay.com/itm/137832010040"
     }
   ]
 }
