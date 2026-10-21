@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 553,
+  "count": 556,
   "comps": [
     {
       "model": "U25B",
@@ -7191,6 +7191,45 @@
       "ebayId": "840021646554",
       "note": "Road #9538; Atlas part 7062 (catalog); tested, ran fine; Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/840021646554"
+    },
+    {
+      "model": "F7A + F7B",
+      "brand": "Mantua",
+      "scale": "HO",
+      "road": "New York Central",
+      "control": "DC",
+      "condition": "New",
+      "price": 62.0,
+      "date": "2026-10-14",
+      "ebayId": "267780450526",
+      "note": "A+B pair: powered F7A Road #1680 + dummy F7B Road #1651; control unstated (filed DC); Mantua 402-22 / 409-22 (catalog); new sealed",
+      "url": "https://www.ebay.com/itm/267780450526"
+    },
+    {
+      "model": "GP30",
+      "brand": "Bachmann",
+      "scale": "HO",
+      "road": "Union Pacific",
+      "control": "DC",
+      "condition": "Used",
+      "price": 46.83,
+      "date": "2026-10-13",
+      "ebayId": "327010616759",
+      "note": "Road #844; GBP 35.00 (about US $46.83); control unstated (filed DC); tested and running well, no lights, some semi-loose handrails; Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/327010616759"
+    },
+    {
+      "model": "E8",
+      "brand": "Proto 2000",
+      "scale": "HO",
+      "road": "L&N",
+      "control": "DC",
+      "condition": "New",
+      "price": 49.95,
+      "date": "2026-10-13",
+      "ebayId": "287631420227",
+      "note": "Road #797; blue & cream; Proto 2000 8156 (catalog); graded C-9 Factory New",
+      "url": "https://www.ebay.com/itm/287631420227"
     }
   ]
 }
