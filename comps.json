@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 576,
+  "count": 575,
   "comps": [
     {
       "model": "U25B",
@@ -7464,19 +7464,6 @@
       "ebayId": "227243850577",
       "note": "Factory undecorated, no road name or number exists; C $325.00. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
       "url": "https://www.ebay.com/itm/227243850577"
-    },
-    {
-      "model": "EF60",
-      "brand": "Kato",
-      "scale": "N",
-      "road": "JNR",
-      "control": "DC",
-      "condition": "Used",
-      "price": 19.4,
-      "date": "2026-10-13",
-      "ebayId": "147623195400",
-      "note": "Road #503 (photo-only number); operator never stated in text \u2014 filed JNR, the EF60's operator; tested working both ways, lights work; AU $27.70. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
-      "url": "https://www.ebay.com/itm/147623195400"
     },
     {
       "model": "Yard Boss Set",
