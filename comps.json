@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 546,
+  "count": 547,
   "comps": [
     {
       "model": "U25B",
@@ -7100,6 +7100,19 @@
       "ebayId": "267805837652",
       "note": "Road #1776, Bicentennial scheme; Bachmann 4677 (catalog); runs ok, not run in 20 years, seller advises a light service; graded C-7 Excellent",
       "url": "https://www.ebay.com/itm/267805837652"
+    },
+    {
+      "model": "RSD-5",
+      "brand": "Atlas Master",
+      "scale": "N",
+      "road": "Ferrocarril Del Pacifico",
+      "control": "DCC-ready",
+      "condition": "New: Other",
+      "price": 130.0,
+      "date": "2026-10-13",
+      "ebayId": "198688294226",
+      "note": "Road #818; Atlas 40000533 (catalog); Master Line per the box in the photos; NOS, previously owned; tested, runs and lights directionally; specifics list Control System Analog with a 'Decoder Ready' feature (filed DCC-ready)",
+      "url": "https://www.ebay.com/itm/198688294226"
     }
   ]
 }
