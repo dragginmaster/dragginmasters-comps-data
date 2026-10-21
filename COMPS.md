@@ -86,6 +86,9 @@ before your first hunt.
 
 ## Harvest operations
 
+- **Scale balance (Don's directive, 2026-10-21):** the guide is N-heavy
+  (400 N / 175 HO at 575 total). Lean harvests toward HO until the split
+  evens out, then keep N and HO balanced as the guide grows.
 - **eBay blocks direct VM web access.** All eBay page visits go through
   browser tasks — never curl/scrape eBay from the shell.
 - Browser-task screenshots are inline-only; the task cannot save files. The
