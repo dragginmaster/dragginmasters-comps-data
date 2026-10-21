@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 519,
+  "count": 522,
   "comps": [
     {
       "model": "U25B",
@@ -6749,6 +6749,45 @@
       "ebayId": "327397049525",
       "note": "Road #902; Arnold Rapido 5113 (catalog); control per specifics (DC/Analog)",
       "url": "https://www.ebay.com/itm/327397049525"
+    },
+    {
+      "model": "USRA Heavy Pacific 4-6-2",
+      "brand": "Broadway Limited",
+      "scale": "HO",
+      "road": "Santa Fe",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 345.0,
+      "date": "2026-10-13",
+      "ebayId": "820193335461",
+      "note": "Road #3415; BLI 2920 (catalog); Paragon2 sound; box label confirms model/road/control",
+      "url": "https://www.ebay.com/itm/820193335461"
+    },
+    {
+      "model": "C30-7",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Santa Fe",
+      "control": "DC",
+      "condition": "Used",
+      "price": 78.88,
+      "date": "2026-10-12",
+      "ebayId": "287633193667",
+      "note": "Road #8017; Kato 176-301 (catalog); running video in listing; sold as-is (no non-runner language); control per specifics (DC)",
+      "url": "https://www.ebay.com/itm/287633193667"
+    },
+    {
+      "model": "SD40",
+      "brand": "Kato",
+      "scale": "HO",
+      "road": "Wisconsin Central",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 70.0,
+      "date": "2026-10-14",
+      "ebayId": "267812953218",
+      "note": "Road #6001; seller refurbished; aftermarket MRC 1611 sound decoder; 'runs very smooth'; Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/267812953218"
     }
   ]
 }
