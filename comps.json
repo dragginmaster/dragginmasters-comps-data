@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 510,
+  "count": 512,
   "comps": [
     {
       "model": "U25B",
@@ -6632,6 +6632,32 @@
       "ebayId": "366734075191",
       "note": "Road #6784; Old Time 'Fat Boy' switcher with tender; in box; control per specifics (Power Type DC, Control System Analog); seller grade C-6 Very Good",
       "url": "https://www.ebay.com/itm/366734075191"
+    },
+    {
+      "model": "DL-109",
+      "brand": "Proto 1000",
+      "scale": "HO",
+      "road": "Rock Island",
+      "control": "DC",
+      "condition": "New",
+      "price": 89.99,
+      "date": "2026-10-14",
+      "ebayId": "307209326437",
+      "note": "Road #621; 'The Rocket'; NIB; control per specifics (Power Type DC, Control System Analog); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/307209326437"
+    },
+    {
+      "model": "GE 70 Ton",
+      "brand": "Bachmann Spectrum",
+      "scale": "HO",
+      "road": "Baltimore & Annapolis",
+      "control": "DC",
+      "condition": "Used",
+      "price": 49.99,
+      "date": "2026-10-15",
+      "ebayId": "800308940996",
+      "note": "Road #50 (painted on unit; #81102 in title is the catalog number); powered; control unstated (filed DC); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/800308940996"
     }
   ]
 }
