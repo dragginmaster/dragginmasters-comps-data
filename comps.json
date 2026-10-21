@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 513,
+  "count": 515,
   "comps": [
     {
       "model": "U25B",
@@ -6671,6 +6671,32 @@
       "ebayId": "117462695818",
       "note": "Road #119; Jupiter replica; 'Very Clean Runs Great'; control per specifics (Power Type DC, Control System Analog); Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/117462695818"
+    },
+    {
+      "model": "SD40",
+      "brand": "Athearn",
+      "scale": "HO",
+      "road": "CSX",
+      "control": "DC",
+      "condition": "Used",
+      "price": 179.99,
+      "date": "2026-10-13",
+      "ebayId": "820215483005",
+      "note": "Road #8259; RTR (Ready-to-Roll); ex-Chessie System unit, Chessie paint patched to CSX; control unstated (filed DC)",
+      "url": "https://www.ebay.com/itm/820215483005"
+    },
+    {
+      "model": "SD70ACe",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Union Pacific",
+      "control": "DC",
+      "condition": "New",
+      "price": 150.0,
+      "date": "2026-10-14",
+      "ebayId": "178285533192",
+      "note": "Road #1982; Missouri Pacific heritage scheme; Kato 176-8408; title states DC",
+      "url": "https://www.ebay.com/itm/178285533192"
     }
   ]
 }
