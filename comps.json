@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 509,
+  "count": 510,
   "comps": [
     {
       "model": "U25B",
@@ -6619,6 +6619,19 @@
       "ebayId": "920022999378",
       "note": "Blue box, in box with paperwork; control unstated (filed DC); no road number stated in listing; Best Offer was offered but sale was at full list price (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/920022999378"
+    },
+    {
+      "model": "0-4-0 Switcher",
+      "brand": "Model Power",
+      "scale": "HO",
+      "road": "Denver & Rio Grande Western",
+      "control": "DC",
+      "condition": "Used",
+      "price": 29.99,
+      "date": "2026-10-14",
+      "ebayId": "366734075191",
+      "note": "Road #6784; Old Time 'Fat Boy' switcher with tender; in box; control per specifics (Power Type DC, Control System Analog); seller grade C-6 Very Good",
+      "url": "https://www.ebay.com/itm/366734075191"
     }
   ]
 }
