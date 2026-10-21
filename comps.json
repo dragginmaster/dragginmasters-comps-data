@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 534,
+  "count": 536,
   "comps": [
     {
       "model": "U25B",
@@ -6944,6 +6944,32 @@
       "ebayId": "168368188845",
       "note": "Road #2322; Athearn Genesis G1416 (catalog \u2014 title leads with #1416, the road number is 2322)",
       "url": "https://www.ebay.com/itm/168368188845"
+    },
+    {
+      "model": "GP40",
+      "brand": "Atlas",
+      "scale": "N",
+      "road": "Denver & Rio Grande Western",
+      "control": "DCC-ready",
+      "condition": "Used",
+      "price": 89.95,
+      "date": "2026-10-12",
+      "ebayId": "206349160710",
+      "note": "Road #3141; Atlas 48557 (catalog); tested, runs; dusty from display; no box; listing names the road Rio Grande/DRGW (filed under the guide's Denver & Rio Grande Western)",
+      "url": "https://www.ebay.com/itm/206349160710"
+    },
+    {
+      "model": "SD70M",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Union Pacific",
+      "control": "DC",
+      "condition": "New",
+      "price": 84.04,
+      "date": "2026-10-12",
+      "ebayId": "800784967279",
+      "note": "Road #4837; Kato 176-8604 (catalog); sold AU $120.00 (page USD approx $84.04); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/800784967279"
     }
   ]
 }
