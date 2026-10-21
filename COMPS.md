@@ -86,6 +86,11 @@ before your first hunt.
 
 ## Harvest operations
 
+- **API data goes on GitHub (Don's directive, 2026-10-21):** after every
+  CompsAPI search run, push the RAW result dumps to this repo under
+  `api-dumps/YYYY-MM-DD/` (raw JSON, unfiltered — never discard raw results).
+  Cinder processes data from GitHub; local-only dumps strand it where she
+  can't help.
 - **Scale balance (Don's directive, 2026-10-21):** the guide is N-heavy
   (400 N / 175 HO at 575 total). Lean harvests toward HO until the split
   evens out, then keep N and HO balanced as the guide grows.
