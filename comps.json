@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 524,
+  "count": 525,
   "comps": [
     {
       "model": "U25B",
@@ -6814,6 +6814,19 @@
       "ebayId": "820236346213",
       "note": "Road #7492; Rapido 18503 (catalog); Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/820236346213"
+    },
+    {
+      "model": "M68 4-8-4",
+      "brand": "Overland Models",
+      "scale": "HO",
+      "road": "Denver & Rio Grande Western",
+      "control": "DC",
+      "condition": "New: Other",
+      "price": 695.0,
+      "date": "2026-10-13",
+      "ebayId": "168777485579",
+      "note": "Road #1802; brass, factory painted; listed New but graded C-7 Excellent in specifics; bench tested OK both directions; original box; control per specifics (Analog)",
+      "url": "https://www.ebay.com/itm/168777485579"
     }
   ]
 }
