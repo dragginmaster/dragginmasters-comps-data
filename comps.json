@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 556,
+  "count": 557,
   "comps": [
     {
       "model": "U25B",
@@ -7230,6 +7230,19 @@
       "ebayId": "287631420227",
       "note": "Road #797; blue & cream; Proto 2000 8156 (catalog); graded C-9 Factory New",
       "url": "https://www.ebay.com/itm/287631420227"
+    },
+    {
+      "model": "CF7",
+      "brand": "Athearn",
+      "scale": "HO",
+      "road": "Santa Fe",
+      "control": "DCC-ready",
+      "condition": "Used",
+      "price": 148.0,
+      "date": "2026-10-14",
+      "ebayId": "198568377160",
+      "note": "Road #2496; round cab version; graded C-8 Like New",
+      "url": "https://www.ebay.com/itm/198568377160"
     }
   ]
 }
