@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 566,
+  "count": 576,
   "comps": [
     {
       "model": "U25B",
@@ -7360,6 +7360,136 @@
       "ebayId": "127968489360",
       "note": "Road #5605 (Don's ruling 2026-10-21: painted number from the photos; the title's 4784 is a catalog/stock number, not the road number); Burlington Route per the tender herald in photos \u2014 title garbles it as 'Northern Burlington'; tested, runs and lights up; control unstated, filed DC; 52' tender. Banked from the +50 audit pile on Don's ruling.",
       "url": "https://www.ebay.com/itm/127968489360"
+    },
+    {
+      "model": "GE 70 Ton",
+      "brand": "Bachmann Spectrum",
+      "scale": "N",
+      "road": "Undecorated",
+      "control": "DCC",
+      "condition": "Used",
+      "price": 45.0,
+      "date": "2026-10-14",
+      "ebayId": "257795375985",
+      "note": "Factory unlettered (black, no road name or number; 82051 is the catalog number); filed Undecorated per Don's 2026-10-21 rule. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/257795375985"
+    },
+    {
+      "model": "DD40",
+      "brand": "Athearn",
+      "scale": "HO",
+      "road": "Undecorated",
+      "control": "DC",
+      "condition": "New",
+      "price": 52.0,
+      "date": "2026-10-13",
+      "ebayId": "267806289714",
+      "note": "Explicitly undecorated, single motor; control unstated, filed DC. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/267806289714"
+    },
+    {
+      "model": "RABe 502",
+      "brand": "Roco",
+      "scale": "HO",
+      "road": "SBB",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 2247.93,
+      "date": "2026-10-14",
+      "ebayId": "188000529847",
+      "note": "Factory 8-car double-deck EMU trainset sold as one unit (AU $3,209.95); whole-set price, filed as its own set tier. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/188000529847"
+    },
+    {
+      "model": "MP36PH Heritage Set",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "Metra",
+      "control": "DC",
+      "condition": "Used",
+      "price": 475.0,
+      "date": "2026-10-12",
+      "ebayId": "128131636454",
+      "note": "Kato KOBO custom set: MP36PH lettered Metra in Milwaukee Road heritage paint + 3 Nippon Sharyo bi-level cars; whole-set price, filed as its own set tier; sold at full list. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/128131636454"
+    },
+    {
+      "model": "Frontiersman Set",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Central Pacific",
+      "control": "DC",
+      "condition": "New",
+      "price": 106.24,
+      "date": "2026-10-14",
+      "ebayId": "298657582442",
+      "note": "Sealed starter set: 4-4-0 American + tender + 5 cars + E-Z Track (set #24006); whole-set price, filed as its own set tier; control unstated (DC power pack), filed DC. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/298657582442"
+    },
+    {
+      "model": "Explorer Set",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Santa Fe",
+      "control": "DC",
+      "condition": "Used",
+      "price": 62.52,
+      "date": "2026-10-12",
+      "ebayId": "137838224607",
+      "note": "Complete starter set: diesel locomotive + box car + covered hopper + track + controller (set #24008); box damaged; whole-set price, filed as its own set tier. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/137838224607"
+    },
+    {
+      "model": "2-8-0 Consolidation",
+      "brand": "Bachmann",
+      "scale": "HO",
+      "road": "Undecorated",
+      "control": "DC",
+      "condition": "Used",
+      "price": 77.59,
+      "date": "2026-10-14",
+      "ebayId": "358877930270",
+      "note": "Sold as 'Super Consolidation' with smoke; plain black, no lettering or number anywhere \u2014 filed Undecorated per Don's 2026-10-21 rule; untested (acceptable per settled rule); GBP 57.99. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/358877930270"
+    },
+    {
+      "model": "MP15AC",
+      "brand": "Athearn Genesis",
+      "scale": "HO",
+      "road": "Undecorated",
+      "control": "DCC+Sound",
+      "condition": "New",
+      "price": 231.15,
+      "date": "2026-10-15",
+      "ebayId": "227243850577",
+      "note": "Factory undecorated, no road name or number exists; C $325.00. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/227243850577"
+    },
+    {
+      "model": "EF60",
+      "brand": "Kato",
+      "scale": "N",
+      "road": "JNR",
+      "control": "DC",
+      "condition": "Used",
+      "price": 19.4,
+      "date": "2026-10-13",
+      "ebayId": "147623195400",
+      "note": "Road #503 (photo-only number); operator never stated in text \u2014 filed JNR, the EF60's operator; tested working both ways, lights work; AU $27.70. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/147623195400"
+    },
+    {
+      "model": "Yard Boss Set",
+      "brand": "Bachmann",
+      "scale": "N",
+      "road": "Southern",
+      "control": "DC",
+      "condition": "Used",
+      "price": 57.0,
+      "date": "2026-10-14",
+      "ebayId": "327404276977",
+      "note": "Starter set: locomotive + box car + caboose + track (set #24014); locomotive model not named in the listing; whole-set price, filed as its own set tier. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
+      "url": "https://www.ebay.com/itm/327404276977"
     }
   ]
 }
