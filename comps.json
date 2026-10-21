@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 564,
+  "count": 565,
   "comps": [
     {
       "model": "U25B",
@@ -7334,6 +7334,19 @@
       "ebayId": "287644384457",
       "note": "Road #9656; sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/287644384457"
+    },
+    {
+      "model": "SD39",
+      "brand": "Athearn",
+      "scale": "HO",
+      "road": "Norfolk & Western",
+      "control": "DCC+Sound",
+      "condition": "New: Other",
+      "price": 129.0,
+      "date": "2026-10-13",
+      "ebayId": "327198186666",
+      "note": "Road #2966; Ready To Roll (RTR) with factory sound; very minor use/testing, like new; sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/327198186666"
     }
   ]
 }
