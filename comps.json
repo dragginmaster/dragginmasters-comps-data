@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 522,
+  "count": 524,
   "comps": [
     {
       "model": "U25B",
@@ -6788,6 +6788,32 @@
       "ebayId": "267812953218",
       "note": "Road #6001; seller refurbished; aftermarket MRC 1611 sound decoder; 'runs very smooth'; Best Offer offered but sold at full list (no accepted-offer banner)",
       "url": "https://www.ebay.com/itm/267812953218"
+    },
+    {
+      "model": "C424",
+      "brand": "Atlas",
+      "scale": "HO",
+      "road": "Maine Central",
+      "control": "DCC+Sound",
+      "condition": "Used",
+      "price": 225.0,
+      "date": "2026-10-13",
+      "ebayId": "287328561304",
+      "note": "Road #454; Atlas 9351 (catalog); Guilford paint; seller-added ESU DCC/sound; under 1 hour run time; Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/287328561304"
+    },
+    {
+      "model": "B36-7",
+      "brand": "Rapido",
+      "scale": "HO",
+      "road": "Santa Fe",
+      "control": "DCC+Sound",
+      "condition": "New: Other",
+      "price": 275.0,
+      "date": "2026-10-14",
+      "ebayId": "820236346213",
+      "note": "Road #7492; Rapido 18503 (catalog); Best Offer offered but sold at full list (no accepted-offer banner)",
+      "url": "https://www.ebay.com/itm/820236346213"
     }
   ]
 }
