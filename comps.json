@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-21",
   "source": "eBay sold listings, harvested by hand",
-  "count": 531,
+  "count": 532,
   "comps": [
     {
       "model": "U25B",
@@ -6905,6 +6905,19 @@
       "ebayId": "137832010040",
       "note": "Road #67 (plate reads C12 67); Kato 2022-1 (catalog); new in box",
       "url": "https://www.ebay.com/itm/137832010040"
+    },
+    {
+      "model": "GS-4 4-8-4",
+      "brand": "Lionel",
+      "scale": "HO",
+      "road": "Southern Pacific",
+      "control": "DC",
+      "condition": "Used",
+      "price": 90.0,
+      "date": "2026-10-13",
+      "ebayId": "298689553374",
+      "note": "Road #4454; Daylight paint; tested, runs good; original box; control not stated in listing (filed DC)",
+      "url": "https://www.ebay.com/itm/298689553374"
     }
   ]
 }
