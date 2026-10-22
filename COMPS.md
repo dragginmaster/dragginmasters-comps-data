@@ -169,6 +169,12 @@ are never published on the site as verified facts; aggregates only.
   repeatedly, Oct 2026). An API hit is a lead, never evidence.
 - API prices can be the **list price on a best-offer-accepted sale** — the
   hidden-price trap (hard rule 5) is invisible in API data.
+- **API prices can also UNDERSTATE the real sold price** (proven
+  2026-10-21: API said $30, the page's firm sold price was $50; API said
+  $79, the page said $99 — multi-sale and promoted listings seem to trip
+  it). The API's `ended_at` can likewise show future dates on
+  multi-quantity listings. **The sold page always wins. Never bank an API
+  price, date, or flag over what the page itself shows.**
 - **Nothing banks from API data alone.** Every candidate still passes the
   browser verification gate on its live sold page + a saved screenshot
   (hard rules 1–2). Verification is the bottleneck, not finding.
