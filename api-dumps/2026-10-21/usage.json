@@ -1,0 +1,13 @@
+{
+ "ok": true,
+ "plan": "free",
+ "monthly_used": 86,
+ "monthly_quota": 100,
+ "rpm_limit": 10,
+ "day_utc": "2026-10-22",
+ "used": 86,
+ "daily_cap": null,
+ "expires": null,
+ "trial_hours": null,
+ "trial_started": null
+}
