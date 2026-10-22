@@ -135,7 +135,9 @@ where Cinder picks the data up — local-only dumps strand it.
    items are dead weight, drop them.
 2. **Parse titles** into candidate brand / model / scale / control fields.
    Titles are all the API gives you — there are no structured control or
-   condition fields, and minus-words in queries are ignored by the API.
+   condition fields. (Minus-words in queries DO work as of the 2026-10-21
+   re-test — they were ignored back on Oct 11 — so targeted queries should
+   carry `-parts -gear -set` style filters.)
 3. **Pre-filter by title**: drop obvious non-comps — parts, decoders, track,
    decals, shells, tools, and seller-bundle lots. Keep factory A+B pairings
    and named factory sets flagged, not dropped (they're Don's judgment call).
@@ -150,6 +152,17 @@ only balances if one operator runs it. Cinder never runs API queries and
 never holds the key. If you need a search run or a coverage check, request
 it in your handoff — Dragginmaster burns the search, pushes the raw dump
 to `api-dumps/`, and you process it from there.
+
+**Best-offer data — flag on, rule unchanged (Don's call, 2026-10-21).**
+Every API search runs with `best_offer=1`: rows then carry a best_offer
+true/false marker, and for offer sales the API price is the **actual
+accepted amount** (test-verified against the listing page). Uses:
+pre-filtering offer sales before browser verification, scouting, aggregate
+market stats (labeled API-derived), and offer calibration for Don's own
+buying/selling. **The guide's proof rule does NOT bend for this** — a
+best-offer sale still never banks as a comp, because the accepted price is
+not provable from the sold listing page itself. Per-item accepted prices
+are never published on the site as verified facts; aggregates only.
 
 **Hard cautions about API data:**
 - API "sold" results include listings that merely **ENDED unsold** (proven
