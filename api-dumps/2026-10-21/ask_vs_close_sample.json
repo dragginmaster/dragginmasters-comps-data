@@ -1,0 +1,112 @@
+{
+ "sample_date": "2026-10-21",
+ "source": "CompsAPI best_offer=1 dump + eBay page ask prices",
+ "verified_offer_sales": 17,
+ "median_discount_pct": 16.0,
+ "mean_discount_pct": 17.6,
+ "rows": [
+  {
+   "ebayId": "820190341844",
+   "ask": 19.5,
+   "accepted": 15.0,
+   "discount_pct": 23.1
+  },
+  {
+   "ebayId": "860045838268",
+   "ask": 25.0,
+   "accepted": 21.0,
+   "discount_pct": 16.0
+  },
+  {
+   "ebayId": "287644419418",
+   "ask": 29.0,
+   "accepted": 25.0,
+   "discount_pct": 13.8
+  },
+  {
+   "ebayId": "297731206109",
+   "ask": 34.99,
+   "accepted": 30.0,
+   "discount_pct": 14.3
+  },
+  {
+   "ebayId": "336834110793",
+   "ask": 46.0,
+   "accepted": 35.0,
+   "discount_pct": 23.9
+  },
+  {
+   "ebayId": "336841164199",
+   "ask": 44.99,
+   "accepted": 38.0,
+   "discount_pct": 15.5
+  },
+  {
+   "ebayId": "860009743151",
+   "ask": 46.0,
+   "accepted": 40.0,
+   "discount_pct": 13.0
+  },
+  {
+   "ebayId": "407249934207",
+   "ask": 69.99,
+   "accepted": 50.0,
+   "discount_pct": 28.6
+  },
+  {
+   "ebayId": "860031731191",
+   "ask": 65.0,
+   "accepted": 50.0,
+   "discount_pct": 23.1
+  },
+  {
+   "ebayId": "137842092392",
+   "ask": 70.0,
+   "accepted": 65.0,
+   "discount_pct": 7.1
+  },
+  {
+   "ebayId": "358229077143",
+   "ask": 89.95,
+   "accepted": 75.0,
+   "discount_pct": 16.6
+  },
+  {
+   "ebayId": "257795515907",
+   "ask": 95.0,
+   "accepted": 81.0,
+   "discount_pct": 14.7
+  },
+  {
+   "ebayId": "318880604634",
+   "ask": 105.0,
+   "accepted": 89.0,
+   "discount_pct": 15.2
+  },
+  {
+   "ebayId": "189000353772",
+   "ask": 126.05,
+   "accepted": 106.61,
+   "discount_pct": 15.4
+  },
+  {
+   "ebayId": "137838856755",
+   "ask": 155.0,
+   "accepted": 125.0,
+   "discount_pct": 19.4
+  },
+  {
+   "ebayId": "307203559766",
+   "ask": 179.99,
+   "accepted": 150.0,
+   "discount_pct": 16.7
+  },
+  {
+   "ebayId": "318926208469",
+   "ask": 89.99,
+   "accepted": 70.0,
+   "discount_pct": 22.2
+  }
+ ],
+ "anomaly": "900011361828 flagged best_offer=true by API at $110, but its page shows a full-price $120 BIN sale with no 'Best offer accepted' \u2014 likely a multi-quantity listing where different units sold different ways. Flag data is reliable but sanity-check multi-unit listings."
+}
