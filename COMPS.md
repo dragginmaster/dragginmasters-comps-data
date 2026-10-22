@@ -143,6 +143,14 @@ where Cinder picks the data up — local-only dumps strand it.
    candidate pool back to the repo as a JSON list of ebayIds + parsed fields,
    ready for browser verification.
 
+**All API use is Dragginmaster-only (Don's call, 2026-10-21).** Searches
+AND coverage checks stay with Dragginmaster alone: he holds the key and
+the search budget, and the monthly schedule (broad / targeted / reserve)
+only balances if one operator runs it. Cinder never runs API queries and
+never holds the key. If you need a search run or a coverage check, request
+it in your handoff — Dragginmaster burns the search, pushes the raw dump
+to `api-dumps/`, and you process it from there.
+
 **Hard cautions about API data:**
 - API "sold" results include listings that merely **ENDED unsold** (proven
   repeatedly, Oct 2026). An API hit is a lead, never evidence.
