@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 671,
+ "count": 672,
  "comps": [
   {
    "model": "U25B",
@@ -8725,6 +8725,19 @@
    "ebayId": "298471623115",
    "note": "Road #2218. Tested in DCC, ran very well, sound works. With original box.",
    "url": "https://www.ebay.com/itm/298471623115"
+  },
+  {
+   "model": "F40PH",
+   "brand": "Rapido",
+   "scale": "HO",
+   "road": "Amtrak",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 202.5,
+   "date": "2026-10-13",
+   "ebayId": "307218413678",
+   "note": "Road #222, Phase II. Auction, 2 bids.",
+   "url": "https://www.ebay.com/itm/307218413678"
   }
  ]
 }
