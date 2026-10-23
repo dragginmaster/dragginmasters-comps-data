@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 621,
+ "count": 629,
  "comps": [
   {
    "model": "U25B",
@@ -8075,6 +8075,110 @@
    "ebayId": "117465219853",
    "note": "Road #4229; 9 bids, auction",
    "url": "https://www.ebay.com/itm/117465219853"
+  },
+  {
+   "model": "SD70MAC",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "BNSF",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 500.0,
+   "date": "2026-10-22",
+   "ebayId": "800799331388",
+   "note": "Custom weathered; Tsunami2 sound. Auction, 5 bids.",
+   "url": "https://www.ebay.com/itm/800799331388"
+  },
+  {
+   "model": "U23B",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "CSX",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 36.5,
+   "date": "2026-10-22",
+   "ebayId": "206622809106",
+   "note": "Road #3270 painted on unit (title's #8697 is the seller's inventory no.). Bench-tested, runs. Auction, 13 bids.",
+   "url": "https://www.ebay.com/itm/206622809106"
+  },
+  {
+   "model": "SD40-2",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Canadian National",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 99.99,
+   "date": "2026-10-22",
+   "ebayId": "237115341595",
+   "note": "Road #6023. Multi-quantity listing, sale at list price.",
+   "url": "https://www.ebay.com/itm/237115341595"
+  },
+  {
+   "model": "E7A + E7B",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 324.99,
+   "date": "2026-10-18",
+   "ebayId": "800362279530",
+   "note": "Factory A+B pair, road #5864A / #5864B. Both tested, run well.",
+   "url": "https://www.ebay.com/itm/800362279530"
+  },
+  {
+   "model": "ES44AC",
+   "brand": "InterMountain",
+   "scale": "HO",
+   "road": "Norfolk Southern",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 259.99,
+   "date": "2026-10-19",
+   "ebayId": "257462336704",
+   "note": "Road #8114.",
+   "url": "https://www.ebay.com/itm/257462336704"
+  },
+  {
+   "model": "SD40",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Algoma Central",
+   "control": "DC",
+   "condition": "New",
+   "price": 56.55,
+   "date": "2026-10-21",
+   "ebayId": "147636301213",
+   "note": "Road #180 (37-6321 is the Kato catalog no.). Auction, 3 bids.",
+   "url": "https://www.ebay.com/itm/147636301213"
+  },
+  {
+   "model": "0-6-0 Switcher",
+   "brand": "Rivarossi",
+   "scale": "HO",
+   "road": "Baltimore & Ohio",
+   "control": "DC",
+   "condition": "Used",
+   "price": 37.99,
+   "date": "2026-10-22",
+   "ebayId": "237098211154",
+   "note": "AHM-branded box, made in Italy by Rivarossi. Road #386 (5142 is the AHM catalog no.). Tested, motor runs.",
+   "url": "https://www.ebay.com/itm/237098211154"
+  },
+  {
+   "model": "FA-1",
+   "brand": "Walthers Trainline",
+   "scale": "HO",
+   "road": "Long Island",
+   "control": "DC",
+   "condition": "New",
+   "price": 95.0,
+   "date": "2026-10-15",
+   "ebayId": "267813100484",
+   "note": "Road #607 (931-238 is the catalog no.). Page price $95.00 (API said $85.50 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/267813100484"
   }
  ]
 }
