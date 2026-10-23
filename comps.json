@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 684,
+ "count": 690,
  "comps": [
   {
    "model": "U25B",
@@ -8894,6 +8894,84 @@
    "ebayId": "147625673659",
    "note": "Road #6473 (box-end label; 11608 is the item no.). Title states no brand; specifics and box agree on Bachmann Plus. NIB/NOS. Page price $76.82 (API said $69.14 \u2014 page wins).",
    "url": "https://www.ebay.com/itm/147625673659"
+  },
+  {
+   "model": "L2",
+   "brand": "Southern Rail Models",
+   "scale": "HO",
+   "road": "WAGR",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 263.25,
+   "date": "2026-10-13",
+   "ebayId": "227556100267",
+   "note": "Road #L262. ESU sound. Page price AU $375.00 (~$263.25); API said $261.11 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/227556100267"
+  },
+  {
+   "model": "P42",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Amtrak",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 119.99,
+   "date": "2026-10-11",
+   "ebayId": "189028094267",
+   "note": "Road #203, Phase V. Tested, runs good. Page price $119.99 (API said $109.99 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/189028094267"
+  },
+  {
+   "model": "E7A",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Boston & Maine",
+   "control": "DC",
+   "condition": "Used",
+   "price": 44.21,
+   "date": "2026-10-12",
+   "ebayId": "389890358592",
+   "note": "Road #3804. Listing states model E7 (an A-unit; filed E7A). Converted back to analogue per box note. Page price GBP 32.99 (~$44.21).",
+   "url": "https://www.ebay.com/itm/389890358592"
+  },
+  {
+   "model": "SD9",
+   "brand": "WalthersProto",
+   "scale": "HO",
+   "road": "Milwaukee Road",
+   "control": "DC",
+   "condition": "Used",
+   "price": 160.07,
+   "date": "2026-10-11",
+   "ebayId": "278434716462",
+   "note": "Road #542. Control not stated in listing. Like new. Auction, 31 bids.",
+   "url": "https://www.ebay.com/itm/278434716462"
+  },
+  {
+   "model": "J Class 4-8-4",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "Norfolk & Western",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 169.99,
+   "date": "2026-10-14",
+   "ebayId": "336843651849",
+   "note": "Road #611. DCC on Board; no sound stated \u2014 filed DCC.",
+   "url": "https://www.ebay.com/itm/336843651849"
+  },
+  {
+   "model": "NR Class",
+   "brand": "SDS Models",
+   "scale": "HO",
+   "road": "The Overland",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 298.35,
+   "date": "2026-10-13",
+   "ebayId": "298645922033",
+   "note": "Road #NR76. 'PROPOSED' in the listing title is part of the livery name on the box label (NR76 'The Overland' proposed livery), not a pre-order \u2014 completed sale of a factory-new, ready-to-go unit. Page price AU $425.00 (~$298.35); API said $295.93 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/298645922033"
   }
  ]
 }
