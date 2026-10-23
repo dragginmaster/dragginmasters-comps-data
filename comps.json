@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 742,
+ "count": 750,
  "comps": [
   {
    "model": "U25B",
@@ -9648,6 +9648,110 @@
    "ebayId": "398286802240",
    "note": "Road #5023. Rivet Counter series (guide files ScaleTrains plain).",
    "url": "https://www.ebay.com/itm/398286802240"
+  },
+  {
+   "model": "SD70ACe",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Canadian National",
+   "control": "DCC",
+   "condition": "New",
+   "price": 189.95,
+   "date": "2026-10-10",
+   "ebayId": "336251073933",
+   "note": "Road #8101. DCC version, no sound stated. Low headlight variant.",
+   "url": "https://www.ebay.com/itm/336251073933"
+  },
+  {
+   "model": "F7A + F7B",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "Texas & Pacific",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 249.99,
+   "date": "2026-10-14",
+   "ebayId": "227559833881",
+   "note": "Road #1568 (A) and #1529-B (B). Phase 1 freight. Factory A+B pair; the listing does not state whether the B unit is powered.",
+   "url": "https://www.ebay.com/itm/227559833881"
+  },
+  {
+   "model": "GP7",
+   "brand": "Atlas (Kato-made)",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DC",
+   "condition": "Used",
+   "price": 59.99,
+   "date": "2026-10-13",
+   "ebayId": "237121404125",
+   "note": "Black unlettered unit; no road number painted (8200 in the listing is the product number).",
+   "url": "https://www.ebay.com/itm/237121404125"
+  },
+  {
+   "model": "4-4-0",
+   "brand": "Bachmann Spectrum",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 153.6,
+   "date": "2026-10-14",
+   "ebayId": "206609964678",
+   "note": "Road #4 painted on the cab. Richmond type, unlettered. Bench-tested on DCC and DC, runs both ways, sound and lights work; rear coupler broken, sold as-is.",
+   "url": "https://www.ebay.com/itm/206609964678"
+  },
+  {
+   "model": "AC6000CW",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 125.0,
+   "date": "2026-10-11",
+   "ebayId": "178555730630",
+   "note": "Road #602. Blue Line series: sound fitted for DC operation, DCC-ready \u2014 no factory DCC decoder, so filed DCC-ready, not DCC+Sound. Listing states model AC6000 (filed AC6000CW).",
+   "url": "https://www.ebay.com/itm/178555730630"
+  },
+  {
+   "model": "2-8-8-8-2 Triplex",
+   "brand": "MTH",
+   "scale": "HO",
+   "road": "Erie",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 1299.99,
+   "date": "2026-10-12",
+   "ebayId": "257795774477",
+   "note": "Road #5015. Russian Iron finish. Listed New: Other.",
+   "url": "https://www.ebay.com/itm/257795774477"
+  },
+  {
+   "model": "SW9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Louisville & Nashville",
+   "control": "DC",
+   "condition": "New",
+   "price": 35.0,
+   "date": "2026-10-11",
+   "ebayId": "820228532678",
+   "note": "Road #2287. Box end confirms SW9.",
+   "url": "https://www.ebay.com/itm/820228532678"
+  },
+  {
+   "model": "2-10-2",
+   "brand": "Tenshodo",
+   "scale": "HO",
+   "road": "Great Northern",
+   "control": "DC",
+   "condition": "Used",
+   "price": 399.99,
+   "date": "2026-10-12",
+   "ebayId": "256519348655",
+   "note": "Road #2102. Class Q-1. Brass. Control not stated in the listing.",
+   "url": "https://www.ebay.com/itm/256519348655"
   }
  ]
 }
