@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 697,
+ "count": 702,
  "comps": [
   {
    "model": "U25B",
@@ -9063,6 +9063,71 @@
    "ebayId": "146920041601",
    "note": "Road #1001. Brand from box photos and the specifics Brand field (both Proto 2000); title omits it. NIB old stock, Mars light.",
    "url": "https://www.ebay.com/itm/146920041601"
+  },
+  {
+   "model": "S2 4-8-4",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Great Northern",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 595.0,
+   "date": "2026-10-12",
+   "ebayId": "158376850864",
+   "note": "Road #2577 painted on number board, cab and tender (the title's #2579 contradicts the photos \u2014 painted number used). Brass Hybrid series. Like new in box, tested and oiled, runs great, graded C-10.",
+   "url": "https://www.ebay.com/itm/158376850864"
+  },
+  {
+   "model": "SD70ACe",
+   "brand": "MTH",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 200.0,
+   "date": "2026-10-13",
+   "ebayId": "800763929537",
+   "note": "Road #4141, 'George Bush 41' scheme. Auction, 1 bid.",
+   "url": "https://www.ebay.com/itm/800763929537"
+  },
+  {
+   "model": "DE10",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "JR",
+   "control": "DC",
+   "condition": "New",
+   "price": 90.0,
+   "date": "2026-10-11",
+   "ebayId": "147630379664",
+   "note": "JR (Japan Railways) DE10 diesel. No road number legible. Listed New: Other. Page price $90.00 (API said $85.00 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/147630379664"
+  },
+  {
+   "model": "SD7",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Milwaukee Road",
+   "control": "DC",
+   "condition": "New",
+   "price": 85.0,
+   "date": "2026-10-12",
+   "ebayId": "287640229673",
+   "note": "Road #2211. Box notes a DCC-ready NMRA plug; title and specifics state DC \u2014 filed DC.",
+   "url": "https://www.ebay.com/itm/287640229673"
+  },
+  {
+   "model": "SD45",
+   "brand": "WalthersProto",
+   "scale": "HO",
+   "road": "Norfolk & Western",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 140.0,
+   "date": "2026-10-10",
+   "ebayId": "318904728732",
+   "note": "Road #1762. DC powered with DCC-ready plug per seller.",
+   "url": "https://www.ebay.com/itm/318904728732"
   }
  ]
 }
