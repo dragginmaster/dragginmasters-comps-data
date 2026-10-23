@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 719,
+ "count": 726,
  "comps": [
   {
    "model": "U25B",
@@ -9349,6 +9349,97 @@
    "ebayId": "257784583491",
    "note": "Road #3411 painted on the cab, on the box end and in the description (the title's #3471 is wrong \u2014 painted number used). ET44AH variant. Auction, 16 bids.",
    "url": "https://www.ebay.com/itm/257784583491"
+  },
+  {
+   "model": "PA1",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 45.0,
+   "date": "2026-10-11",
+   "ebayId": "336817589086",
+   "note": "Road #5754. Listing states model 'PA' (filed PA1). DCC-ready; runs good, track tested, light works.",
+   "url": "https://www.ebay.com/itm/336817589086"
+  },
+  {
+   "model": "GP38-2",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 194.99,
+   "date": "2026-10-14",
+   "ebayId": "165911207571",
+   "note": "Road #4864 painted on the cab and printed on the box (the title's #4964 is wrong \u2014 painted number used). Ex-HELM unit. DCC and sound ready.",
+   "url": "https://www.ebay.com/itm/165911207571"
+  },
+  {
+   "model": "SD35",
+   "brand": "Atlas Master",
+   "scale": "HO",
+   "road": "Wisconsin Central",
+   "control": "DCC",
+   "condition": "New",
+   "price": 135.0,
+   "date": "2026-10-13",
+   "ebayId": "406893175490",
+   "note": "Road #2500. Box end: 'Atlas Master DCC System \u2014 Decoder Equipped'. Listed New: Other. Page price $135.00 (API said $121.50 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/406893175490"
+  },
+  {
+   "model": "2-8-0",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Durango & Silverton",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 107.21,
+   "date": "2026-10-14",
+   "ebayId": "168769059811",
+   "note": "Road #493. Consolidation. DCC equipped (no sound stated). UK sale: page price GBP 80.00 (~$107.21); API said $105.99 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/168769059811"
+  },
+  {
+   "model": "SW1500",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Louisville and Nashville Railroad",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 150.0,
+   "date": "2026-10-11",
+   "ebayId": "267803751832",
+   "note": "Road #5016. Paragon2 sound.",
+   "url": "https://www.ebay.com/itm/267803751832"
+  },
+  {
+   "model": "ET44AC",
+   "brand": "InterMountain",
+   "scale": "HO",
+   "road": "Kansas City Southern",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 186.0,
+   "date": "2026-10-12",
+   "ebayId": "257784580897",
+   "note": "Road #5012. Auction, 25 bids.",
+   "url": "https://www.ebay.com/itm/257784580897"
+  },
+  {
+   "model": "SD70ACe",
+   "brand": "MTH",
+   "scale": "HO",
+   "road": "Missouri Pacific",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 149.95,
+   "date": "2026-10-13",
+   "ebayId": "960038849570",
+   "note": "Road #1982 \u2014 UP's Missouri Pacific heritage unit (hood lettered Missouri Pacific). Specifics: analog / DCC ready.",
+   "url": "https://www.ebay.com/itm/960038849570"
   }
  ]
 }
