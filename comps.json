@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 644,
+ "count": 649,
  "comps": [
   {
    "model": "U25B",
@@ -8374,6 +8374,71 @@
    "ebayId": "358287304254",
    "note": "Road #822 (read from the shell; not in title). Page price $105.00 (API said $96.60 \u2014 page wins).",
    "url": "https://www.ebay.com/itm/358287304254"
+  },
+  {
+   "model": "SD45",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Frisco",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 129.95,
+   "date": "2026-10-15",
+   "ebayId": "820240548784",
+   "note": "Road #911. Athearn RTR (Ready-to-Roll) line. Listed New: Other.",
+   "url": "https://www.ebay.com/itm/820240548784"
+  },
+  {
+   "model": "RSD-4/5",
+   "brand": "Atlas (Kato-made)",
+   "scale": "HO",
+   "road": "Seaboard Air Line",
+   "control": "DC",
+   "condition": "Used",
+   "price": 51.0,
+   "date": "2026-10-14",
+   "ebayId": "257787433649",
+   "note": "Road #1537. Custom details, LNIB graded C-8 like new; powered, runs smooth. Auction, 11 bids.",
+   "url": "https://www.ebay.com/itm/257787433649"
+  },
+  {
+   "model": "SW1500",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 169.0,
+   "date": "2026-10-14",
+   "ebayId": "189000341155",
+   "note": "Road #2621. Paragon2 series. Page price $169.00 (API said $145.00 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/189000341155"
+  },
+  {
+   "model": "RS27",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 115.0,
+   "date": "2026-10-14",
+   "ebayId": "800791168515",
+   "note": "Road #2405. Listed New: Other; tested, outer box slightly shop-worn. Page price $115.00 (API said $103.50 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/800791168515"
+  },
+  {
+   "model": "SD40-2 Snoot",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "CP Rail",
+   "control": "DC",
+   "condition": "New",
+   "price": 52.95,
+   "date": "2026-10-15",
+   "ebayId": "880017864360",
+   "note": "Road #5702. New old stock; powered, ran flawlessly per seller.",
+   "url": "https://www.ebay.com/itm/880017864360"
   }
  ]
 }
