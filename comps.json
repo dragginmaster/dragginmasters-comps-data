@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 670,
+ "count": 671,
  "comps": [
   {
    "model": "U25B",
@@ -8712,6 +8712,19 @@
    "ebayId": "377190377881",
    "note": "Road #361. USRA 0-8-0. Powered, runs good, lights up; control type not stated.",
    "url": "https://www.ebay.com/itm/377190377881"
+  },
+  {
+   "model": "SW1500",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Norfolk Southern",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 250.0,
+   "date": "2026-10-12",
+   "ebayId": "298471623115",
+   "note": "Road #2218. Tested in DCC, ran very well, sound works. With original box.",
+   "url": "https://www.ebay.com/itm/298471623115"
   }
  ]
 }
