@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 641,
+ "count": 644,
  "comps": [
   {
    "model": "U25B",
@@ -8335,6 +8335,45 @@
    "ebayId": "267791970604",
    "note": "Road #6912, 'Tuxedo' scheme. Explicitly not DCC-ready. Bench-tested, ran excellently. Page price $49.99 (API said $44.99 \u2014 page wins).",
    "url": "https://www.ebay.com/itm/267791970604"
+  },
+  {
+   "model": "GP9M",
+   "brand": "Walthers Trainline",
+   "scale": "HO",
+   "road": "Norfolk Southern",
+   "control": "DC",
+   "condition": "New",
+   "price": 50.92,
+   "date": "2026-10-13",
+   "ebayId": "307213819270",
+   "note": "Road #890, Operation Lifesaver scheme. Page price GBP 38.00 (~$50.92); API said $39.66 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/307213819270"
+  },
+  {
+   "model": "T1 Duplex 4-4-4-4",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DC",
+   "condition": "Used",
+   "price": 249.99,
+   "date": "2026-10-14",
+   "ebayId": "336843661099",
+   "note": "Road #5528. Sound function stated but no DCC stated \u2014 filed DC.",
+   "url": "https://www.ebay.com/itm/336843661099"
+  },
+  {
+   "model": "GP30",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 105.0,
+   "date": "2026-10-14",
+   "ebayId": "358287304254",
+   "note": "Road #822 (read from the shell; not in title). Page price $105.00 (API said $96.60 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/358287304254"
   }
  ]
 }
