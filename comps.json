@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 638,
+ "count": 641,
  "comps": [
   {
    "model": "U25B",
@@ -8296,6 +8296,45 @@
    "ebayId": "168575705464",
    "note": "Road #6743. Tested.",
    "url": "https://www.ebay.com/itm/168575705464"
+  },
+  {
+   "model": "BR 140",
+   "brand": "Piko",
+   "scale": "HO",
+   "road": "Deutsche Bahn",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 214.22,
+   "date": "2026-10-15",
+   "ebayId": "188185761538",
+   "note": "Road #140 817-6. Factory DCC & sound. Page price AU $305.15 (~$214.22); API said $212.34 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/188185761538"
+  },
+  {
+   "model": "C44-9W",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 134.99,
+   "date": "2026-10-12",
+   "ebayId": "168693571179",
+   "note": "Road #8104. Pre-installed DCC, no sound. Like new in box, tested.",
+   "url": "https://www.ebay.com/itm/168693571179"
+  },
+  {
+   "model": "E8/9",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Southern Railway",
+   "control": "DC",
+   "condition": "New",
+   "price": 49.99,
+   "date": "2026-10-14",
+   "ebayId": "267791970604",
+   "note": "Road #6912, 'Tuxedo' scheme. Explicitly not DCC-ready. Bench-tested, ran excellently. Page price $49.99 (API said $44.99 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/267791970604"
   }
  ]
 }
