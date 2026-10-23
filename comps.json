@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 656,
+ "count": 664,
  "comps": [
   {
    "model": "U25B",
@@ -8530,6 +8530,110 @@
    "ebayId": "336839155740",
    "note": "Road #4501. Baldwin DR-12-8-3000 'Centipede', Paragon4. Listed New: Other, graded C-8 like new. Auction, 2 bids.",
    "url": "https://www.ebay.com/itm/336839155740"
+  },
+  {
+   "model": "F7A + F7B",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Great Northern",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 499.97,
+   "date": "2026-10-14",
+   "ebayId": "237093770667",
+   "note": "Factory A+B pair, Big Sky Blue, Limited Edition. Units sealed in boxes; no road number legible.",
+   "url": "https://www.ebay.com/itm/237093770667"
+  },
+  {
+   "model": "FA2",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Ann Arbor",
+   "control": "DC",
+   "condition": "New",
+   "price": 48.43,
+   "date": "2026-10-12",
+   "ebayId": "146861623549",
+   "note": "Road #52. NIB old stock. Multi-quantity listing (5 sold at list price); sale date from listing history. Page price $48.43 (API said $55.20 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/146861623549"
+  },
+  {
+   "model": "Dash 8-40B",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "BNSF",
+   "control": "DC",
+   "condition": "New",
+   "price": 149.79,
+   "date": "2026-10-12",
+   "ebayId": "256635957832",
+   "note": "Road #557. DC version with 21-pin DCC plug. Multi-quantity listing (7 sold); sale date from listing history. Page price $149.79 (API said $135.99 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/256635957832"
+  },
+  {
+   "model": "SW1500",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DC",
+   "condition": "New",
+   "price": 42.0,
+   "date": "2026-10-15",
+   "ebayId": "900013641034",
+   "note": "Undecorated, complete and unused, accessories sealed. Page price $42.00 (API said $38.00 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/900013641034"
+  },
+  {
+   "model": "MP15DC",
+   "brand": "Atlas Master",
+   "scale": "HO",
+   "road": "Missouri Pacific",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 112.99,
+   "date": "2026-10-14",
+   "ebayId": "335397913987",
+   "note": "Road #1539. Master Silver series. Listed New: Other.",
+   "url": "https://www.ebay.com/itm/335397913987"
+  },
+  {
+   "model": "ACS-64",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Amtrak",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 234.99,
+   "date": "2026-10-14",
+   "ebayId": "197386624855",
+   "note": "Road #600. Siemens ACS-64 with TCS WOWSound. Retailer multi-quantity listing (3 sold at list price); sale date from listing history.",
+   "url": "https://www.ebay.com/itm/197386624855"
+  },
+  {
+   "model": "Challenger 4-6-6-4",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 899.99,
+   "date": "2026-10-13",
+   "ebayId": "257745102686",
+   "note": "Road #3835. Early Challenger CSA-2, with smoke. Sale date from listing history. Page price $899.99 (API said $849.99 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/257745102686"
+  },
+  {
+   "model": "GP60M",
+   "brand": "Fox Valley Models",
+   "scale": "HO",
+   "road": "BNSF",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 199.0,
+   "date": "2026-10-14",
+   "ebayId": "137823229427",
+   "note": "Road #128, H2 scheme. Factory LokSound. Auction, 1 bid.",
+   "url": "https://www.ebay.com/itm/137823229427"
   }
  ]
 }
