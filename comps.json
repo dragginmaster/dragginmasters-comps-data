@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 750,
+ "count": 757,
  "comps": [
   {
    "model": "U25B",
@@ -9752,6 +9752,97 @@
    "ebayId": "256519348655",
    "note": "Road #2102. Class Q-1. Brass. Control not stated in the listing.",
    "url": "https://www.ebay.com/itm/256519348655"
+  },
+  {
+   "model": "GP35",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Rio Grande",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 82.59,
+   "date": "2026-10-14",
+   "ebayId": "198467145644",
+   "note": "Road #3029. Ready-to-roll line. Page price $82.59 (API said $74.33 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/198467145644"
+  },
+  {
+   "model": "K4",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 330.87,
+   "date": "2026-10-14",
+   "ebayId": "257787743456",
+   "note": "Road #2665. Streamlined K4 4-6-2. European sale: page price EUR 295.00 (~$330.87); API said $328.08 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/257787743456"
+  },
+  {
+   "model": "RSD-15",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Cotton Belt",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 141.41,
+   "date": "2026-10-11",
+   "ebayId": "178555728338",
+   "note": "Road #5159. Alco RSD-15, St. Louis Southwestern (Cotton Belt).",
+   "url": "https://www.ebay.com/itm/178555728338"
+  },
+  {
+   "model": "SD45",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Wisconsin Central",
+   "control": "DC",
+   "condition": "Used",
+   "price": 139.0,
+   "date": "2026-10-10",
+   "ebayId": "356135375816",
+   "note": "Road #5666 painted on the cab. Ex-Santa Fe unit. Control not stated.",
+   "url": "https://www.ebay.com/itm/356135375816"
+  },
+  {
+   "model": "FA2",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Missouri Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 32.99,
+   "date": "2026-10-11",
+   "ebayId": "820059878285",
+   "note": "Road #353. Control not stated. In box.",
+   "url": "https://www.ebay.com/itm/820059878285"
+  },
+  {
+   "model": "RDC-1",
+   "brand": "Proto 1000",
+   "scale": "HO",
+   "road": "Chicago & North Western",
+   "control": "DC",
+   "condition": "New",
+   "price": 60.0,
+   "date": "2026-10-10",
+   "ebayId": "366724155280",
+   "note": "Road #9934. Walthers Proto 1000 Series (filed Proto 1000). Control not stated.",
+   "url": "https://www.ebay.com/itm/366724155280"
+  },
+  {
+   "model": "SD45",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Buffalo & Pittsburgh",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 149.95,
+   "date": "2026-10-14",
+   "ebayId": "168791221276",
+   "note": "Road #451.",
+   "url": "https://www.ebay.com/itm/168791221276"
   }
  ]
 }
