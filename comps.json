@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 712,
+ "count": 719,
  "comps": [
   {
    "model": "U25B",
@@ -9258,6 +9258,97 @@
    "ebayId": "227562353187",
    "note": "Road #4680. Paragon2 dual-mode sound. UK seller; page price GBP 170.00 (~$227.82); API said $224.83 \u2014 page wins.",
    "url": "https://www.ebay.com/itm/227562353187"
+  },
+  {
+   "model": "SD40-2",
+   "brand": "ScaleTrains",
+   "scale": "HO",
+   "road": "Santa Fe",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 245.0,
+   "date": "2026-10-12",
+   "ebayId": "820229598467",
+   "note": "Road #5155. Rivet Counter series (guide files ScaleTrains plain).",
+   "url": "https://www.ebay.com/itm/820229598467"
+  },
+  {
+   "model": "SD80MAC",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Conrail",
+   "control": "DC",
+   "condition": "New",
+   "price": 110.08,
+   "date": "2026-10-13",
+   "ebayId": "920032614189",
+   "note": "Road #4105. Listed New: Other.",
+   "url": "https://www.ebay.com/itm/920032614189"
+  },
+  {
+   "model": "SD80MAC",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "CSX",
+   "control": "DCC",
+   "condition": "New",
+   "price": 150.0,
+   "date": "2026-10-10",
+   "ebayId": "307205884600",
+   "note": "Road #4599, Dark Future scheme. Dual-mode decoder fitted, no sound stated \u2014 filed DCC. Box opened to install the decoder. Auction, 1 bid.",
+   "url": "https://www.ebay.com/itm/307205884600"
+  },
+  {
+   "model": "4-8-2",
+   "brand": "IHC",
+   "scale": "HO",
+   "road": "Chesapeake & Ohio",
+   "control": "DC",
+   "condition": "Used",
+   "price": 89.99,
+   "date": "2026-10-12",
+   "ebayId": "407271881304",
+   "note": "Road #543. Mountain type. Seller states it runs great.",
+   "url": "https://www.ebay.com/itm/407271881304"
+  },
+  {
+   "model": "SW7",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 179.95,
+   "date": "2026-10-10",
+   "ebayId": "155451990395",
+   "note": "Road #9377. Phase 2. ESU sound version.",
+   "url": "https://www.ebay.com/itm/155451990395"
+  },
+  {
+   "model": "3460 Class 4-6-4",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Santa Fe",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 699.98,
+   "date": "2026-10-11",
+   "ebayId": "137456729572",
+   "note": "Road #3460 \u2014 the Blue Goose Hudson. Paragon-series sound.",
+   "url": "https://www.ebay.com/itm/137456729572"
+  },
+  {
+   "model": "ET44AC",
+   "brand": "InterMountain",
+   "scale": "HO",
+   "road": "CSX",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 182.75,
+   "date": "2026-10-12",
+   "ebayId": "257784583491",
+   "note": "Road #3411 painted on the cab, on the box end and in the description (the title's #3471 is wrong \u2014 painted number used). ET44AH variant. Auction, 16 bids.",
+   "url": "https://www.ebay.com/itm/257784583491"
   }
  ]
 }
