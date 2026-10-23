@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 672,
+ "count": 678,
  "comps": [
   {
    "model": "U25B",
@@ -8738,6 +8738,84 @@
    "ebayId": "307218413678",
    "note": "Road #222, Phase II. Auction, 2 bids.",
    "url": "https://www.ebay.com/itm/307218413678"
+  },
+  {
+   "model": "SD60",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Kansas City Southern",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 154.78,
+   "date": "2026-10-13",
+   "ebayId": "366704145436",
+   "note": "Road #740. Spartan cab, ESU sound. Marked down from $171.98 (a discount, not a best-offer sale).",
+   "url": "https://www.ebay.com/itm/366704145436"
+  },
+  {
+   "model": "GP35",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Reading",
+   "control": "DC",
+   "condition": "Used",
+   "price": 50.0,
+   "date": "2026-10-11",
+   "ebayId": "287620729925",
+   "note": "Road #3632. Phase 1b. Runs good; broken horn (cosmetic). Auction, 6 bids.",
+   "url": "https://www.ebay.com/itm/287620729925"
+  },
+  {
+   "model": "2-4-0",
+   "brand": "Rivarossi",
+   "scale": "HO",
+   "road": "York & Peach Bottom",
+   "control": "DC",
+   "condition": "Used",
+   "price": 28.75,
+   "date": "2026-10-13",
+   "ebayId": "257754816630",
+   "note": "'Bowker' old-time steamer with its tender. AHM (Associated Hobby Manufacturers) branding. No road number legible. Auction, 7 bids.",
+   "url": "https://www.ebay.com/itm/257754816630"
+  },
+  {
+   "model": "SD70ACe",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DCC-ready",
+   "condition": "Used",
+   "price": 110.5,
+   "date": "2026-10-11",
+   "ebayId": "278434724679",
+   "note": "Road #9010 (UP designation SD70AH). Like new in box. Auction, 19 bids.",
+   "url": "https://www.ebay.com/itm/278434724679"
+  },
+  {
+   "model": "F7A + F7B",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "John Deere",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 190.0,
+   "date": "2026-10-14",
+   "ebayId": "277451168112",
+   "note": "Road #361. Factory pair: A unit has Tsunami2 sound decoder, B unit a Digitrax DCC decoder. Graded C-7 excellent.",
+   "url": "https://www.ebay.com/itm/277451168112"
+  },
+  {
+   "model": "RS11",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "Winchester & Western",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 160.0,
+   "date": "2026-10-14",
+   "ebayId": "287646663768",
+   "note": "Road #863.",
+   "url": "https://www.ebay.com/itm/287646663768"
   }
  ]
 }
