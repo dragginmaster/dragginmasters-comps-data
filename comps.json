@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 635,
+ "count": 638,
  "comps": [
   {
    "model": "U25B",
@@ -8257,6 +8257,45 @@
    "ebayId": "307118256234",
    "note": "Road #8134. Smoke unit. Page price $289.00 (API said $265.00 \u2014 page wins).",
    "url": "https://www.ebay.com/itm/307118256234"
+  },
+  {
+   "model": "EU07",
+   "brand": "Piko",
+   "scale": "HO",
+   "road": "PKP Cargo",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 186.27,
+   "date": "2026-10-15",
+   "ebayId": "267814173710",
+   "note": "Road #EU07-193. ESU V4 sound fitted. Page price GBP 139.00 (~$186.27); API said $182.90 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/267814173710"
+  },
+  {
+   "model": "E8",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "New York Central",
+   "control": "DC",
+   "condition": "Used",
+   "price": 50.0,
+   "date": "2026-10-14",
+   "ebayId": "406837830842",
+   "note": "Box lettered E8/9; title states E8. No road number legible in photos. Runs very well. Listing offered Best Offer but sold page shows $50.00 plainly, no struck-through ask.",
+   "url": "https://www.ebay.com/itm/406837830842"
+  },
+  {
+   "model": "M1a 4-8-2",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Pennsylvania Railroad",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 277.01,
+   "date": "2026-10-14",
+   "ebayId": "168575705464",
+   "note": "Road #6743. Tested.",
+   "url": "https://www.ebay.com/itm/168575705464"
   }
  ]
 }
