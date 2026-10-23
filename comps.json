@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 690,
+ "count": 697,
  "comps": [
   {
    "model": "U25B",
@@ -8972,6 +8972,97 @@
    "ebayId": "298645922033",
    "note": "Road #NR76. 'PROPOSED' in the listing title is part of the livery name on the box label (NR76 'The Overland' proposed livery), not a pre-order \u2014 completed sale of a factory-new, ready-to-go unit. Page price AU $425.00 (~$298.35); API said $295.93 \u2014 page wins.",
    "url": "https://www.ebay.com/itm/298645922033"
+  },
+  {
+   "model": "SD38-2",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Duluth, Missabe and Iron Range Railway",
+   "control": "DC",
+   "condition": "New",
+   "price": 110.5,
+   "date": "2026-10-11",
+   "ebayId": "117436439128",
+   "note": "Road #212. Control not clearly stated (specifics carry only a generic 'Digital' tag). New in box.",
+   "url": "https://www.ebay.com/itm/117436439128"
+  },
+  {
+   "model": "4-6-0",
+   "brand": "Tyco",
+   "scale": "HO",
+   "road": "Santa Fe",
+   "control": "DC",
+   "condition": "Used",
+   "price": 34.99,
+   "date": "2026-10-13",
+   "ebayId": "287635554936",
+   "note": "1890 Ten-Wheeler. Tested and runs. No road number painted. Page price $34.99 (API said $29.99 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/287635554936"
+  },
+  {
+   "model": "DD40",
+   "brand": "Athearn",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 65.0,
+   "date": "2026-10-14",
+   "ebayId": "820215335817",
+   "note": "Road #70. Powered. Auction, 1 bid.",
+   "url": "https://www.ebay.com/itm/820215335817"
+  },
+  {
+   "model": "RS11",
+   "brand": "Atlas (Kato-made)",
+   "scale": "HO",
+   "road": "Norfolk & Western",
+   "control": "DC",
+   "condition": "New",
+   "price": 69.95,
+   "date": "2026-10-14",
+   "ebayId": "316409964181",
+   "note": "Road #345 painted on the cab (the title's 7092 is the Atlas product number, per the box end flap). Control not stated. NOS in original box.",
+   "url": "https://www.ebay.com/itm/316409964181"
+  },
+  {
+   "model": "SD45",
+   "brand": "Bachmann Plus",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DC",
+   "condition": "New",
+   "price": 49.95,
+   "date": "2026-10-14",
+   "ebayId": "287551038788",
+   "note": "Road #8937 painted on the cab (title/box label say 8953; painted number used). Bloody Nose scheme. Listed New: Other.",
+   "url": "https://www.ebay.com/itm/287551038788"
+  },
+  {
+   "model": "VO-1000",
+   "brand": "Bowser",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 165.0,
+   "date": "2026-10-13",
+   "ebayId": "820137842068",
+   "note": "Road #1320. Baldwin VO-1000. Runs good, DCC address 3. No box.",
+   "url": "https://www.ebay.com/itm/820137842068"
+  },
+  {
+   "model": "E7A",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Wabash",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 57.42,
+   "date": "2026-10-12",
+   "ebayId": "146920041601",
+   "note": "Road #1001. Brand from box photos and the specifics Brand field (both Proto 2000); title omits it. NIB old stock, Mars light.",
+   "url": "https://www.ebay.com/itm/146920041601"
   }
  ]
 }
