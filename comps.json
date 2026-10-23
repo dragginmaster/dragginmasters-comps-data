@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 664,
+ "count": 670,
  "comps": [
   {
    "model": "U25B",
@@ -8634,6 +8634,84 @@
    "ebayId": "137823229427",
    "note": "Road #128, H2 scheme. Factory LokSound. Auction, 1 bid.",
    "url": "https://www.ebay.com/itm/137823229427"
+  },
+  {
+   "model": "SD80MAC",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "CSX",
+   "control": "DC",
+   "condition": "New",
+   "price": 169.99,
+   "date": "2026-10-12",
+   "ebayId": "257777325737",
+   "note": "Road #4599. Control not stated in listing. New in box.",
+   "url": "https://www.ebay.com/itm/257777325737"
+  },
+  {
+   "model": "GP40",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "Louisville & Nashville",
+   "control": "DC",
+   "condition": "New",
+   "price": 99.99,
+   "date": "2026-10-14",
+   "ebayId": "398268255531",
+   "note": "Road #3021. New in box.",
+   "url": "https://www.ebay.com/itm/398268255531"
+  },
+  {
+   "model": "GP20",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Santa Fe",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 172.05,
+   "date": "2026-10-13",
+   "ebayId": "800773526219",
+   "note": "Road #1123. Paragon4. Like new in box, graded C-8.",
+   "url": "https://www.ebay.com/itm/800773526219"
+  },
+  {
+   "model": "SD38",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Duluth, Missabe and Iron Range Railway",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 99.95,
+   "date": "2026-10-14",
+   "ebayId": "257798135832",
+   "note": "Road #212. Graded C-6 very good. Listing features mention a sound function; title claims DCC only \u2014 filed DCC.",
+   "url": "https://www.ebay.com/itm/257798135832"
+  },
+  {
+   "model": "SD45",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Chicago & North Western",
+   "control": "DCC",
+   "condition": "Used",
+   "price": 175.0,
+   "date": "2026-10-11",
+   "ebayId": "389109307369",
+   "note": "Road #6544. Light weathering, with box, tested. Page price $175.00 (API said $148.75 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/389109307369"
+  },
+  {
+   "model": "0-8-0",
+   "brand": "Proto 2000",
+   "scale": "HO",
+   "road": "Chesapeake & Ohio",
+   "control": "DC",
+   "condition": "Used",
+   "price": 149.99,
+   "date": "2026-10-12",
+   "ebayId": "377190377881",
+   "note": "Road #361. USRA 0-8-0. Powered, runs good, lights up; control type not stated.",
+   "url": "https://www.ebay.com/itm/377190377881"
   }
  ]
 }
