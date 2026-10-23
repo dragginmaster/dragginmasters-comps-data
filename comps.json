@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 629,
+ "count": 635,
  "comps": [
   {
    "model": "U25B",
@@ -8179,6 +8179,84 @@
    "ebayId": "267813100484",
    "note": "Road #607 (931-238 is the catalog no.). Page price $95.00 (API said $85.50 \u2014 page wins).",
    "url": "https://www.ebay.com/itm/267813100484"
+  },
+  {
+   "model": "USRA Light Mikado 2-8-2",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Denver & Rio Grande Western",
+   "control": "DC",
+   "condition": "New",
+   "price": 185.0,
+   "date": "2026-10-16",
+   "ebayId": "820246079610",
+   "note": "Road #1213. Listed as New (Other).",
+   "url": "https://www.ebay.com/itm/820246079610"
+  },
+  {
+   "model": "SD9E",
+   "brand": "WalthersProto",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 280.0,
+   "date": "2026-10-15",
+   "ebayId": "198699629479",
+   "note": "Road #4397. Auction, 5 bids.",
+   "url": "https://www.ebay.com/itm/198699629479"
+  },
+  {
+   "model": "ES44AC",
+   "brand": "Walthers Mainline",
+   "scale": "HO",
+   "road": "Norfolk Southern",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 188.88,
+   "date": "2026-10-14",
+   "ebayId": "257275136971",
+   "note": "Road #8118. Non-sound version (title says DC); item specifics state DCC Ready. Page price $188.88 (API said $179.44 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/257275136971"
+  },
+  {
+   "model": "F3A + F3B",
+   "brand": "Athearn Genesis",
+   "scale": "HO",
+   "road": "EMD DEMO",
+   "control": "DC",
+   "condition": "New",
+   "price": 249.99,
+   "date": "2026-10-20",
+   "ebayId": "117465509184",
+   "note": "Factory A+B pair, road #291-A-1 / #291-B-1 (single MPN G2522A+B). Auction, 1 bid.",
+   "url": "https://www.ebay.com/itm/117465509184"
+  },
+  {
+   "model": "S-4",
+   "brand": "Atlas",
+   "scale": "HO",
+   "road": "Yreka Western",
+   "control": "DC",
+   "condition": "Used",
+   "price": 144.99,
+   "date": "2026-10-15",
+   "ebayId": "237124617353",
+   "note": "Road #1172. Control not stated in listing; boxed, tested, runs forward/reverse.",
+   "url": "https://www.ebay.com/itm/237124617353"
+  },
+  {
+   "model": "ES44AC",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Norfolk Southern",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 289.0,
+   "date": "2026-10-14",
+   "ebayId": "307118256234",
+   "note": "Road #8134. Smoke unit. Page price $289.00 (API said $265.00 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/307118256234"
   }
  ]
 }
