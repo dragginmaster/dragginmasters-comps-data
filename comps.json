@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-23",
  "source": "eBay sold listings, harvested by hand",
- "count": 707,
+ "count": 712,
  "comps": [
   {
    "model": "U25B",
@@ -9193,6 +9193,71 @@
    "ebayId": "398356133784",
    "note": "Road #3028 painted on the unit (the box is marked 4307 \u2014 painted number used; seller states 'number 3028 on the side'). Control not stated.",
    "url": "https://www.ebay.com/itm/398356133784"
+  },
+  {
+   "model": "Brill Trolley",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DC",
+   "condition": "New",
+   "price": 15.0,
+   "date": "2026-10-14",
+   "ebayId": "336730157588",
+   "note": "Car #36. Motorized trolley car with operating lights, unlettered yellow. Control not stated. New in box.",
+   "url": "https://www.ebay.com/itm/336730157588"
+  },
+  {
+   "model": "SD9",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Duluth, Missabe and Iron Range Railway",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 185.0,
+   "date": "2026-10-12",
+   "ebayId": "800773408082",
+   "note": "Road #118. Paragon-series sound, like new in box (C-8). Page price $185.00 (API said $177.50 \u2014 page wins).",
+   "url": "https://www.ebay.com/itm/800773408082"
+  },
+  {
+   "model": "NW2",
+   "brand": "Kato",
+   "scale": "HO",
+   "road": "Southern Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 57.0,
+   "date": "2026-10-10",
+   "ebayId": "257760704693",
+   "note": "Road #1313. Control not stated. Auction, 15 bids.",
+   "url": "https://www.ebay.com/itm/257760704693"
+  },
+  {
+   "model": "GP40",
+   "brand": "Bachmann",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DCC+Sound",
+   "condition": "New",
+   "price": 87.55,
+   "date": "2026-10-14",
+   "ebayId": "168773855462",
+   "note": "Road #858. DCC sound value equipped per box. Auction, 26 bids.",
+   "url": "https://www.ebay.com/itm/168773855462"
+  },
+  {
+   "model": "AC6000CW",
+   "brand": "Broadway Limited",
+   "scale": "HO",
+   "road": "Kansas City Southern",
+   "control": "DCC+Sound",
+   "condition": "Used",
+   "price": 227.82,
+   "date": "2026-10-12",
+   "ebayId": "227562353187",
+   "note": "Road #4680. Paragon2 dual-mode sound. UK seller; page price GBP 170.00 (~$227.82); API said $224.83 \u2014 page wins.",
+   "url": "https://www.ebay.com/itm/227562353187"
   }
  ]
 }
