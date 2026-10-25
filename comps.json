@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-25",
  "source": "eBay sold listings, harvested by hand",
- "count": 757,
+ "count": 759,
  "comps": [
   {
    "model": "U25B",
@@ -9843,6 +9843,32 @@
    "ebayId": "168791221276",
    "note": "Road #451.",
    "url": "https://www.ebay.com/itm/168791221276"
+  },
+  {
+   "model": "C628",
+   "brand": "Atlas",
+   "scale": "N",
+   "road": "American Locomotive Company",
+   "control": "DC",
+   "condition": "New",
+   "price": 108.5,
+   "date": "2026-10-01",
+   "ebayId": "287600524859",
+   "note": "ALCO demonstrator; Road #628-3; 22 bids, auction",
+   "url": "https://www.ebay.com/itm/287600524859"
+  },
+  {
+   "model": "GS-4",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Southern Pacific",
+   "control": "DCC-ready",
+   "condition": "New",
+   "price": 265,
+   "date": "2026-10-23",
+   "ebayId": "327407383540",
+   "note": "Road #4449; Kato 126-0301; 2 bids, auction",
+   "url": "https://www.ebay.com/itm/327407383540"
   }
  ]
 }
