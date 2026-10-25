@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-25",
  "source": "eBay sold listings, harvested by hand",
- "count": 817,
+ "count": 819,
  "comps": [
   {
    "model": "U25B",
@@ -10623,6 +10623,32 @@
    "road": "Conrail",
    "scale": "HO",
    "url": "https://www.ebay.com/itm/336759119072"
+  },
+  {
+   "brand": "Kato",
+   "condition": "Used",
+   "control": "DCC",
+   "date": "2026-09-15",
+   "ebayId": "298648562500",
+   "model": "SD40-2 Snoot",
+   "note": "Title states 'Mid w/Snoot Nose' and 'W/DCC Decoder'; tested, operates smoothly, NCE non-sound decoder. Filed as SD40-2 Snoot per Don's ruling (title-says-snoot).",
+   "price": 121.95,
+   "road": "Santa Fe",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/298648562500"
+  },
+  {
+   "brand": "Kato",
+   "condition": "New",
+   "control": "DCC Ready",
+   "date": "2026-08-02",
+   "ebayId": "278112804468",
+   "model": "SD40-2 Snoot",
+   "note": "Title states 'Snoot Nose'; DCC Ready. Filed as SD40-2 Snoot per Don's ruling (title-says-snoot).",
+   "price": 99,
+   "road": "Union Pacific",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/278112804468"
   }
  ]
 }
