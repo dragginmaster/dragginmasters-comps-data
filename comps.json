@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-25",
  "source": "eBay sold listings, harvested by hand",
- "count": 809,
+ "count": 817,
  "comps": [
   {
    "model": "U25B",
@@ -10519,6 +10519,110 @@
    "road": "Union Pacific",
    "scale": "HO",
    "url": "https://www.ebay.com/itm/377385237859"
+  },
+  {
+   "brand": "Athearn",
+   "condition": "Used \u2014 Like New",
+   "control": "DCC+Sound",
+   "date": "2026-10-24",
+   "ebayId": "900020310626",
+   "model": "SD40-2",
+   "note": "Seller notes like-new condition; description states 'No run time'. Banked per Don's ruling (unrun, not untested).",
+   "price": 156.5,
+   "road": "L&N",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/900020310626"
+  },
+  {
+   "brand": "Kato",
+   "condition": "Used \u2014 C-7 Excellent",
+   "control": "DC",
+   "date": "2026-10-18",
+   "ebayId": "336834618349",
+   "model": "SD40-2",
+   "note": "Run not stated; seller notes vintage units 'should be SERVICED & LUBED'. Banked per Don's ruling.",
+   "price": 75,
+   "road": "Chicago & North Western",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/336834618349"
+  },
+  {
+   "brand": "Athearn (blue box)",
+   "condition": "New",
+   "control": "DC",
+   "date": "2026-10-19",
+   "ebayId": "407285053813",
+   "model": "SD40-2",
+   "note": "Unassembled kit; seller states unit ran well. Don's ruling: unassembled kits count.",
+   "price": 49.99,
+   "road": "Undecorated",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/407285053813"
+  },
+  {
+   "brand": "Athearn (blue box)",
+   "condition": "New",
+   "control": "DC",
+   "date": "2026-10-24",
+   "ebayId": "168813742562",
+   "model": "SD40-2 Snoot",
+   "note": "Unassembled KIT T-1; slight damage on rear running board; MPN 4808 vs title #4807. Don's ruling: kits count.",
+   "price": 25.99,
+   "road": "Kansas City Southern",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/168813742562"
+  },
+  {
+   "brand": "Athearn",
+   "condition": "Used",
+   "control": "DC",
+   "date": "2026-08-03",
+   "ebayId": "227441713984",
+   "model": "SD40-2 Snoot",
+   "note": "Seller states 'Tested & Works!'; headlight not working. Road number 686 seen in photo (Don's ruling).",
+   "price": 25.99,
+   "road": "Kansas City Southern",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/227441713984"
+  },
+  {
+   "brand": "Kato",
+   "condition": "New",
+   "control": "DCC Ready",
+   "date": "2026-09-07",
+   "ebayId": "387993628859",
+   "model": "SD40-2",
+   "note": "Title says 'DCC PLUG'; filed as DCC Ready per Don's ruling (a plug = ready by function). Run not stated.",
+   "price": 120,
+   "road": "Chicago & North Western",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/387993628859"
+  },
+  {
+   "brand": "Kato",
+   "condition": "New",
+   "control": "DCC Ready",
+   "date": "2026-07-31",
+   "ebayId": "387993628079",
+   "model": "SD40-2",
+   "note": "Title says 'DCC PLUG'; filed as DCC Ready per Don's ruling (a plug = ready by function). Run not stated.",
+   "price": 120,
+   "road": "Chicago & North Western",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/387993628079"
+  },
+  {
+   "brand": "Bachmann",
+   "condition": "Used",
+   "control": "DCC+Sound",
+   "date": "2026-08-31",
+   "ebayId": "336759119072",
+   "model": "SD40-2",
+   "note": "Title says DCC sound; box in photo reads DCC READY (67029). Don's ruling: things sold DCC-ready can become DCC/DCC+Sound later.",
+   "price": 99.99,
+   "road": "Conrail",
+   "scale": "HO",
+   "url": "https://www.ebay.com/itm/336759119072"
   }
  ]
 }
