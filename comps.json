@@ -486,7 +486,7 @@
     },
     {
       "model": "F7A",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "Cotton Belt",
       "control": "DCC+Sound",
@@ -512,7 +512,7 @@
     },
     {
       "model": "SD45-2",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "Conrail",
       "control": "DCC+Sound",
@@ -564,7 +564,7 @@
     },
     {
       "model": "GP9",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "New York Central",
       "control": "DCC-ready",
@@ -2644,7 +2644,7 @@
     },
     {
       "model": "SD40T-2",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Southern Pacific",
       "control": "DC",
@@ -4360,7 +4360,7 @@
     },
     {
       "model": "F59PHI",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Santa Fe",
       "control": "DCC+Sound",
@@ -4971,7 +4971,7 @@
     },
     {
       "model": "F59PHI",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Coaster",
       "control": "DC",
@@ -5231,7 +5231,7 @@
     },
     {
       "model": "F59PHI",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Metra",
       "control": "DC",
@@ -6076,7 +6076,7 @@
     },
     {
       "model": "FP45",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Santa Fe",
       "control": "DC",
@@ -6674,7 +6674,7 @@
     },
     {
       "model": "SD40",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "CSX",
       "control": "DC",
@@ -7116,7 +7116,7 @@
     },
     {
       "model": "FP45",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Santa Fe",
       "control": "DCC+Sound",
@@ -7168,7 +7168,7 @@
     },
     {
       "model": "SW1500",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Union Pacific",
       "control": "DCC+Sound",
@@ -7246,7 +7246,7 @@
     },
     {
       "model": "Dash 9-44CW",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "CSX",
       "control": "DC",
@@ -7337,7 +7337,7 @@
     },
     {
       "model": "SD39",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Norfolk & Western",
       "control": "DCC+Sound",
@@ -8377,7 +8377,7 @@
     },
     {
       "model": "SD45",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Frisco",
       "control": "DCC-ready",
@@ -9755,7 +9755,7 @@
     },
     {
       "model": "GP35",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Rio Grande",
       "control": "DCC-ready",
@@ -9963,7 +9963,7 @@
     },
     {
       "model": "SD40-2",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "Union Pacific",
       "control": "DCC+Sound",
@@ -10209,7 +10209,7 @@
       "url": "https://www.ebay.com/itm/800740945557"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "condition": "Used",
       "control": "DCC Ready",
       "date": "2026-10-21",
@@ -10222,7 +10222,7 @@
       "url": "https://www.ebay.com/itm/147610592664"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "condition": "New",
       "control": "DCC Ready",
       "date": "2026-10-19",
@@ -10235,7 +10235,7 @@
       "url": "https://www.ebay.com/itm/267818314331"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "condition": "New",
       "control": "DCC Ready",
       "date": "2026-10-09",
@@ -10274,7 +10274,7 @@
       "url": "https://www.ebay.com/itm/336791414663"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "condition": "Used",
       "control": "DC",
       "date": "2026-10-24",
@@ -10469,7 +10469,7 @@
       "url": "https://www.ebay.com/itm/366685173172"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "condition": "New",
       "control": "DCC+Sound",
       "date": "2026-10-05",
