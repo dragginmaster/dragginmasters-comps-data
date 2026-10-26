@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-25",
   "source": "eBay sold listings, harvested by hand",
-  "count": 818,
+  "count": 817,
   "comps": [
     {
       "model": "U25B",
@@ -587,19 +587,6 @@
       "ebayId": "198613598891",
       "note": "Atlas N 40005876 Alco RS-11 Lehigh Valley #7640, new, DCC-ready, multi-qty BIN (2 sold Oct 1)",
       "url": "https://www.ebay.com/itm/198613598891"
-    },
-    {
-      "model": "SW1500",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "CSX",
-      "control": "DC",
-      "condition": "Used",
-      "price": 71.0,
-      "date": "2026-10-02",
-      "ebayId": "158258763709",
-      "note": "Athearn HO SW1500 CSX, used-very good, weathered, LED lights, DC, auction 6 bids sold Sep 14",
-      "url": "https://www.ebay.com/itm/158258763709"
     },
     {
       "model": "Dash 8-40B",
