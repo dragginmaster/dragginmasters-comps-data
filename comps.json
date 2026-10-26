@@ -187,7 +187,7 @@
     },
     {
       "model": "SD40-2",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Kansas City Southern",
       "control": "DCC+Sound",
@@ -1709,7 +1709,7 @@
     {
       "ebayId": "136458193105",
       "model": "U28B",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Norfolk & Western",
       "control": "DC",
@@ -1722,7 +1722,7 @@
     {
       "ebayId": "800288133918",
       "model": "U28B",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Western Pacific",
       "control": "DC",
@@ -1774,7 +1774,7 @@
     {
       "ebayId": "800288173791",
       "model": "U28B",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Norfolk & Western",
       "control": "DC",
@@ -2306,7 +2306,7 @@
     },
     {
       "model": "SD40T-2",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Southern Pacific",
       "control": "DC",
@@ -4412,7 +4412,7 @@
     },
     {
       "model": "SD70",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "N",
       "road": "Southern Pacific Santa Fe",
       "control": "DC",
@@ -5699,7 +5699,7 @@
     },
     {
       "model": "SD40T-2",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "New York Susquehanna & Western",
       "control": "DC",
@@ -5894,7 +5894,7 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Southern Pacific",
       "control": "DC",
@@ -5920,7 +5920,7 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Southern Pacific",
       "control": "DC",
@@ -5933,7 +5933,7 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Union Pacific",
       "control": "DC",
@@ -5985,7 +5985,7 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "DOT State of New Jersey",
       "control": "DC",
@@ -6102,7 +6102,7 @@
     },
     {
       "model": "SD40-2",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Chicago & North Western",
       "control": "DCC+Sound",
@@ -8455,7 +8455,7 @@
     },
     {
       "model": "GP38-2",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "CP Rail",
       "control": "DC",
@@ -8754,7 +8754,7 @@
     },
     {
       "model": "F7A + F7B",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "John Deere",
       "control": "DCC+Sound",
@@ -8962,7 +8962,7 @@
     },
     {
       "model": "DD40",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Union Pacific",
       "control": "DC",
@@ -9417,7 +9417,7 @@
     },
     {
       "model": "SW1500",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "HO",
       "road": "Western Pacific",
       "control": "DC",
@@ -10534,7 +10534,7 @@
       "url": "https://www.ebay.com/itm/168813742562"
     },
     {
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "condition": "Used",
       "control": "DC",
       "date": "2026-08-03",
