@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-25",
   "source": "eBay sold listings, harvested by hand",
-  "count": 819,
+  "count": 818,
   "comps": [
     {
       "model": "U25B",
@@ -444,19 +444,6 @@
       "ebayId": "227532825661",
       "note": "Road #742; 2 bids, auction; ESU LokSound, test run only",
       "url": "https://www.ebay.com/itm/227532825661"
-    },
-    {
-      "model": "GP40",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Seaboard Coast Line",
-      "control": "DCC",
-      "condition": "Used",
-      "price": 75.0,
-      "date": "2026-10-02",
-      "ebayId": "128098243237",
-      "note": "Road #1560; 1 bid, auction; titled 'Atlas Custom', item specifics brand Athearn (MPN ATH-8608)",
-      "url": "https://www.ebay.com/itm/128098243237"
     },
     {
       "model": "GP35",
