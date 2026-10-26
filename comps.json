@@ -1,7 +1,7 @@
 {
   "updated": "2026-10-25",
   "source": "eBay sold listings, harvested by hand",
-  "count": 816,
+  "count": 810,
   "comps": [
     {
       "model": "U25B",
@@ -1865,7 +1865,7 @@
     {
       "ebayId": "198639045553",
       "model": "SD40T-2",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Southern Pacific",
       "control": "DC",
@@ -2332,7 +2332,7 @@
     },
     {
       "model": "GP35",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Soo Line",
       "control": "DC",
@@ -2592,7 +2592,7 @@
     },
     {
       "model": "GP35",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Santa Fe",
       "control": "DC",
@@ -3138,7 +3138,7 @@
     },
     {
       "model": "F59PHI",
-      "brand": "Athearn",
+      "brand": "Athearn RTR",
       "scale": "N",
       "road": "Amtrak",
       "control": "DCC+Sound",
@@ -5777,7 +5777,7 @@
     },
     {
       "model": "F7A",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Burlington Northern",
       "control": "DC",
@@ -5842,7 +5842,7 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Penn Central",
       "control": "DC",
@@ -5907,19 +5907,6 @@
     },
     {
       "model": "U28C",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Union Pacific",
-      "control": "DC",
-      "condition": "Used",
-      "price": 30.99,
-      "date": "2026-09-12",
-      "ebayId": "800646931996",
-      "note": "Road #2802; BIN",
-      "url": "https://www.ebay.com/itm/800646931996"
-    },
-    {
-      "model": "U28C",
       "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Southern Pacific",
@@ -5956,32 +5943,6 @@
       "ebayId": "267766165951",
       "note": "Road #6533; auction, 1 bid; w/box+instructions",
       "url": "https://www.ebay.com/itm/267766165951"
-    },
-    {
-      "model": "U28C",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Union Pacific",
-      "control": "DC",
-      "condition": "Used",
-      "price": 22.45,
-      "date": "2026-08-25",
-      "ebayId": "398132984599",
-      "note": "Road #2802; BIN; tested works fwd/rev; missing handrails, truck wear",
-      "url": "https://www.ebay.com/itm/398132984599"
-    },
-    {
-      "model": "U28C",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Union Pacific",
-      "control": "DC",
-      "condition": "Used",
-      "price": 22.0,
-      "date": "2026-08-04",
-      "ebayId": "128011073317",
-      "note": "Road #2802; BIN; control unstated, filed DC",
-      "url": "https://www.ebay.com/itm/128011073317"
     },
     {
       "model": "U28C",
@@ -6362,7 +6323,7 @@
     },
     {
       "model": "GP9",
-      "brand": "Athearn",
+      "brand": "Athearn (blue box)",
       "scale": "HO",
       "road": "Union Pacific",
       "control": "DC",
@@ -7334,19 +7295,6 @@
       "ebayId": "257795375985",
       "note": "Factory unlettered (black, no road name or number; 82051 is the catalog number); filed Undecorated per Don's 2026-10-21 rule. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
       "url": "https://www.ebay.com/itm/257795375985"
-    },
-    {
-      "model": "DD40",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Undecorated",
-      "control": "DC",
-      "condition": "New",
-      "price": 52.0,
-      "date": "2026-10-13",
-      "ebayId": "267806289714",
-      "note": "Explicitly undecorated, single motor; control unstated, filed DC. Banked from the +50 audit pile on Don's ruling 2026-10-21.",
-      "url": "https://www.ebay.com/itm/267806289714"
     },
     {
       "model": "RABe 502",
@@ -8754,7 +8702,7 @@
     },
     {
       "model": "F7A + F7B",
-      "brand": "Athearn",
+      "brand": "Athearn Genesis",
       "scale": "HO",
       "road": "John Deere",
       "control": "DCC+Sound",
@@ -8816,19 +8764,6 @@
       "ebayId": "278434720737",
       "note": "Road #4141, UP Heritage 'George H.W. Bush' unit. Control not stated in listing. Like new. Auction, 16 bids.",
       "url": "https://www.ebay.com/itm/278434720737"
-    },
-    {
-      "model": "GP38-2",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Indiana Harbor Belt",
-      "control": "DC",
-      "condition": "Used",
-      "price": 33.6,
-      "date": "2026-10-14",
-      "ebayId": "860020284160",
-      "note": "Road #3802. Runs strong and smooth, working lighting; missing some railings. Auction, 9 bids.",
-      "url": "https://www.ebay.com/itm/860020284160"
     },
     {
       "model": "GP7",
@@ -9401,19 +9336,6 @@
       "ebayId": "960038849570",
       "note": "Road #1982 \u2014 UP's Missouri Pacific heritage unit (hood lettered Missouri Pacific). Specifics: analog / DCC ready.",
       "url": "https://www.ebay.com/itm/960038849570"
-    },
-    {
-      "model": "GP38",
-      "brand": "Athearn",
-      "scale": "HO",
-      "road": "Santa Fe",
-      "control": "DC",
-      "condition": "Used",
-      "price": 40.0,
-      "date": "2026-10-23",
-      "ebayId": "336851244071",
-      "note": "Road #1347. Auction, 1 bid.",
-      "url": "https://www.ebay.com/itm/336851244071"
     },
     {
       "model": "SW1500",
