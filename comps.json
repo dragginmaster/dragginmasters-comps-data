@@ -1,7 +1,7 @@
 {
  "updated": "2026-10-30",
  "source": "eBay sold listings, harvested by hand",
- "count": 1322,
+ "count": 1326,
  "comps": [
   {
    "model": "U25B",
@@ -17188,6 +17188,58 @@
    "ebayId": "307241055663",
    "note": "Road #4431; item 126-0303.",
    "url": "https://www.ebay.com/itm/307241055663"
+  },
+  {
+   "model": "ES44AC",
+   "brand": "Kato",
+   "scale": "N",
+   "road": "Canadian Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 61.0,
+   "date": "2026-10-16",
+   "ebayId": "128125191330",
+   "note": "Road #8705. Item 176-8903 (DC version per title and Kato item number). Condition field and specifics said New, but the seller's own description said used in great condition; banked as Used per Don's audit ruling 2026-10-31.",
+   "url": "https://www.ebay.com/itm/128125191330"
+  },
+  {
+   "model": "GP9",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Western Maryland",
+   "control": "DC",
+   "condition": "Used",
+   "price": 39.95,
+   "date": "2026-10-28",
+   "ebayId": "206607278267",
+   "note": "Road #24. Comes in the older illustrated-lid Athearn box; filed under Athearn (blue box) per Don's audit ruling 2026-10-31 (illustrated-lid box counts as blue box).",
+   "url": "https://www.ebay.com/itm/206607278267"
+  },
+  {
+   "model": "GP35",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Missouri Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 34.75,
+   "date": "2026-10-06",
+   "ebayId": "117438443939",
+   "note": "Road #2556. Tested per seller. Illustrated-lid Athearn box; filed under Athearn (blue box) per Don's audit ruling 2026-10-31.",
+   "url": "https://www.ebay.com/itm/117438443939"
+  },
+  {
+   "model": "GP35",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "NMRA",
+   "control": "DC",
+   "condition": "New",
+   "price": 45.0,
+   "date": "2026-10-05",
+   "ebayId": "820183552218",
+   "note": "NMRA 50th Anniversary edition. New in its illustrated-lid Athearn box; filed under Athearn (blue box) per Don's audit ruling 2026-10-31.",
+   "url": "https://www.ebay.com/itm/820183552218"
   }
  ]
 }
