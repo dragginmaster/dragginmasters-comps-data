@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "source": "eBay sold listings, harvested by hand",
- "count": 1798,
+ "count": 1784,
  "comps": [
   {
    "model": "U25B",
@@ -17294,45 +17294,6 @@
    "url": "https://www.ebay.com/itm/158111070398"
   },
   {
-   "model": "RS-3",
-   "brand": "Atlas",
-   "scale": "N",
-   "road": "Chicago & North Western",
-   "control": "DC",
-   "condition": "New",
-   "price": 52.0,
-   "date": "2026-11-02",
-   "ebayId": "880052343607",
-   "note": "Road #1614. 12 bids, auction. Listed New (Other) - appears new, sold as-is untested per seller.",
-   "url": "https://www.ebay.com/itm/880052343607"
-  },
-  {
-   "model": "SD7",
-   "brand": "Life-Like",
-   "scale": "N",
-   "road": "Chicago & North Western",
-   "control": "DC",
-   "condition": "New",
-   "price": 52.0,
-   "date": "2026-11-02",
-   "ebayId": "880052344913",
-   "note": "Road #1663. 11 bids, auction. Listed New (Other) - appears new, sold as-is untested per seller.",
-   "url": "https://www.ebay.com/itm/880052344913"
-  },
-  {
-   "model": "F3",
-   "brand": "Kato",
-   "scale": "N",
-   "road": "Southern Railway",
-   "control": "DC",
-   "condition": "New",
-   "price": 73.0,
-   "date": "2026-11-01",
-   "ebayId": "880052227744",
-   "note": "F3-B unit. Item 176-062. 17 bids, auction. Listed New (Other) - appears new, sold as-is untested per seller.",
-   "url": "https://www.ebay.com/itm/880052227744"
-  },
-  {
    "model": "SD24",
    "brand": "Atlas",
    "scale": "N",
@@ -17344,19 +17305,6 @@
    "ebayId": "800770182768",
    "note": "Road #919, billboard lettering. Item 54419. Seller states DC engine, DCC decoder ready.",
    "url": "https://www.ebay.com/itm/800770182768"
-  },
-  {
-   "model": "RS-11",
-   "brand": "Model Power",
-   "scale": "HO",
-   "road": "Southern Railway",
-   "control": "DC",
-   "condition": "New",
-   "price": 29.99,
-   "date": "2026-11-01",
-   "ebayId": "236996100429",
-   "note": "Road #6695. Listed New (Other) - unused/never run, sold as untested. 'Or OBO' listing; no accepted-offer banner on the sold page.",
-   "url": "https://www.ebay.com/itm/236996100429"
   },
   {
    "model": "E8/9",
@@ -17409,19 +17357,6 @@
    "ebayId": "860023568915",
    "note": "Road #2584. Brass. Item 2203.1. Seller grades it Excellent.",
    "url": "https://www.ebay.com/itm/860023568915"
-  },
-  {
-   "model": "GP38-2",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Coca Cola",
-   "control": "DC",
-   "condition": "Used",
-   "price": 76.0,
-   "date": "2026-11-01",
-   "ebayId": "336852846054",
-   "note": "6 bids, auction. Coca Cola promotional scheme.",
-   "url": "https://www.ebay.com/itm/336852846054"
   },
   {
    "model": "GP9",
@@ -17489,19 +17424,6 @@
    "url": "https://www.ebay.com/itm/407285486736"
   },
   {
-   "model": "Train Master H24-66",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Southern Pacific",
-   "control": "DC",
-   "condition": "Used",
-   "price": 33.0,
-   "date": "2026-11-01",
-   "ebayId": "860084053115",
-   "note": "Road #3034. 18 bids, auction.",
-   "url": "https://www.ebay.com/itm/860084053115"
-  },
-  {
    "model": "RS-3",
    "brand": "Kato",
    "scale": "HO",
@@ -17539,19 +17461,6 @@
    "ebayId": "336849123608",
    "note": "Road #346. 1 bid, auction.",
    "url": "https://www.ebay.com/itm/336849123608"
-  },
-  {
-   "model": "SD40-2",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "SOO Line",
-   "control": "DC",
-   "condition": "Used",
-   "price": 40.0,
-   "date": "2026-11-01",
-   "ebayId": "407321178625",
-   "note": "Road #6604. 23 bids, auction.",
-   "url": "https://www.ebay.com/itm/407321178625"
   },
   {
    "model": "FA2",
@@ -17630,19 +17539,6 @@
    "ebayId": "128159686622",
    "note": "Brass, unpainted. 14 bids, auction. The 'Reno' (V&T #11); tender lettered V&T / RENO.",
    "url": "https://www.ebay.com/itm/128159686622"
-  },
-  {
-   "model": "U30B",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Burlington Northern",
-   "control": "DC",
-   "condition": "Used",
-   "price": 35.0,
-   "date": "2026-11-01",
-   "ebayId": "336845488248",
-   "note": "Road #5677. 1 bid, auction.",
-   "url": "https://www.ebay.com/itm/336845488248"
   },
   {
    "model": "NW2",
@@ -17958,7 +17854,7 @@
   },
   {
    "model": "SD45T-2",
-   "brand": "Athearn",
+   "brand": "Athearn RTR",
    "scale": "HO",
    "road": "Union Pacific",
    "control": "DCC+Sound",
@@ -18348,7 +18244,7 @@
   },
   {
    "model": "SD40-2",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Southern Pacific",
    "control": "DC",
@@ -18449,32 +18345,6 @@
    "ebayId": "128150769309",
    "note": "Road #120. Seller lists the condition as 'Weathered' (custom weathering). Fixed price.",
    "url": "https://www.ebay.com/itm/128150769309"
-  },
-  {
-   "model": "GP40-2",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Reading",
-   "control": "DC",
-   "condition": "Used",
-   "price": 55.0,
-   "date": "2026-11-01",
-   "ebayId": "168831109787",
-   "note": "Road #3671. Custom painted and detailed, lettered 'Reading Lines'; powered and tested, Kadee couplers, no box. 'Or OBO' listing; no accepted-offer banner on the sold page, and the API sold price matches the listed price. Fixed price.",
-   "url": "https://www.ebay.com/itm/168831109787"
-  },
-  {
-   "model": "GP50",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Burlington Northern",
-   "control": "DC",
-   "condition": "Used",
-   "price": 35.0,
-   "date": "2026-11-01",
-   "ebayId": "168831171190",
-   "note": "Road #3114. Test ran, powered, Kadee couplers, no box. 'Or OBO' listing; no accepted-offer banner on the sold page, and the API sold price matches the listed price. Fixed price.",
-   "url": "https://www.ebay.com/itm/168831171190"
   },
   {
    "model": "GP35",
@@ -18764,7 +18634,7 @@
   },
   {
    "model": "GP38-2",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "CSX",
    "control": "DC",
@@ -18907,7 +18777,7 @@
   },
   {
    "model": "GP38-2",
-   "brand": "Athearn",
+   "brand": "Athearn RTR",
    "scale": "HO",
    "road": "Boston & Maine",
    "control": "DC",
@@ -19297,7 +19167,7 @@
   },
   {
    "model": "F7",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Santa Fe",
    "control": "DC",
@@ -19414,7 +19284,7 @@
   },
   {
    "model": "SD40-2",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Burlington Northern",
    "control": "DC",
@@ -19582,19 +19452,6 @@
    "url": "https://www.ebay.com/itm/236924020001"
   },
   {
-   "model": "GP60",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Southern Pacific",
-   "control": "DC",
-   "condition": "Used",
-   "price": 40.0,
-   "date": "2026-10-31",
-   "ebayId": "840070396038",
-   "note": "Road #9715, painted on the unit. Heavily weathered; seller: some wear and tear to the paint, but it runs great. Fixed price.",
-   "url": "https://www.ebay.com/itm/840070396038"
-  },
-  {
    "model": "GP35",
    "brand": "Athearn RTR",
    "scale": "HO",
@@ -19686,19 +19543,6 @@
    "url": "https://www.ebay.com/itm/820275054678"
   },
   {
-   "model": "F7A",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Amtrak",
-   "control": "DCC",
-   "condition": "Used \u2014 Like New",
-   "price": 33.5,
-   "date": "2026-10-31",
-   "ebayId": "800842801017",
-   "note": "Road #105. Title states DCC fitted (a can-motor unit); the specifics' Control System Digital agrees and Power Type DC conflicts. Seller: like new, test ran good on track. 7 bids, auction.",
-   "url": "https://www.ebay.com/itm/800842801017"
-  },
-  {
    "model": "USRA 2-8-2",
    "brand": "Athearn Genesis",
    "scale": "HO",
@@ -19752,7 +19596,7 @@
   },
   {
    "model": "GP60",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Electro-Motive Division",
    "control": "DC",
@@ -19908,7 +19752,7 @@
   },
   {
    "model": "C44-9W",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "General Electric",
    "control": "DC",
@@ -19985,19 +19829,6 @@
    "url": "https://www.ebay.com/itm/237154690346"
   },
   {
-   "model": "SW1500",
-   "brand": "Athearn",
-   "scale": "HO",
-   "road": "Conrail",
-   "control": "DC",
-   "condition": "Used",
-   "price": 49.99,
-   "date": "2026-10-31",
-   "ebayId": "257825369999",
-   "note": "Road #9611. Seller: tested, operates normally ('Excellent Condition!'). The listing page is now out of stock; the API records the sale at this price on 2026-10-31. Fixed price.",
-   "url": "https://www.ebay.com/itm/257825369999"
-  },
-  {
    "model": "P42DC",
    "brand": "Athearn Genesis",
    "scale": "HO",
@@ -20038,7 +19869,7 @@
   },
   {
    "model": "SD50",
-   "brand": "Athearn",
+   "brand": "Athearn RTR",
    "scale": "HO",
    "road": "Southern Pacific",
    "control": "DCC+Sound",
@@ -20103,12 +19934,12 @@
   },
   {
    "model": "NW2",
-   "brand": "Athearn",
+   "brand": "Athearn (blue box)",
    "scale": "HO",
    "road": "Erie Lackawanna",
    "control": "DC",
    "condition": "Used",
-   "price": 36.75,
+   "price": 38.8,
    "date": "2026-10-31",
    "ebayId": "178562260747",
    "note": "Road #430. Serviced by the seller (rotors/stators cleaned, drivetrain lubed); the photos show it opened up for the service. Price note: the sold page displays $38.80 with no OBO option; the API records the transaction at $36.75, banked here. Fixed price.",
@@ -22323,19 +22154,6 @@
    "ebayId": "137600500803",
    "note": "Road #6749, item 8496. Stealth Series, no sound, speaker installed. New in box, sealed.",
    "url": "https://www.ebay.com/itm/137600500803"
-  },
-  {
-   "model": "Challenger 4-6-6-4",
-   "brand": "Athearn",
-   "scale": "N",
-   "road": "Union Pacific",
-   "control": "DCC+Sound",
-   "condition": "New",
-   "price": 274.35,
-   "date": "2026-10-27",
-   "ebayId": "800509515236",
-   "note": "Road #3985, ATH25741. Out-of-stock multi-quantity listing, 3 sold; dated from the page banner (the API row carries an earlier unit sale).",
-   "url": "https://www.ebay.com/itm/800509515236"
   },
   {
    "model": "Dash 8-40CW",
