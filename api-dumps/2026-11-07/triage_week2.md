@@ -4,78 +4,53 @@ Pool: 4722 new candidates (from pool_new_candidates.json).
 
 ## Buckets
 - VERIFY (clean + ended within 90d, page likely alive): 709
-- FLAG (needs judgment / sold page): 646
 - REFERENCE (clean but ended >90d ago, page likely stripped): 2322
-- OUT (hard rule violation from API/title alone): 1045
+- TRASHED: 1691 (1045 hard rule violation + 646 judgment calls, trashed per Don 2026-11-07)
 
-## Reasons (OUT + FLAG)
+Don's call Nov 7: anything that needs a judgment call gets trashed, no audit pile for this wave. The 646 flagged items are recorded in trashed_judgment_week2.json (not deleted from the raw dumps).
+
+## TRASHED reasons
 - best_offer: 658
-- flag:model token not in title: 430
+- judgment call (trashed per Don): 646
 - parts/shell/decoder/track/tender: 233
 - lot: 85
-- flag:multi-qty units_sold=2: 79
 - non-runner: 69
-- flag:wording: 41
-- flag:multi-qty units_sold=3: 32
-- flag:multi-qty units_sold=4: 14
-- flag:multi-qty units_sold=6: 8
-- flag:multi-qty units_sold=7: 5
-- flag:multi-qty units_sold=12: 4
-- flag:multi-qty units_sold=5: 4
-- flag:no usable title: 4
-- flag:multi-qty units_sold=15: 3
-- flag:multi-qty units_sold=24: 3
-- flag:multi-qty units_sold=21: 2
-- flag:multi-qty units_sold=13: 2
-- flag:multi-qty units_sold=8: 2
-- flag:multi-qty units_sold=10: 2
-- flag:multi-qty units_sold=16: 1
-- flag:multi-qty units_sold=26: 1
-- flag:multi-qty units_sold=52: 1
-- flag:multi-qty units_sold=36: 1
-- flag:multi-qty units_sold=72: 1
-- flag:multi-qty units_sold=85: 1
-- flag:multi-qty units_sold=31: 1
-- flag:multi-qty units_sold=110: 1
-- flag:multi-qty units_sold=42: 1
-- flag:multi-qty units_sold=9: 1
-- flag:multi-qty units_sold=14: 1
 
-## Per-tier (verify / flag / ref-old / out)
-- Brass (N): 155 / 18 / 0 / 44
-- Burlington Northern (N): 91 / 9 / 0 / 41
-- Brass steam (N): 53 / 2 / 0 / 20
-- Atlas U25B (N): 34 / 0 / 0 / 17
-- Burlington CB&Q (N): 31 / 2 / 0 / 9
-- Atlas GP7: 30 / 19 / 134 / 55
-- Atlas VO-1000: 27 / 13 / 146 / 69
-- Atlas GP40-2: 24 / 63 / 212 / 98
-- Atlas GP9: 24 / 15 / 134 / 38
-- Atlas SD9: 22 / 20 / 153 / 43
-- Burlington Route (N): 20 / 1 / 0 / 2
-- Fox Valley ES44AC: 20 / 3 / 162 / 25
-- Kato GP38-2: 20 / 15 / 158 / 55
-- InterMountain SD45-2: 19 / 10 / 76 / 25
-- Kato U30C (N): 19 / 2 / 0 / 9
-- Atlas B23-7: 18 / 14 / 137 / 67
-- Broadway Limited SD40-2: 17 / 13 / 172 / 39
-- Model Power 4-6-2 Pacific: 14 / 86 / 91 / 45
-- Bachmann Explorer Set: 12 / 11 / 131 / 84
-- Model Power 2-6-0 Mogul: 11 / 19 / 59 / 26
-- Bachmann GP7: 8 / 3 / 58 / 11
-- Con-Cor 4-6-4 Hudson: 8 / 83 / 83 / 63
-- Fox Valley GP60M: 7 / 0 / 52 / 18
-- Bachmann F7B: 6 / 6 / 116 / 26
-- Life-Like SW1200: 6 / 21 / 35 / 11
-- Life-Like 2-8-4 Berkshire: 4 / 22 / 37 / 9
-- Atlas C630: 2 / 10 / 32 / 14
-- Bachmann F7A + F7B: 2 / 0 / 28 / 5
-- Bachmann Plus F7A: 2 / 4 / 48 / 20
-- Atlas 0-6-0 Switcher: 1 / 152 / 33 / 51
-- Bachmann 2-6-0 Mogul: 1 / 0 / 4 / 1
-- Bachmann Plus DD40AX: 1 / 0 / 28 / 3
-- Broadway Limited E9: 0 / 0 / 3 / 1
-- Life-Like 0-8-0 Switcher: 0 / 10 / 0 / 1
+## Per-tier (verify / ref-old / trashed)
+- Brass (N): 155 / 0 / 62
+- Burlington Northern (N): 91 / 0 / 50
+- Brass steam (N): 53 / 0 / 22
+- Atlas U25B (N): 34 / 0 / 17
+- Burlington CB&Q (N): 31 / 0 / 11
+- Atlas GP7: 30 / 134 / 74
+- Atlas VO-1000: 27 / 146 / 82
+- Atlas GP9: 24 / 134 / 53
+- Atlas GP40-2: 24 / 212 / 161
+- Atlas SD9: 22 / 153 / 63
+- Fox Valley ES44AC: 20 / 162 / 28
+- Kato GP38-2: 20 / 158 / 70
+- Burlington Route (N): 20 / 0 / 3
+- Kato U30C (N): 19 / 0 / 11
+- InterMountain SD45-2: 19 / 76 / 35
+- Atlas B23-7: 18 / 137 / 81
+- Broadway Limited SD40-2: 17 / 172 / 52
+- Model Power 4-6-2 Pacific: 14 / 91 / 131
+- Bachmann Explorer Set: 12 / 131 / 95
+- Model Power 2-6-0 Mogul: 11 / 59 / 45
+- Con-Cor 4-6-4 Hudson: 8 / 83 / 146
+- Bachmann GP7: 8 / 58 / 14
+- Fox Valley GP60M: 7 / 52 / 18
+- Life-Like SW1200: 6 / 35 / 32
+- Bachmann F7B: 6 / 116 / 32
+- Life-Like 2-8-4 Berkshire: 4 / 37 / 31
+- Bachmann F7A + F7B: 2 / 28 / 5
+- Atlas C630: 2 / 32 / 24
+- Bachmann Plus F7A: 2 / 48 / 24
+- Atlas 0-6-0 Switcher: 1 / 33 / 203
+- Bachmann Plus DD40AX: 1 / 28 / 3
+- Bachmann 2-6-0 Mogul: 1 / 4 / 1
+- Broadway Limited E9: 0 / 3 / 1
+- Life-Like 0-8-0 Switcher: 0 / 0 / 11
 
 Verify queue ordered by tier size (most candidates first), newest first.
 Verification still needs a working eBay route (sold page + screenshot).
