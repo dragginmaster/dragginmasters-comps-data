@@ -1,0 +1,19 @@
+{
+ "ok": true,
+ "query": "con-cor n scale dl640 -parts -gear -set",
+ "page": 1,
+ "ms": 11697,
+ "no_results": true,
+ "count": 0,
+ "items": [],
+ "cached": false,
+ "cached_age_s": 0,
+ "next_page": false,
+ "days": 1095,
+ "size": 240,
+ "source": "ebay",
+ "hint": {
+  "reason": "no_sales_matched",
+  "detail": "no sales matched this search. Check the spelling, or try fewer words."
+ }
+}
