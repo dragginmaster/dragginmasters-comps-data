@@ -1,7 +1,7 @@
 {
  "updated": "2026-11-08",
  "source": "eBay sold listings, harvested by hand",
- "count": 2034,
+ "count": 2035,
  "comps": [
   {
    "model": "U25B",
@@ -26444,6 +26444,19 @@
    "ebayId": "307212357558",
    "note": "#41; Bachmann 51755; factory DCC (no sound); tested \u2014 runs in both directions, headlight works per seller. OBO listing: no accepted-offer banner on page, API price matches page price.",
    "url": "https://www.ebay.com/itm/307212357558"
+  },
+  {
+   "brand": "Athearn (blue box)",
+   "model": "U28C",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 22.45,
+   "date": "2026-08-25",
+   "ebayId": "398132984599",
+   "note": "Road #2802; track-tested, works; missing handrails, faded paint; control unstated, filed DC",
+   "url": "https://www.ebay.com/itm/398132984599"
   }
  ]
 }
