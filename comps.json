@@ -1,7 +1,7 @@
 {
  "updated": "2026-11-08",
  "source": "eBay sold listings, harvested by hand",
- "count": 2074,
+ "count": 2076,
  "comps": [
   {
    "model": "U25B",
@@ -26964,6 +26964,32 @@
    "ebayId": "227447536061",
    "note": "#4024; DCC & Sound fitted per title and description; running not stated on the page; OBO listing with no accepted-offer banner, sold at the shown price; banked per Don's audit ruling 2026-11-08.",
    "url": "https://www.ebay.com/itm/227447536061"
+  },
+  {
+   "model": "Plymouth ML-8",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DC",
+   "condition": "New",
+   "price": 93.48,
+   "date": "2026-10-04",
+   "ebayId": "366674747553",
+   "note": "Walthers 910-10017 (red); verified spare from the HO depth hunt, banked on Don's word 2026-11-08.",
+   "url": "https://www.ebay.com/itm/366674747553"
+  },
+  {
+   "model": "Plymouth ML-8",
+   "brand": "WalthersMainline",
+   "scale": "HO",
+   "road": "Undecorated",
+   "control": "DC",
+   "condition": "New",
+   "price": 93.48,
+   "date": "2026-09-16",
+   "ebayId": "366335918438",
+   "note": "Walthers 910-10018 (silver); verified spare from the HO depth hunt, banked on Don's word 2026-11-08.",
+   "url": "https://www.ebay.com/itm/366335918438"
   }
  ]
 }
