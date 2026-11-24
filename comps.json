@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "source": "eBay sold listings, harvested by hand",
- "count": 3089,
+ "count": 3090,
  "comps": [
   {
    "model": "U25B",
@@ -40159,6 +40159,19 @@
    "ebayId": "960174861010",
    "note": "Road #6046; Runs well; title DCC Fitted and description with DCC filed as DCC over specifics Power Type DC; box not guaranteed - seller: Will try and find original box; model identified from photos (EMD E-unit, 4 portholes, 3-axle trucks); sold at GBP 75.00",
    "url": "https://www.ebay.com/itm/960174861010"
+  },
+  {
+   "model": "U28C",
+   "brand": "Athearn (blue box)",
+   "scale": "HO",
+   "road": "Union Pacific",
+   "control": "DC",
+   "condition": "Used",
+   "price": 22.45,
+   "date": "2026-08-25",
+   "ebayId": "398132984599",
+   "note": "Road #2802; track-tested, works; missing handrails, faded paint; control unstated, filed DC",
+   "url": "https://www.ebay.com/itm/398132984599"
   }
  ]
 }
